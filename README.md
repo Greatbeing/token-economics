@@ -1,4 +1,4 @@
-# Token Economics | 基于 Token 的 AI 经济学理论框架
+# AI Economics | 基于 Token 的 AI 经济学理论框架
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
