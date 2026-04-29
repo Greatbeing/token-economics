@@ -8,16 +8,16 @@
 
 ## 📄 论文 Paper
 
-- **V2 (最新)**: [基于Token的AI经济学理论框架](paper/基于Token的AI经济学理论框架.md) — 2026
-- **V1**: [Token经济学：基于唯识框架的AI经济学理论框架](paper/v1-Token经济学-理论框架.md) — 2026
+| 版本 | 中文 | English |
+|------|------|---------|
+| V2 (最新) | [基于Token的AI经济学理论框架](paper/基于Token的AI经济学理论框架.md) | [Token-Based AI Economics Framework](paper/en/Token-Based-AI-Economics-Framework.md) |
+| V1 | [Token经济学：基于唯识框架的AI经济学理论框架](paper/v1-Token经济学-理论框架.md) | [Token Economics: AI Economics Framework Based on Yogacara](paper/en/v1-Token-Economics-AI-Economics-Framework-Based-on-Yogacara.md) |
 
-## 🌐 在线阅读
+## 🌐 Wiki
 
-- [网页版（墨绿暖金风格）](https://greatbeing.github.io/token-economics/) — 推荐阅读体验
+完整论文内容以Wiki形式展示，支持章节导航和结构图：
 
-## 💬 微信公众号版
-
-- [wechat-article.html](site/wechat-article.html) — 可直接复制到微信编辑器
+👉 **[阅读 Wiki](https://github.com/Greatbeing/AI-Economics/wiki)**
 
 ## 核心命题
 
