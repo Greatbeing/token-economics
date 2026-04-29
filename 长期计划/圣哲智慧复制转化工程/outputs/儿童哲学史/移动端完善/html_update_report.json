@@ -1,0 +1,48 @@
+{
+  "html_updates": {
+    "total_images_updated": 4,
+    "updates_details": [
+      {
+        "index": 1,
+        "old_src_length": 103,
+        "new_src_length": 39303,
+        "size_reduction_percent": -38058.25242718447
+      },
+      {
+        "index": 2,
+        "old_src_length": 103,
+        "new_src_length": 33239,
+        "size_reduction_percent": -32170.873786407763
+      },
+      {
+        "index": 3,
+        "old_src_length": 103,
+        "new_src_length": 36543,
+        "size_reduction_percent": -35378.64077669903
+      },
+      {
+        "index": 4,
+        "old_src_length": 103,
+        "new_src_length": 27259,
+        "size_reduction_percent": -26365.048543689318
+      }
+    ],
+    "original_html": "outputs/儿童哲学史/手机优化/第一章_手机优化.html",
+    "updated_html": "outputs/儿童哲学史/移动端完善/第一章_移动端完善.html",
+    "css_file": "outputs/儿童哲学史/移动端完善/style_enhanced.css"
+  },
+  "image_compression_summary": {
+    "average_size_reduction": -32993.203883495145,
+    "total_data_uri_length_before": 412,
+    "total_data_uri_length_after": 136344
+  },
+  "mobile_optimization_features": [
+    "图片宽度压缩至380px (适配最小屏幕iPhone SE)",
+    "容器严格宽度限制 (width: 100% !important)",
+    "图片双重保险 (max-width: calc(100% - 10px) !important)",
+    "超小屏幕媒体查询 (≤400px)",
+    "最小屏幕媒体查询 (≤375px)",
+    "防止水平滚动 (overflow-x: hidden)",
+    "正确视口设置 (width=device-width)"
+  ]
+}

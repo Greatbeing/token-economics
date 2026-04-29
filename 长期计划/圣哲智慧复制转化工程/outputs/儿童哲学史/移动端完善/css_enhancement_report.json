@@ -1,0 +1,14 @@
+{
+  "enhancements_added": [
+    "容器严格宽度限制 (width: 100% !important, box-sizing: border-box)",
+    "图片双重保险 (max-width: calc(100% - 10px) !important)",
+    "超小屏幕优化 (≤400px媒体查询)",
+    "最小屏幕优化 (≤375px媒体查询)",
+    "视口和基础响应式确保",
+    "防止水平滚动 (overflow-x: hidden)"
+  ],
+  "has_ultra_small_query": true,
+  "media_queries_count": 6,
+  "input_file": "outputs/儿童哲学史/手机优化/style_phone.css",
+  "output_file": "outputs/儿童哲学史/移动端完善/style_enhanced.css"
+}

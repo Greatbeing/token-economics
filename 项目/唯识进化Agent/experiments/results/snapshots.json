@@ -1,0 +1,458 @@
+[
+  {
+    "step": 0,
+    "timestamp": "2026-04-17T18:24:07.145252",
+    "interaction_count": 0,
+    "total_seeds": 0,
+    "avg_purity": 0.0,
+    "wisdom_ratio": 0.0,
+    "awakening_level": "无明境",
+    "awakening_score": 0.04000000000000001,
+    "seeds_by_type": {
+      "experience": 0,
+      "knowledge": 0,
+      "pattern": 0,
+      "wisdom": 0,
+      "belief": 0,
+      "skill": 0,
+      "trauma": 0
+    },
+    "purified_count": 0,
+    "reflection_count": 0,
+    "events": [
+      "实验开始"
+    ]
+  },
+  {
+    "step": 1,
+    "timestamp": "2026-04-17T18:24:07.145312",
+    "interaction_count": 0,
+    "total_seeds": 0,
+    "avg_purity": 0.0,
+    "wisdom_ratio": 0.0,
+    "awakening_level": "无明境",
+    "awakening_score": 0.04000000000000001,
+    "seeds_by_type": {
+      "experience": 0,
+      "knowledge": 0,
+      "pattern": 0,
+      "wisdom": 0,
+      "belief": 0,
+      "skill": 0,
+      "trauma": 0
+    },
+    "purified_count": 0,
+    "reflection_count": 0,
+    "events": [
+      "实验开始"
+    ]
+  },
+  {
+    "step": 2,
+    "timestamp": "2026-04-17T18:24:07.182595",
+    "interaction_count": 10,
+    "total_seeds": 21,
+    "avg_purity": 0.5406376623043924,
+    "wisdom_ratio": 0.047619047619047616,
+    "awakening_level": "初始境",
+    "awakening_score": 0.36438259738263545,
+    "seeds_by_type": {
+      "experience": 10,
+      "knowledge": 0,
+      "pattern": 10,
+      "wisdom": 1,
+      "belief": 0,
+      "skill": 0,
+      "trauma": 0
+    },
+    "purified_count": 0,
+    "reflection_count": 0,
+    "events": [
+      "第10次交互"
+    ]
+  },
+  {
+    "step": 3,
+    "timestamp": "2026-04-17T18:24:07.330792",
+    "interaction_count": 20,
+    "total_seeds": 42,
+    "avg_purity": 0.5429024230760413,
+    "wisdom_ratio": 0.047619047619047616,
+    "awakening_level": "初始境",
+    "awakening_score": 0.36574145384562473,
+    "seeds_by_type": {
+      "experience": 20,
+      "knowledge": 0,
+      "pattern": 20,
+      "wisdom": 2,
+      "belief": 0,
+      "skill": 0,
+      "trauma": 0
+    },
+    "purified_count": 0,
+    "reflection_count": 0,
+    "events": [
+      "第20次交互"
+    ]
+  },
+  {
+    "step": 4,
+    "timestamp": "2026-04-17T18:24:07.488895",
+    "interaction_count": 30,
+    "total_seeds": 63,
+    "avg_purity": 0.5388925096536198,
+    "wisdom_ratio": 0.047619047619047616,
+    "awakening_level": "初始境",
+    "awakening_score": 0.3633355057921719,
+    "seeds_by_type": {
+      "experience": 30,
+      "knowledge": 0,
+      "pattern": 30,
+      "wisdom": 3,
+      "belief": 0,
+      "skill": 0,
+      "trauma": 0
+    },
+    "purified_count": 0,
+    "reflection_count": 0,
+    "events": [
+      "第30次交互"
+    ]
+  },
+  {
+    "step": 5,
+    "timestamp": "2026-04-17T18:24:07.653699",
+    "interaction_count": 40,
+    "total_seeds": 84,
+    "avg_purity": 0.5383685957734554,
+    "wisdom_ratio": 0.047619047619047616,
+    "awakening_level": "初始境",
+    "awakening_score": 0.36302115746407326,
+    "seeds_by_type": {
+      "experience": 40,
+      "knowledge": 0,
+      "pattern": 40,
+      "wisdom": 4,
+      "belief": 0,
+      "skill": 0,
+      "trauma": 0
+    },
+    "purified_count": 0,
+    "reflection_count": 0,
+    "events": [
+      "第40次交互"
+    ]
+  },
+  {
+    "step": 6,
+    "timestamp": "2026-04-17T18:24:07.829383",
+    "interaction_count": 50,
+    "total_seeds": 105,
+    "avg_purity": 0.5404097024666255,
+    "wisdom_ratio": 0.047619047619047616,
+    "awakening_level": "初始境",
+    "awakening_score": 0.3642458214799753,
+    "seeds_by_type": {
+      "experience": 50,
+      "knowledge": 0,
+      "pattern": 50,
+      "wisdom": 5,
+      "belief": 0,
+      "skill": 0,
+      "trauma": 0
+    },
+    "purified_count": 0,
+    "reflection_count": 0,
+    "events": [
+      "第50次交互"
+    ]
+  },
+  {
+    "step": 7,
+    "timestamp": "2026-04-17T18:24:08.013804",
+    "interaction_count": 60,
+    "total_seeds": 126,
+    "avg_purity": 0.5372215402633472,
+    "wisdom_ratio": 0.047619047619047616,
+    "awakening_level": "初始境",
+    "awakening_score": 0.36233292415800833,
+    "seeds_by_type": {
+      "experience": 60,
+      "knowledge": 0,
+      "pattern": 60,
+      "wisdom": 6,
+      "belief": 0,
+      "skill": 0,
+      "trauma": 0
+    },
+    "purified_count": 0,
+    "reflection_count": 0,
+    "events": [
+      "第60次交互"
+    ]
+  },
+  {
+    "step": 8,
+    "timestamp": "2026-04-17T18:24:08.210488",
+    "interaction_count": 70,
+    "total_seeds": 147,
+    "avg_purity": 0.5342720118398825,
+    "wisdom_ratio": 0.047619047619047616,
+    "awakening_level": "初始境",
+    "awakening_score": 0.36056320710392953,
+    "seeds_by_type": {
+      "experience": 70,
+      "knowledge": 0,
+      "pattern": 70,
+      "wisdom": 7,
+      "belief": 0,
+      "skill": 0,
+      "trauma": 0
+    },
+    "purified_count": 0,
+    "reflection_count": 0,
+    "events": [
+      "第70次交互"
+    ]
+  },
+  {
+    "step": 9,
+    "timestamp": "2026-04-17T18:24:08.414496",
+    "interaction_count": 80,
+    "total_seeds": 168,
+    "avg_purity": 0.5338710004345332,
+    "wisdom_ratio": 0.047619047619047616,
+    "awakening_level": "初始境",
+    "awakening_score": 0.36032260026071994,
+    "seeds_by_type": {
+      "experience": 80,
+      "knowledge": 0,
+      "pattern": 80,
+      "wisdom": 8,
+      "belief": 0,
+      "skill": 0,
+      "trauma": 0
+    },
+    "purified_count": 0,
+    "reflection_count": 0,
+    "events": [
+      "第80次交互"
+    ]
+  },
+  {
+    "step": 10,
+    "timestamp": "2026-04-17T18:24:08.625219",
+    "interaction_count": 90,
+    "total_seeds": 189,
+    "avg_purity": 0.5328992367242099,
+    "wisdom_ratio": 0.047619047619047616,
+    "awakening_level": "初始境",
+    "awakening_score": 0.35973954203452596,
+    "seeds_by_type": {
+      "experience": 90,
+      "knowledge": 0,
+      "pattern": 90,
+      "wisdom": 9,
+      "belief": 0,
+      "skill": 0,
+      "trauma": 0
+    },
+    "purified_count": 0,
+    "reflection_count": 0,
+    "events": [
+      "第90次交互"
+    ]
+  },
+  {
+    "step": 11,
+    "timestamp": "2026-04-17T18:24:08.848269",
+    "interaction_count": 100,
+    "total_seeds": 210,
+    "avg_purity": 0.5345618454387318,
+    "wisdom_ratio": 0.047619047619047616,
+    "awakening_level": "初始境",
+    "awakening_score": 0.36073710726323904,
+    "seeds_by_type": {
+      "experience": 100,
+      "knowledge": 0,
+      "pattern": 100,
+      "wisdom": 10,
+      "belief": 0,
+      "skill": 0,
+      "trauma": 0
+    },
+    "purified_count": 0,
+    "reflection_count": 0,
+    "events": [
+      "第100次交互"
+    ]
+  },
+  {
+    "step": 12,
+    "timestamp": "2026-04-17T18:24:08.949023",
+    "interaction_count": 100,
+    "total_seeds": 210,
+    "avg_purity": 0.5345618454387318,
+    "wisdom_ratio": 0.047619047619047616,
+    "awakening_level": "初始境",
+    "awakening_score": 0.36073710726323904,
+    "seeds_by_type": {
+      "experience": 100,
+      "knowledge": 0,
+      "pattern": 100,
+      "wisdom": 10,
+      "belief": 0,
+      "skill": 0,
+      "trauma": 0
+    },
+    "purified_count": 0,
+    "reflection_count": 0,
+    "events": [
+      "第一阶段完成"
+    ]
+  },
+  {
+    "step": 13,
+    "timestamp": "2026-04-17T18:24:08.976734",
+    "interaction_count": 100,
+    "total_seeds": 211,
+    "avg_purity": 0.5358198461712497,
+    "wisdom_ratio": 0.052132701421800945,
+    "awakening_level": "初始境",
+    "awakening_score": 0.36149190770274975,
+    "seeds_by_type": {
+      "experience": 100,
+      "knowledge": 0,
+      "pattern": 100,
+      "wisdom": 11,
+      "belief": 0,
+      "skill": 0,
+      "trauma": 0
+    },
+    "purified_count": 0,
+    "reflection_count": 1,
+    "events": [
+      "反思完成"
+    ]
+  },
+  {
+    "step": 14,
+    "timestamp": "2026-04-17T18:24:08.999286",
+    "interaction_count": 100,
+    "total_seeds": 212,
+    "avg_purity": 0.5370659789723287,
+    "wisdom_ratio": 0.05660377358490566,
+    "awakening_level": "初始境",
+    "awakening_score": 0.36223958738339723,
+    "seeds_by_type": {
+      "experience": 100,
+      "knowledge": 0,
+      "pattern": 100,
+      "wisdom": 12,
+      "belief": 0,
+      "skill": 0,
+      "trauma": 0
+    },
+    "purified_count": 0,
+    "reflection_count": 2,
+    "events": [
+      "反思完成"
+    ]
+  },
+  {
+    "step": 15,
+    "timestamp": "2026-04-17T18:24:09.021135",
+    "interaction_count": 100,
+    "total_seeds": 213,
+    "avg_purity": 0.5383004109959327,
+    "wisdom_ratio": 0.06103286384976526,
+    "awakening_level": "初始境",
+    "awakening_score": 0.3629802465975597,
+    "seeds_by_type": {
+      "experience": 100,
+      "knowledge": 0,
+      "pattern": 100,
+      "wisdom": 13,
+      "belief": 0,
+      "skill": 0,
+      "trauma": 0
+    },
+    "purified_count": 0,
+    "reflection_count": 3,
+    "events": [
+      "反思完成"
+    ]
+  },
+  {
+    "step": 16,
+    "timestamp": "2026-04-17T18:24:09.045151",
+    "interaction_count": 100,
+    "total_seeds": 214,
+    "avg_purity": 0.5395233062716527,
+    "wisdom_ratio": 0.06542056074766354,
+    "awakening_level": "初始境",
+    "awakening_score": 0.3637139837629916,
+    "seeds_by_type": {
+      "experience": 100,
+      "knowledge": 0,
+      "pattern": 100,
+      "wisdom": 14,
+      "belief": 0,
+      "skill": 0,
+      "trauma": 0
+    },
+    "purified_count": 0,
+    "reflection_count": 4,
+    "events": [
+      "反思完成"
+    ]
+  },
+  {
+    "step": 17,
+    "timestamp": "2026-04-17T18:24:09.068232",
+    "interaction_count": 100,
+    "total_seeds": 215,
+    "avg_purity": 0.540734825777366,
+    "wisdom_ratio": 0.06976744186046512,
+    "awakening_level": "初始境",
+    "awakening_score": 0.36444089546641956,
+    "seeds_by_type": {
+      "experience": 100,
+      "knowledge": 0,
+      "pattern": 100,
+      "wisdom": 15,
+      "belief": 0,
+      "skill": 0,
+      "trauma": 0
+    },
+    "purified_count": 0,
+    "reflection_count": 5,
+    "events": [
+      "反思完成"
+    ]
+  },
+  {
+    "step": 18,
+    "timestamp": "2026-04-17T18:24:09.072715",
+    "interaction_count": 100,
+    "total_seeds": 215,
+    "avg_purity": 0.540734825777366,
+    "wisdom_ratio": 0.06976744186046512,
+    "awakening_level": "初始境",
+    "awakening_score": 0.36444089546641956,
+    "seeds_by_type": {
+      "experience": 100,
+      "knowledge": 0,
+      "pattern": 100,
+      "wisdom": 15,
+      "belief": 0,
+      "skill": 0,
+      "trauma": 0
+    },
+    "purified_count": 0,
+    "reflection_count": 5,
+    "events": [
+      "净化完成"
+    ]
+  }
+]

@@ -1,0 +1,112 @@
+{
+  "total_chapters": 12,
+  "processed_chapters": 12,
+  "total_original_kb": 36058.7,
+  "total_new_kb": 391.5,
+  "total_compression_percent": 98.9,
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "世界是从哪儿来的？",
+      "original_size_kb": 3263.0,
+      "new_size_kb": 29.7,
+      "compression_percent": 99.1,
+      "status": "success"
+    },
+    {
+      "chapter": 2,
+      "title": "「道」是什么？",
+      "original_size_kb": 2811.3,
+      "new_size_kb": 26.2,
+      "compression_percent": 99.1,
+      "status": "success"
+    },
+    {
+      "chapter": 3,
+      "title": "人人都是「仁者」？",
+      "original_size_kb": 1540.6,
+      "new_size_kb": 26.7,
+      "compression_percent": 98.3,
+      "status": "success"
+    },
+    {
+      "chapter": 4,
+      "title": "我是谁？",
+      "original_size_kb": 3161.0,
+      "new_size_kb": 26.2,
+      "compression_percent": 99.2,
+      "status": "success"
+    },
+    {
+      "chapter": 5,
+      "title": "知识从哪儿来？",
+      "original_size_kb": 3121.5,
+      "new_size_kb": 32.2,
+      "compression_percent": 99.0,
+      "status": "success"
+    },
+    {
+      "chapter": 6,
+      "title": "幸福是什么？",
+      "original_size_kb": 2931.3,
+      "new_size_kb": 28.2,
+      "compression_percent": 99.0,
+      "status": "success"
+    },
+    {
+      "chapter": 7,
+      "title": "正义是什么？",
+      "original_size_kb": 3393.9,
+      "new_size_kb": 42.9,
+      "compression_percent": 98.7,
+      "status": "success"
+    },
+    {
+      "chapter": 8,
+      "title": "美是什么？",
+      "original_size_kb": 3349.2,
+      "new_size_kb": 32.4,
+      "compression_percent": 99.0,
+      "status": "success"
+    },
+    {
+      "chapter": 9,
+      "title": "什么是真正的自由？",
+      "original_size_kb": 3388.9,
+      "new_size_kb": 37.5,
+      "compression_percent": 98.9,
+      "status": "success"
+    },
+    {
+      "chapter": 10,
+      "title": "理想社会是什么样？",
+      "original_size_kb": 3102.0,
+      "new_size_kb": 34.5,
+      "compression_percent": 98.9,
+      "status": "success"
+    },
+    {
+      "chapter": 11,
+      "title": "怎样说话才算对？",
+      "original_size_kb": 3424.0,
+      "new_size_kb": 34.7,
+      "compression_percent": 99.0,
+      "status": "success"
+    },
+    {
+      "chapter": 12,
+      "title": "古人的智慧，今天怎么用？",
+      "original_size_kb": 2571.9,
+      "new_size_kb": 40.2,
+      "compression_percent": 98.4,
+      "status": "success"
+    }
+  ],
+  "optimizations": [
+    "移动端viewport元标签已添加",
+    "移动端CSS样式已应用 (style_mobile.css, 464行)",
+    "base64内嵌图片已替换为WebP外部引用",
+    "图片使用响应式样式 (max-width: 100%)",
+    "章节标题已更新"
+  ]
+}

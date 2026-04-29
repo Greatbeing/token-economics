@@ -1,0 +1,11 @@
+{
+  "seed_id": "seed_1c972b65ebc8",
+  "seed_type": "SKILL",
+  "name": "多Agent协作",
+  "content": "主Agent负责任务规划和质量把控，sub-agent负责具体执行，通过MEMORY.md传递上下文。",
+  "weight": 0.7,
+  "purity": 0.75,
+  "source": "skill_development",
+  "tags": [],
+  "created_at": "2026-04-17T21:32:56.176437"
+}

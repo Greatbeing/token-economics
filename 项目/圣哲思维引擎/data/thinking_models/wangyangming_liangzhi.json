@@ -1,0 +1,238 @@
+{
+  "model_id": "wang_yangming_liangzhi_001",
+  "version": "1.0",
+  "status": "published",
+  
+  "基本信息": {
+    "sage_name": "王阳明",
+    "sage_name_en": "Wang Yangming",
+    "sage_culture": "Chinese",
+    "sage_period": "明代（1472-1529）",
+    "sage_icon": "🌟",
+    "model_name": "知行合一",
+    "model_name_en": "Unity of Knowledge and Action"
+  },
+  
+  "核心概念": {
+    "primary_concept": "知行合一",
+    "concept_definition": "知是行的开始，行是知的完成；知行不可分，真知必能行",
+    "concept_explained": "王阳明认为，知道和做到是一体的。真正的'知'必然会转化为'行'，如果'知'了却'不行'，说明那个'知'不是真知。知行合一就是让良知自然发用于行动。",
+    "concept_level": ["入门-理解知行一体", "理解-区分真知假知", "运用-致良知", "化境-知行合一"],
+    "concept_keywords": ["知行合一", "致良知", "心即理", "事上磨练", "格物", "良知", "心外无物"]
+  },
+  
+  "思维流程": {
+    "flow_name": "致良知四步",
+    "flow_type": "linear",
+    "steps": [
+      {
+        "step_id": 1,
+        "step_name": "致知",
+        "description": "在事事物物上格除私欲，恢复本心良知",
+        "question_prompt": "在这件事上，我的私心杂念是什么？良知告诉我应该怎么做？",
+        "skill_focused": "良知觉察",
+        "common_pitfall": "用脑子想，用私欲判断",
+        "tip": "良知不在脑里，在心里；静下心来问良知"
+      },
+      {
+        "step_id": 2,
+        "step_name": "辨知",
+        "description": "区分是真知还是假知，是私欲还是天理",
+        "question_prompt": "我以为的'知道'是真的知道吗？还是自欺欺人？",
+        "skill_focused": "真知辨别",
+        "common_pitfall": "把欲望当良知",
+        "tip": "良知如明镜，私欲如尘埃；看清镜子上有没有尘"
+      },
+      {
+        "step_id": 3,
+        "step_name": "格行",
+        "description": "在行动中落实所知，克服私欲",
+        "question_prompt": "我现在要做什么？行动中会遇到什么障碍？",
+        "skill_focused": "行动执行",
+        "common_pitfall": "想太多不行动",
+        "tip": "事上磨练，在事上检验和锻炼心性"
+      },
+      {
+        "step_id": 4,
+        "step_name": "证知",
+        "description": "通过行动验证和深化认知",
+        "question_prompt": "行动之后，我对这件事有了什么新的理解？",
+        "skill_focused": "知行互证",
+        "common_pitfall": "行动后不反思",
+        "tip": "行然后知不足；知行互相促进螺旋上升"
+      }
+    ],
+    "flow_summary": "致知 → 辨知 → 格行 → 证知"
+  },
+  
+  "可复刻技能": [
+    {
+      "skill_name": "良知觉察",
+      "skill_description": "在纷繁中听到内心良知声音的能力",
+      "difficulty": 4,
+      "practice_focus": "心静感应",
+      "skill_level_desc": {
+        "L1": "能在安静时感应良知",
+        "L2": "能在小事上听从良知",
+        "L3": "能在大事上不违良知",
+        "L4": "良知时刻发用流行"
+      }
+    },
+    {
+      "skill_name": "知行转化",
+      "skill_description": "将认知快速转化为行动的能力",
+      "difficulty": 3,
+      "practice_focus": "行动启动",
+      "skill_level_desc": {
+        "L1": "知道后愿意行动",
+        "L2": "能克服惰性开始行动",
+        "L3": "行动自然流畅",
+        "L4": "知与行完全合一"
+      }
+    },
+    {
+      "skill_name": "事上磨练",
+      "skill_description": "在具体事情中修炼心性的能力",
+      "difficulty": 4,
+      "practice_focus": "逆境成长",
+      "skill_level_desc": {
+        "L1": "遇到困难能坚持",
+        "L2": "能把困难当修炼机会",
+        "L3": "在事上不断精进",
+        "L4": "任何事都是修炼道场"
+      }
+    }
+  ],
+  
+  "适用场景": [
+    {
+      "scene_type": "知而不行",
+      "scene_description": "明知道应该做却就是做不到时",
+      "application_hint": "反思这个'知'是真知还是假知？真正的知道必然带来行动"
+    },
+    {
+      "scene_type": "道德困境",
+      "scene_description": "面临道德选择时",
+      "application_hint": "静下心来问良知，良知自有答案"
+    },
+    {
+      "scene_type": "学习困境",
+      "scene_description": "学习懈怠、找不到意义时",
+      "application_hint": "思考学习的'知'如何转化为'行'？为谁而学？"
+    },
+    {
+      "scene_type": "人际冲突",
+      "scene_description": "与他人发生冲突时",
+      "application_hint": "在事上磨练心性，不逃避、不冲动、不怨人"
+    }
+  ],
+  
+  "经典语录": [
+    {
+      "quote": "知是行的开始，行是知的完成",
+      "source": "《传习录》",
+      "interpretation": "知和行不是两件事，而是一件事的两个方面。"
+    },
+    {
+      "quote": "知行合一",
+      "source": "《传习录》",
+      "interpretation": "真知必然能行，不能行就不是真知。"
+    },
+    {
+      "quote": "致良知",
+      "source": "《传习录》",
+      "interpretation": "把被私欲遮蔽的良知显现出来，并落实到行动中。"
+    },
+    {
+      "quote": "知行本体",
+      "source": "《传习录》",
+      "interpretation": "知和行本来就是一体的，这是知行的本来面目。"
+    },
+    {
+      "quote": "事上磨练",
+      "source": "《传习录》",
+      "interpretation": "不是在静坐中修养心性，而是在具体事情上锻炼。"
+    }
+  ],
+  
+  "练习题模板": [
+    {
+      "template_id": "wang_yangming_liangzhi_001_p1",
+      "template_name": "知行检验",
+      "template_type": "reflection",
+      "difficulty": 2,
+      "estimated_time": "10分钟",
+      "prompt": "找一个你'知道但没做到'的事：\n\n【事项】{unfulfilled}\n\n思考：\n1. 我真的'知道'这件事应该做吗？\n2. 如果是真知，为什么没做到？\n3. 是因为不知道，还是因为'知'得不彻底？\n4. 如何让'知'更深入，从而引发'行'？"
+    },
+    {
+      "template_id": "wang_yangming_liangzhi_001_p2",
+      "template_name": "良知叩问",
+      "template_type": "introspection",
+      "difficulty": 3,
+      "estimated_time": "15分钟",
+      "prompt": "面对一个让你纠结的选择：\n\n【情境】{dilemma}\n\n静下心来问自己：\n1. 抛开利弊得失，良知告诉我应该怎么做？\n2. 让我纠结的是什么？是私欲吗？\n3. 如果按照良知行动，我会怎样？\n4. 我有勇气按良知行动吗？"
+    },
+    {
+      "template_id": "wang_yangming_liangzhi_001_p3",
+      "template_name": "事上磨练",
+      "template_type": "practice",
+      "difficulty": 4,
+      "estimated_time": "持续",
+      "prompt": "选择一个你正在面对的挑战：\n\n【挑战】{challenge}\n\n用王阳明的思维来应对：\n1. 【格物】这件事要解决的核心问题是什么？\n2. 【致知】在这件事上，良知如何指引我？\n3. 【诚意】我是否有私心杂念在干扰？\n4. 【正心】如何做到'不动心'又不消极？\n5. 【行动】具体的第一步行动是什么？"
+    }
+  ],
+  
+  "种子信息": {
+    "seed_type": "integrated",
+    "primary_seeds": ["良知种子", "知行种子", "事上磨练种子", "心即理种子"],
+    "seed_weights": {
+      "perception": 0.30,
+      "reasoning": 0.30,
+      "decision": 0.40
+    },
+    "purity_baseline": 0.85,
+    "growth_potential": "very_high",
+    "related_seeds": ["孔子仁学种子", "孟子心性种子", "佛陀觉察种子"]
+  },
+  
+  "与其他模型的关系": {
+    "prerequisites": ["mencius_heart_001", "confucius_ren_001"],
+    "complements": [
+      {
+        "model_id": "confucius_ren_001",
+        "relation": "心学发源",
+        "description": "王阳明心学是儒家思想的重要发展，仁学是基础"
+      },
+      {
+        "model_id": "mencius_heart_001",
+        "relation": "直接继承",
+        "description": "王阳明直接继承孟子心性论，提出致良知"
+      }
+    ],
+    "contrasts": [
+      {
+        "model_id": "aristotle_logic_001",
+        "relation": "东西对话",
+        "description": "亚里士多德强调知识积累，王阳明强调良知行动；一个是外向知识论，一个是内向心性论"
+      }
+    ]
+  },
+  
+  "评估维度": {
+    "dimensions": [
+      {"name": "良知感应", "weight": 0.30, "description": "感应良知的清晰度"},
+      {"name": "知行转化", "weight": 0.35, "description": "知转化为行的效率"},
+      {"name": "事上磨练", "weight": 0.35, "description": "在事上修炼的程度"}
+    ],
+    "excellent_threshold": 0.80,
+    "good_threshold": 0.65,
+    "average_threshold": 0.50
+  },
+  
+  "视觉设计": {
+    "primary_color": "#3498DB",
+    "secondary_color": "#AED6F1",
+    "icon": "🌟",
+    "symbol": "知行"
+  }
+}

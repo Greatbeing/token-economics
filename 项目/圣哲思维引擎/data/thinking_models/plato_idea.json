@@ -1,0 +1,229 @@
+{
+  "model_id": "plato_idea_001",
+  "version": "1.0",
+  "status": "published",
+  
+  "基本信息": {
+    "sage_name": "柏拉图",
+    "sage_name_en": "Plato",
+    "sage_culture": "Western",
+    "sage_period": "古希腊（约公元前428-前348年）",
+    "sage_icon": "🔺",
+    "model_name": "理念论思维",
+    "model_name_en": "Theory of Forms"
+  },
+  
+  "核心概念": {
+    "primary_concept": "理念",
+    "concept_definition": "可感世界之外存在永恒不变的理念世界，事物因分有理念而存在",
+    "concept_explained": "柏拉图认为，我们看到的世界只是'影子'，真正实在的是'理念世界'。美本身是美的，圆的理念是绝对的圆。具体事物是理念的不完美复制。认识就是回忆灵魂曾经知道的理念。",
+    "concept_level": ["入门-理解两个世界", "理解-理念与事物", "运用-追求本质", "化境-灵魂回忆"],
+    "concept_keywords": ["理念", "形式", "洞穴", "回忆", "善本身", "爱智慧", "哲学家王"]
+  },
+  
+  "思维流程": {
+    "flow_name": "理念追求三步",
+    "flow_type": "linear",
+    "steps": [
+      {
+        "step_id": 1,
+        "step_name": "质疑现象",
+        "description": "不满足于表面现象，追问背后本质",
+        "question_prompt": "这只是表象吗？什么是它真正的本质？",
+        "skill_focused": "本质追问",
+        "common_pitfall": "把表象当本质",
+        "tip": "现象是认识本质的起点，但不是终点"
+      },
+      {
+        "step_id": 2,
+        "step_name": "上升理念",
+        "description": "从具体事物上升到抽象概念，从个别上升到一般",
+        "question_prompt": "这些事物的共同本质是什么？什么是X本身？",
+        "skill_focused": "抽象概括",
+        "common_pitfall": "停留在具体层面",
+        "tip": "从具体到抽象，从个别到一般"
+      },
+      {
+        "step_id": 3,
+        "step_name": "回归实践",
+        "description": "用理念指导具体实践",
+        "question_prompt": "认识到X的理念后，我应该怎么做？",
+        "skill_focused": "理念应用",
+        "common_pitfall": "理念与实践脱节",
+        "tip": "认识理念是为了更好地行动"
+      }
+    ],
+    "flow_summary": "质疑现象 → 上升理念 → 回归实践"
+  },
+  
+  "可复刻技能": [
+    {
+      "skill_name": "本质追问",
+      "skill_description": "不满足于表象，追问背后本质的能力",
+      "difficulty": 3,
+      "practice_focus": "穿透表象",
+      "skill_level_desc": {
+        "L1": "能问'为什么'",
+        "L2": "能追问多层原因",
+        "L3": "能发现隐藏假设",
+        "L4": "能接近本质"
+      }
+    },
+    {
+      "skill_name": "抽象思维",
+      "skill_description": "从具体事物中提炼抽象概念的能力",
+      "difficulty": 4,
+      "practice_focus": "概念形成",
+      "skill_level_desc": {
+        "L1": "能识别共同特征",
+        "L2": "能形成初步概念",
+        "L3": "能提炼本质概念",
+        "L4": "能运用抽象概念思考"
+      }
+    },
+    {
+      "skill_name": "理想追求",
+      "skill_description": "追求更高理想，不满足于平庸的能力",
+      "difficulty": 4,
+      "practice_focus": "理想导向",
+      "skill_level_desc": {
+        "L1": "有追求更好的意识",
+        "L2": "能设定理想目标",
+        "L3": "能以理想指引行动",
+        "L4": "能达到较高境界"
+      }
+    }
+  ],
+  
+  "适用场景": [
+    {
+      "scene_type": "概念学习",
+      "scene_description": "学习抽象概念时",
+      "application_hint": "追问概念的本质，不满足于字面定义"
+    },
+    {
+      "scene_type": "价值思考",
+      "scene_description": "思考什么是真正的善、美、正义时",
+      "application_hint": "区分具体的善和'善本身'"
+    },
+    {
+      "scene_type": "人生规划",
+      "scene_description": "思考人生方向和目标时",
+      "application_hint": "超越眼前得失，追问人生真正的意义"
+    },
+    {
+      "scene_type": "哲学启蒙",
+      "scene_description": "对存在、知识、价值产生根本疑问时",
+      "application_hint": "走出'洞穴'，追求真理之光"
+    }
+  ],
+  
+  "经典语录": [
+    {
+      "quote": "洞穴比喻",
+      "source": "《理想国》",
+      "interpretation": "囚徒们背对洞口，只能看到火光投射的影子。哲学家是那个走出洞穴看到阳光的人，任务是把光明带回洞穴。"
+    },
+    {
+      "quote": "爱智慧",
+      "source": "Philosophy = Philia + Sophia",
+      "interpretation": "哲学是对智慧的热爱，不是拥有智慧，而是追求智慧的过程。"
+    },
+    {
+      "quote": "理念是永恒不变的",
+      "source": "《对话录》",
+      "interpretation": "理念世界是永恒不变的，可感世界是变化生灭的。认识理念就是认识永恒。"
+    },
+    {
+      "quote": "认识即回忆",
+      "source": "《对话录》",
+      "interpretation": "灵魂在进入身体之前已经认识理念，学习只是回忆。"
+    }
+  ],
+  
+  "练习题模板": [
+    {
+      "template_id": "plato_idea_001_p1",
+      "template_name": "洞穴走出练习",
+      "template_type": "reflection",
+      "difficulty": 3,
+      "estimated_time": "15分钟",
+      "prompt": "选择一个你一直相信的观点，尝试'走出洞穴'：\n\n【观点】{belief}\n\n思考：\n1. 这个观点的'影子'是什么？它代表了什么更本质的东西？\n2. 如果走出洞穴，看到'阳光'，这个观点会有什么不同？\n3. 你愿意走出来吗？"
+    },
+    {
+      "template_id": "plato_idea_001_p2",
+      "template_name": "本质追求",
+      "template_type": "analysis",
+      "difficulty": 3,
+      "estimated_time": "15分钟",
+      "prompt": "用理念论思维分析一个你关心的概念：\n\n【概念】{concept}\n\n思考：\n1. 【质疑】具体的X有很多种，它们有什么共同点？\n2. 【抽象】什么是X的'理念'？X本身是什么？\n3. 【反思】我对X的理解接近X的理念吗？\n4. 【应用】认识到X的理念后，我应该怎么做？"
+    },
+    {
+      "template_id": "plato_idea_001_p3",
+      "template_name": "人生洞穴反思",
+      "template_type": "reflection",
+      "difficulty": 4,
+      "estimated_time": "20分钟",
+      "prompt": "柏拉图的洞穴比喻启发我们思考：\n\n【问题】\n\n1. 你现在处于'洞穴'的什么位置？被什么'影子'束缚着？\n2. 是什么阻止你'走出洞穴'？\n3. 如果走出洞穴，你会看到什么？\n4. 你愿意承担走出洞穴的痛苦吗？\n5. 你愿意把光明带回洞穴吗？"
+    }
+  ],
+  
+  "种子信息": {
+    "seed_type": "philosophical",
+    "primary_seeds": ["本质种子", "抽象种子", "理想种子", "超越种子"],
+    "seed_weights": {
+      "perception": 0.30,
+      "reasoning": 0.45,
+      "decision": 0.25
+    },
+    "purity_baseline": 0.82,
+    "growth_potential": "high",
+    "related_seeds": ["苏格拉底追问种子", "亚里士多德逻辑种子", "佛陀空性种子"]
+  },
+  
+  "与其他模型的关系": {
+    "prerequisites": ["socrates_maieutic_001"],
+    "complements": [
+      {
+        "model_id": "socrates_maieutic_001",
+        "relation": "师生传承",
+        "description": "柏拉图是苏格拉底的学生，理念论是苏格拉底对话的哲学升华"
+      },
+      {
+        "model_id": "aristotle_logic_001",
+        "relation": "批判继承",
+        "description": "亚里士多德虽然批判理念论，但继承了柏拉图对真理的追求"
+      }
+    ],
+    "contrasts": [
+      {
+        "model_id": "aristotle_logic_001",
+        "relation": "对立互补",
+        "description": "柏拉图重视理念世界轻视经验，亚里士多德重视经验世界；两者互补"
+      },
+      {
+        "model_id": "laozi_wuwei_001",
+        "relation": "东西对话",
+        "description": "柏拉图的理念世界与老子的道有相似之处，都是追求现象背后的本质"
+      }
+    ]
+  },
+  
+  "评估维度": {
+    "dimensions": [
+      {"name": "本质追问", "weight": 0.35, "description": "追问本质的程度"},
+      {"name": "抽象能力", "weight": 0.35, "description": "从具体到抽象的能力"},
+      {"name": "理想追求", "weight": 0.30, "description": "追求理想的程度"}
+    ],
+    "excellent_threshold": 0.78,
+    "good_threshold": 0.62,
+    "average_threshold": 0.45
+  },
+  
+  "视觉设计": {
+    "primary_color": "#8E44AD",
+    "secondary_color": "#D7BDE2",
+    "icon": "🔺",
+    "symbol": "理念"
+  }
+}

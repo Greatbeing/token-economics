@@ -1,0 +1,255 @@
+/* 《儿童版中国哲学史》PDF优化样式 - 修复版 */
+/* 修复字体和图片显示问题 */
+
+/* 基础设置 */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    /* 使用系统中可用的中文字体 */
+    font-family: "Noto Serif CJK SC", "Source Han Serif CN", "WenQuanYi Micro Hei", 
+                 "AR PL UMing CN", "AR PL ShanHeiSun Uni", "SimSun", serif;
+    font-size: 16px;
+    line-height: 1.8;
+    color: #333333;
+    background-color: white;
+    max-width: 100%;
+    margin: 0;
+    padding: 20mm;
+    text-align: justify;
+    /* 确保中文断行正确 */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+}
+
+/* 标题系统 - 使用衬线字体 */
+h1, h2, h3, h4 {
+    font-family: "Noto Serif CJK SC", "Source Han Serif CN", "SimSun", serif;
+    font-weight: bold;
+    page-break-after: avoid;
+}
+
+h1 {
+    font-size: 28px;
+    color: #FF8F00;
+    margin-top: 30px;
+    margin-bottom: 25px;
+    text-align: center;
+    border-bottom: 2px solid #FFCC80;
+    padding-bottom: 12px;
+}
+
+h2 {
+    font-size: 22px;
+    color: #1565C0;
+    margin-top: 25px;
+    margin-bottom: 18px;
+    border-bottom: 1px solid #90CAF9;
+    padding-bottom: 8px;
+}
+
+h3 {
+    font-size: 18px;
+    color: #5D4037;
+    margin-top: 20px;
+    margin-bottom: 12px;
+}
+
+h4 {
+    font-size: 16px;
+    color: #333333;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+/* 段落样式 */
+p {
+    margin-bottom: 14px;
+    text-indent: 2em;
+    /* 确保中文标点正确 */
+    hanging-punctuation: first last;
+}
+
+/* 列表样式 */
+ul, ol {
+    margin-left: 1.5em;
+    margin-bottom: 14px;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+/* 表格样式 */
+table {
+    border-collapse: collapse;
+    margin: 20px 0;
+    width: 100%;
+    font-size: 14px;
+}
+
+th, td {
+    border: 1px solid #BDBDBD;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #F5F5F5;
+    font-weight: bold;
+}
+
+/* ========== 图片样式 - 修复比例问题 ========== */
+img {
+    /* 关键修复：确保图片按比例缩放 */
+    max-width: 100% !important;
+    width: 100%;
+    height: auto !important;
+    display: block;
+    margin: 15px auto;
+    border-radius: 6px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    /* 避免图片跨页 */
+    page-break-inside: avoid;
+}
+
+/* 章节图片特殊样式 */
+.chapter-image {
+    text-align: center;
+    margin: 20px 0;
+    page-break-inside: avoid;
+}
+
+.chapter-image img {
+    max-width: 100% !important;
+    height: auto !important;
+    max-height: 350px;
+    object-fit: contain;
+}
+
+/* 人物图片 */
+.character-portrait {
+    text-align: center;
+    margin: 15px 0;
+}
+
+.character-portrait img {
+    max-width: 200px !important;
+    width: 200px;
+    height: auto !important;
+    border-radius: 50%;
+    border: 3px solid #FFCC80;
+}
+
+/* ========== 特殊内容样式 ========== */
+
+/* 思想剧场 */
+.thought-theater {
+    background: linear-gradient(135deg, #FFF8E1, #FFECB3);
+    border-left: 4px solid #FFB300;
+    padding: 15px 20px;
+    margin: 20px 0;
+    border-radius: 8px;
+    font-size: 15px;
+}
+
+/* 思考角 */
+.think-about {
+    background: linear-gradient(135deg, #E3F2FD, #BBDEFB);
+    border-left: 4px solid #2196F3;
+    padding: 12px 18px;
+    margin: 15px 0;
+    border-radius: 6px;
+    font-style: italic;
+}
+
+/* 古语栏 */
+.ancient-say {
+    background: #FAFAFA;
+    border: 1px solid #E0E0E0;
+    padding: 12px 20px;
+    margin: 15px 0;
+    border-radius: 4px;
+    font-family: "Noto Serif CJK SC", "KaiTi", "楷体", serif;
+    text-align: center;
+    font-size: 15px;
+}
+
+/* 全球望远镜 */
+.global-telescope {
+    background: linear-gradient(135deg, #E8F5E9, #C8E6C9);
+    border-left: 4px solid #4CAF50;
+    padding: 12px 18px;
+    margin: 15px 0;
+    border-radius: 6px;
+}
+
+/* 小词典 */
+.mini-dictionary {
+    background: #F5F5F5;
+    padding: 10px 15px;
+    margin: 12px 0;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.mini-dictionary dt {
+    font-weight: bold;
+    color: #5D4037;
+}
+
+/* 章节练习 */
+.chapter-exercise {
+    background: linear-gradient(135deg, #FFF3E0, #FFE0B2);
+    padding: 15px 20px;
+    margin: 20px 0;
+    border-radius: 8px;
+}
+
+/* 响应式设计 - 打印优化 */
+@media print {
+    body {
+        font-size: 12pt;
+        line-height: 1.6;
+        padding: 0;
+    }
+    
+    h1 {
+        font-size: 22pt;
+    }
+    
+    h2 {
+        font-size: 16pt;
+    }
+    
+    img {
+        max-width: 100%;
+        height: auto;
+        page-break-inside: avoid;
+    }
+    
+    .thought-theater,
+    .think-about,
+    .ancient-say,
+    .global-telescope {
+        page-break-inside: avoid;
+    }
+}
+
+/* 确保PDF中文显示 */
+@page {
+    size: A4;
+    margin: 15mm;
+    
+    @top-center {
+        content: counter(page);
+    }
+}
+
+@page:first {
+    margin-top: 0;
+}

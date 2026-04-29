@@ -1,0 +1,591 @@
+{
+  "total": 73,
+  "success": 73,
+  "failed": 0,
+  "results": [
+    {
+      "original": "ch10_scene1.jpg",
+      "optimized": "ch10_scene1.webp",
+      "original_size": 573703,
+      "new_size": 30916,
+      "compression": "94.6%",
+      "status": "success"
+    },
+    {
+      "original": "ch10_scene2.jpg",
+      "optimized": "ch10_scene2.webp",
+      "original_size": 573064,
+      "new_size": 27958,
+      "compression": "95.1%",
+      "status": "success"
+    },
+    {
+      "original": "ch10_scene3.jpg",
+      "optimized": "ch10_scene3.webp",
+      "original_size": 618097,
+      "new_size": 36924,
+      "compression": "94.0%",
+      "status": "success"
+    },
+    {
+      "original": "ch10_scene4.jpg",
+      "optimized": "ch10_scene4.webp",
+      "original_size": 591246,
+      "new_size": 31770,
+      "compression": "94.6%",
+      "status": "success"
+    },
+    {
+      "original": "ch11_scene1.jpg",
+      "optimized": "ch11_scene1.webp",
+      "original_size": 727735,
+      "new_size": 45794,
+      "compression": "93.7%",
+      "status": "success"
+    },
+    {
+      "original": "ch11_scene2.jpg",
+      "optimized": "ch11_scene2.webp",
+      "original_size": 623332,
+      "new_size": 31100,
+      "compression": "95.0%",
+      "status": "success"
+    },
+    {
+      "original": "ch11_scene3.jpg",
+      "optimized": "ch11_scene3.webp",
+      "original_size": 614120,
+      "new_size": 30866,
+      "compression": "95.0%",
+      "status": "success"
+    },
+    {
+      "original": "ch11_scene4.jpg",
+      "optimized": "ch11_scene4.webp",
+      "original_size": 638058,
+      "new_size": 37008,
+      "compression": "94.2%",
+      "status": "success"
+    },
+    {
+      "original": "ch12_scene1.jpg",
+      "optimized": "ch12_scene1.webp",
+      "original_size": 733558,
+      "new_size": 44812,
+      "compression": "93.9%",
+      "status": "success"
+    },
+    {
+      "original": "ch12_scene2.jpg",
+      "optimized": "ch12_scene2.webp",
+      "original_size": 553794,
+      "new_size": 27752,
+      "compression": "95.0%",
+      "status": "success"
+    },
+    {
+      "original": "ch12_scene3.jpg",
+      "optimized": "ch12_scene3.webp",
+      "original_size": 657278,
+      "new_size": 39430,
+      "compression": "94.0%",
+      "status": "success"
+    },
+    {
+      "original": "ch1_scene1.jpg",
+      "optimized": "ch1_scene1.webp",
+      "original_size": 681539,
+      "new_size": 34260,
+      "compression": "95.0%",
+      "status": "success"
+    },
+    {
+      "original": "ch1_scene2.jpg",
+      "optimized": "ch1_scene2.webp",
+      "original_size": 649103,
+      "new_size": 28140,
+      "compression": "95.7%",
+      "status": "success"
+    },
+    {
+      "original": "ch1_scene3.jpg",
+      "optimized": "ch1_scene3.webp",
+      "original_size": 645596,
+      "new_size": 32256,
+      "compression": "95.0%",
+      "status": "success"
+    },
+    {
+      "original": "ch1_scene4.jpg",
+      "optimized": "ch1_scene4.webp",
+      "original_size": 507249,
+      "new_size": 23072,
+      "compression": "95.5%",
+      "status": "success"
+    },
+    {
+      "original": "ch2_scene1.jpg",
+      "optimized": "ch2_scene1.webp",
+      "original_size": 652665,
+      "new_size": 24142,
+      "compression": "96.3%",
+      "status": "success"
+    },
+    {
+      "original": "ch2_scene2.jpg",
+      "optimized": "ch2_scene2.webp",
+      "original_size": 518858,
+      "new_size": 14888,
+      "compression": "97.1%",
+      "status": "success"
+    },
+    {
+      "original": "ch2_scene3.jpg",
+      "optimized": "ch2_scene3.webp",
+      "original_size": 446952,
+      "new_size": 8972,
+      "compression": "98.0%",
+      "status": "success"
+    },
+    {
+      "original": "ch2_scene4.jpg",
+      "optimized": "ch2_scene4.webp",
+      "original_size": 520757,
+      "new_size": 16138,
+      "compression": "96.9%",
+      "status": "success"
+    },
+    {
+      "original": "ch3_scene1.jpg",
+      "optimized": "ch3_scene1.webp",
+      "original_size": 592874,
+      "new_size": 31012,
+      "compression": "94.8%",
+      "status": "success"
+    },
+    {
+      "original": "ch3_scene2.jpg",
+      "optimized": "ch3_scene2.webp",
+      "original_size": 569990,
+      "new_size": 27184,
+      "compression": "95.2%",
+      "status": "success"
+    },
+    {
+      "original": "ch4_scene1.jpg",
+      "optimized": "ch4_scene1.webp",
+      "original_size": 627818,
+      "new_size": 31036,
+      "compression": "95.1%",
+      "status": "success"
+    },
+    {
+      "original": "ch4_scene2.jpg",
+      "optimized": "ch4_scene2.webp",
+      "original_size": 623247,
+      "new_size": 33868,
+      "compression": "94.6%",
+      "status": "success"
+    },
+    {
+      "original": "ch4_scene3.jpg",
+      "optimized": "ch4_scene3.webp",
+      "original_size": 574219,
+      "new_size": 29790,
+      "compression": "94.8%",
+      "status": "success"
+    },
+    {
+      "original": "ch4_scene4.jpg",
+      "optimized": "ch4_scene4.webp",
+      "original_size": 582575,
+      "new_size": 26398,
+      "compression": "95.5%",
+      "status": "success"
+    },
+    {
+      "original": "ch5_scene1.jpg",
+      "optimized": "ch5_scene1.webp",
+      "original_size": 534083,
+      "new_size": 25230,
+      "compression": "95.3%",
+      "status": "success"
+    },
+    {
+      "original": "ch5_scene2.jpg",
+      "optimized": "ch5_scene2.webp",
+      "original_size": 567915,
+      "new_size": 29338,
+      "compression": "94.8%",
+      "status": "success"
+    },
+    {
+      "original": "ch5_scene3.jpg",
+      "optimized": "ch5_scene3.webp",
+      "original_size": 642245,
+      "new_size": 35602,
+      "compression": "94.5%",
+      "status": "success"
+    },
+    {
+      "original": "ch5_scene4.jpg",
+      "optimized": "ch5_scene4.webp",
+      "original_size": 628642,
+      "new_size": 32082,
+      "compression": "94.9%",
+      "status": "success"
+    },
+    {
+      "original": "ch6_scene1.jpg",
+      "optimized": "ch6_scene1.webp",
+      "original_size": 436846,
+      "new_size": 16460,
+      "compression": "96.2%",
+      "status": "success"
+    },
+    {
+      "original": "ch6_scene2.jpg",
+      "optimized": "ch6_scene2.webp",
+      "original_size": 543568,
+      "new_size": 25070,
+      "compression": "95.4%",
+      "status": "success"
+    },
+    {
+      "original": "ch6_scene3.jpg",
+      "optimized": "ch6_scene3.webp",
+      "original_size": 668871,
+      "new_size": 33288,
+      "compression": "95.0%",
+      "status": "success"
+    },
+    {
+      "original": "ch6_scene4.jpg",
+      "optimized": "ch6_scene4.webp",
+      "original_size": 580623,
+      "new_size": 25104,
+      "compression": "95.7%",
+      "status": "success"
+    },
+    {
+      "original": "ch7_scene1.jpg",
+      "optimized": "ch7_scene1.webp",
+      "original_size": 631850,
+      "new_size": 28040,
+      "compression": "95.6%",
+      "status": "success"
+    },
+    {
+      "original": "ch7_scene2.jpg",
+      "optimized": "ch7_scene2.webp",
+      "original_size": 721920,
+      "new_size": 43646,
+      "compression": "94.0%",
+      "status": "success"
+    },
+    {
+      "original": "ch7_scene3.jpg",
+      "optimized": "ch7_scene3.webp",
+      "original_size": 642417,
+      "new_size": 31832,
+      "compression": "95.0%",
+      "status": "success"
+    },
+    {
+      "original": "ch7_scene4.jpg",
+      "optimized": "ch7_scene4.webp",
+      "original_size": 577666,
+      "new_size": 27758,
+      "compression": "95.2%",
+      "status": "success"
+    },
+    {
+      "original": "ch8_scene1.jpg",
+      "optimized": "ch8_scene1.webp",
+      "original_size": 639523,
+      "new_size": 34212,
+      "compression": "94.7%",
+      "status": "success"
+    },
+    {
+      "original": "ch8_scene2.jpg",
+      "optimized": "ch8_scene2.webp",
+      "original_size": 670557,
+      "new_size": 38676,
+      "compression": "94.2%",
+      "status": "success"
+    },
+    {
+      "original": "ch8_scene3.jpg",
+      "optimized": "ch8_scene3.webp",
+      "original_size": 635853,
+      "new_size": 35988,
+      "compression": "94.3%",
+      "status": "success"
+    },
+    {
+      "original": "ch8_scene4.jpg",
+      "optimized": "ch8_scene4.webp",
+      "original_size": 601708,
+      "new_size": 32558,
+      "compression": "94.6%",
+      "status": "success"
+    },
+    {
+      "original": "ch9_scene1.jpg",
+      "optimized": "ch9_scene1.webp",
+      "original_size": 676033,
+      "new_size": 26758,
+      "compression": "96.0%",
+      "status": "success"
+    },
+    {
+      "original": "ch9_scene2.jpg",
+      "optimized": "ch9_scene2.webp",
+      "original_size": 581947,
+      "new_size": 29962,
+      "compression": "94.9%",
+      "status": "success"
+    },
+    {
+      "original": "ch9_scene3.jpg",
+      "optimized": "ch9_scene3.webp",
+      "original_size": 643931,
+      "new_size": 34054,
+      "compression": "94.7%",
+      "status": "success"
+    },
+    {
+      "original": "ch9_scene4.jpg",
+      "optimized": "ch9_scene4.webp",
+      "original_size": 672282,
+      "new_size": 39596,
+      "compression": "94.1%",
+      "status": "success"
+    },
+    {
+      "original": "惠施几何.jpg",
+      "optimized": "惠施几何.webp",
+      "original_size": 525937,
+      "new_size": 26568,
+      "compression": "94.9%",
+      "status": "success"
+    },
+    {
+      "original": "惠施几何_1.jpg",
+      "optimized": "惠施几何_1.webp",
+      "original_size": 554777,
+      "new_size": 31020,
+      "compression": "94.4%",
+      "status": "success"
+    },
+    {
+      "original": "惠施几何_10.jpg",
+      "optimized": "惠施几何_10.webp",
+      "original_size": 455264,
+      "new_size": 20732,
+      "compression": "95.4%",
+      "status": "success"
+    },
+    {
+      "original": "惠施几何_11.jpg",
+      "optimized": "惠施几何_11.webp",
+      "original_size": 519459,
+      "new_size": 23982,
+      "compression": "95.4%",
+      "status": "success"
+    },
+    {
+      "original": "惠施几何_12.jpg",
+      "optimized": "惠施几何_12.webp",
+      "original_size": 538622,
+      "new_size": 30054,
+      "compression": "94.4%",
+      "status": "success"
+    },
+    {
+      "original": "惠施几何_13.jpg",
+      "optimized": "惠施几何_13.webp",
+      "original_size": 538121,
+      "new_size": 29276,
+      "compression": "94.6%",
+      "status": "success"
+    },
+    {
+      "original": "惠施几何_14.jpg",
+      "optimized": "惠施几何_14.webp",
+      "original_size": 582572,
+      "new_size": 33546,
+      "compression": "94.2%",
+      "status": "success"
+    },
+    {
+      "original": "惠施几何_15.jpg",
+      "optimized": "惠施几何_15.webp",
+      "original_size": 540966,
+      "new_size": 27344,
+      "compression": "94.9%",
+      "status": "success"
+    },
+    {
+      "original": "惠施几何_16.jpg",
+      "optimized": "惠施几何_16.webp",
+      "original_size": 521832,
+      "new_size": 21392,
+      "compression": "95.9%",
+      "status": "success"
+    },
+    {
+      "original": "惠施几何_17.jpg",
+      "optimized": "惠施几何_17.webp",
+      "original_size": 506199,
+      "new_size": 26546,
+      "compression": "94.8%",
+      "status": "success"
+    },
+    {
+      "original": "惠施几何_18.jpg",
+      "optimized": "惠施几何_18.webp",
+      "original_size": 551577,
+      "new_size": 23578,
+      "compression": "95.7%",
+      "status": "success"
+    },
+    {
+      "original": "惠施几何_2.jpg",
+      "optimized": "惠施几何_2.webp",
+      "original_size": 546462,
+      "new_size": 26002,
+      "compression": "95.2%",
+      "status": "success"
+    },
+    {
+      "original": "惠施几何_3.jpg",
+      "optimized": "惠施几何_3.webp",
+      "original_size": 539961,
+      "new_size": 27758,
+      "compression": "94.9%",
+      "status": "success"
+    },
+    {
+      "original": "惠施几何_4.jpg",
+      "optimized": "惠施几何_4.webp",
+      "original_size": 514978,
+      "new_size": 25994,
+      "compression": "95.0%",
+      "status": "success"
+    },
+    {
+      "original": "惠施几何_5.jpg",
+      "optimized": "惠施几何_5.webp",
+      "original_size": 486562,
+      "new_size": 23586,
+      "compression": "95.2%",
+      "status": "success"
+    },
+    {
+      "original": "惠施几何_6.jpg",
+      "optimized": "惠施几何_6.webp",
+      "original_size": 527597,
+      "new_size": 27136,
+      "compression": "94.9%",
+      "status": "success"
+    },
+    {
+      "original": "惠施几何_7.jpg",
+      "optimized": "惠施几何_7.webp",
+      "original_size": 665844,
+      "new_size": 30716,
+      "compression": "95.4%",
+      "status": "success"
+    },
+    {
+      "original": "惠施几何_8.jpg",
+      "optimized": "惠施几何_8.webp",
+      "original_size": 460664,
+      "new_size": 20008,
+      "compression": "95.7%",
+      "status": "success"
+    },
+    {
+      "original": "惠施几何_9.jpg",
+      "optimized": "惠施几何_9.webp",
+      "original_size": 542279,
+      "new_size": 28318,
+      "compression": "94.8%",
+      "status": "success"
+    },
+    {
+      "original": "惠施几何体.jpg",
+      "optimized": "惠施几何体.webp",
+      "original_size": 547530,
+      "new_size": 24204,
+      "compression": "95.6%",
+      "status": "success"
+    },
+    {
+      "original": "惠施几何体_1.jpg",
+      "optimized": "惠施几何体_1.webp",
+      "original_size": 492148,
+      "new_size": 23950,
+      "compression": "95.1%",
+      "status": "success"
+    },
+    {
+      "original": "惠施几何体_2.jpg",
+      "optimized": "惠施几何体_2.webp",
+      "original_size": 449231,
+      "new_size": 20060,
+      "compression": "95.5%",
+      "status": "success"
+    },
+    {
+      "original": "惠施几何游戏.jpg",
+      "optimized": "惠施几何游戏.webp",
+      "original_size": 515145,
+      "new_size": 24338,
+      "compression": "95.3%",
+      "status": "success"
+    },
+    {
+      "original": "惠施几何游戏_1.jpg",
+      "optimized": "惠施几何游戏_1.webp",
+      "original_size": 496576,
+      "new_size": 24866,
+      "compression": "95.0%",
+      "status": "success"
+    },
+    {
+      "original": "惠施几何游戏_2.jpg",
+      "optimized": "惠施几何游戏_2.webp",
+      "original_size": 475711,
+      "new_size": 23326,
+      "compression": "95.1%",
+      "status": "success"
+    },
+    {
+      "original": "惠施几何游戏_3.jpg",
+      "optimized": "惠施几何游戏_3.webp",
+      "original_size": 532595,
+      "new_size": 26790,
+      "compression": "95.0%",
+      "status": "success"
+    },
+    {
+      "original": "惠施几何游戏_4.jpg",
+      "optimized": "惠施几何游戏_4.webp",
+      "original_size": 523318,
+      "new_size": 27708,
+      "compression": "94.7%",
+      "status": "success"
+    },
+    {
+      "original": "惠施几何童解.jpg",
+      "optimized": "惠施几何童解.webp",
+      "original_size": 507763,
+      "new_size": 23698,
+      "compression": "95.3%",
+      "status": "success"
+    }
+  ]
+}

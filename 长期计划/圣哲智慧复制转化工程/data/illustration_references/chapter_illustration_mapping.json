@@ -1,0 +1,356 @@
+{
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_key": "ch1",
+      "scenes": [
+        {
+          "file_name": "ch1_scene1.jpg",
+          "position_label": "after_thought_theater",
+          "alt_text": "第1章场景1",
+          "description": "第1章第1个场景插图"
+        },
+        {
+          "file_name": "ch1_scene2.jpg",
+          "position_label": "after_first_station",
+          "alt_text": "第1章场景2",
+          "description": "第1章第2个场景插图"
+        },
+        {
+          "file_name": "ch1_scene3.jpg",
+          "position_label": "after_second_station",
+          "alt_text": "第1章场景3",
+          "description": "第1章第3个场景插图"
+        },
+        {
+          "file_name": "ch1_scene4.jpg",
+          "position_label": "after_third_station",
+          "alt_text": "第1章场景4",
+          "description": "第1章第4个场景插图"
+        }
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_key": "ch2",
+      "scenes": [
+        {
+          "file_name": "ch2_scene1.jpg",
+          "position_label": "after_thought_theater",
+          "alt_text": "第2章场景1",
+          "description": "第2章第1个场景插图"
+        },
+        {
+          "file_name": "ch2_scene2.jpg",
+          "position_label": "after_first_station",
+          "alt_text": "第2章场景2",
+          "description": "第2章第2个场景插图"
+        },
+        {
+          "file_name": "ch2_scene3.jpg",
+          "position_label": "after_second_station",
+          "alt_text": "第2章场景3",
+          "description": "第2章第3个场景插图"
+        },
+        {
+          "file_name": "ch2_scene4.jpg",
+          "position_label": "after_third_station",
+          "alt_text": "第2章场景4",
+          "description": "第2章第4个场景插图"
+        }
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "chapter_key": "ch3",
+      "scenes": [
+        {
+          "file_name": "ch3_scene1.jpg",
+          "position_label": "after_thought_theater",
+          "alt_text": "第3章场景1",
+          "description": "第3章第1个场景插图"
+        },
+        {
+          "file_name": "ch3_scene2.jpg",
+          "position_label": "after_first_station",
+          "alt_text": "第3章场景2",
+          "description": "第3章第2个场景插图"
+        }
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "chapter_key": "ch4",
+      "scenes": [
+        {
+          "file_name": "ch4_scene1.jpg",
+          "position_label": "after_thought_theater",
+          "alt_text": "第4章场景1",
+          "description": "第4章第1个场景插图"
+        },
+        {
+          "file_name": "ch4_scene2.jpg",
+          "position_label": "after_first_station",
+          "alt_text": "第4章场景2",
+          "description": "第4章第2个场景插图"
+        },
+        {
+          "file_name": "ch4_scene3.jpg",
+          "position_label": "after_second_station",
+          "alt_text": "第4章场景3",
+          "description": "第4章第3个场景插图"
+        },
+        {
+          "file_name": "ch4_scene4.jpg",
+          "position_label": "after_third_station",
+          "alt_text": "第4章场景4",
+          "description": "第4章第4个场景插图"
+        }
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "chapter_key": "ch5",
+      "scenes": [
+        {
+          "file_name": "ch5_scene1.jpg",
+          "position_label": "after_thought_theater",
+          "alt_text": "第5章场景1",
+          "description": "第5章第1个场景插图"
+        },
+        {
+          "file_name": "ch5_scene2.jpg",
+          "position_label": "after_first_station",
+          "alt_text": "第5章场景2",
+          "description": "第5章第2个场景插图"
+        },
+        {
+          "file_name": "ch5_scene3.jpg",
+          "position_label": "after_second_station",
+          "alt_text": "第5章场景3",
+          "description": "第5章第3个场景插图"
+        },
+        {
+          "file_name": "ch5_scene4.jpg",
+          "position_label": "after_third_station",
+          "alt_text": "第5章场景4",
+          "description": "第5章第4个场景插图"
+        }
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "chapter_key": "ch6",
+      "scenes": [
+        {
+          "file_name": "ch6_scene1.jpg",
+          "position_label": "after_thought_theater",
+          "alt_text": "第6章场景1",
+          "description": "第6章第1个场景插图"
+        },
+        {
+          "file_name": "ch6_scene2.jpg",
+          "position_label": "after_first_station",
+          "alt_text": "第6章场景2",
+          "description": "第6章第2个场景插图"
+        },
+        {
+          "file_name": "ch6_scene3.jpg",
+          "position_label": "after_second_station",
+          "alt_text": "第6章场景3",
+          "description": "第6章第3个场景插图"
+        },
+        {
+          "file_name": "ch6_scene4.jpg",
+          "position_label": "after_third_station",
+          "alt_text": "第6章场景4",
+          "description": "第6章第4个场景插图"
+        }
+      ]
+    },
+    {
+      "chapter_number": 7,
+      "chapter_key": "ch7",
+      "scenes": [
+        {
+          "file_name": "ch7_scene1.jpg",
+          "position_label": "after_thought_theater",
+          "alt_text": "第7章场景1",
+          "description": "第7章第1个场景插图"
+        },
+        {
+          "file_name": "ch7_scene2.jpg",
+          "position_label": "after_first_station",
+          "alt_text": "第7章场景2",
+          "description": "第7章第2个场景插图"
+        },
+        {
+          "file_name": "ch7_scene3.jpg",
+          "position_label": "after_second_station",
+          "alt_text": "第7章场景3",
+          "description": "第7章第3个场景插图"
+        },
+        {
+          "file_name": "ch7_scene4.jpg",
+          "position_label": "after_third_station",
+          "alt_text": "第7章场景4",
+          "description": "第7章第4个场景插图"
+        }
+      ]
+    },
+    {
+      "chapter_number": 8,
+      "chapter_key": "ch8",
+      "scenes": [
+        {
+          "file_name": "ch8_scene1.jpg",
+          "position_label": "after_thought_theater",
+          "alt_text": "第8章场景1",
+          "description": "第8章第1个场景插图"
+        },
+        {
+          "file_name": "ch8_scene2.jpg",
+          "position_label": "after_first_station",
+          "alt_text": "第8章场景2",
+          "description": "第8章第2个场景插图"
+        },
+        {
+          "file_name": "ch8_scene3.jpg",
+          "position_label": "after_second_station",
+          "alt_text": "第8章场景3",
+          "description": "第8章第3个场景插图"
+        },
+        {
+          "file_name": "ch8_scene4.jpg",
+          "position_label": "after_third_station",
+          "alt_text": "第8章场景4",
+          "description": "第8章第4个场景插图"
+        }
+      ]
+    },
+    {
+      "chapter_number": 9,
+      "chapter_key": "ch9",
+      "scenes": [
+        {
+          "file_name": "ch9_scene1.jpg",
+          "position_label": "after_thought_theater",
+          "alt_text": "第9章场景1",
+          "description": "第9章第1个场景插图"
+        },
+        {
+          "file_name": "ch9_scene2.jpg",
+          "position_label": "after_first_station",
+          "alt_text": "第9章场景2",
+          "description": "第9章第2个场景插图"
+        },
+        {
+          "file_name": "ch9_scene3.jpg",
+          "position_label": "after_second_station",
+          "alt_text": "第9章场景3",
+          "description": "第9章第3个场景插图"
+        },
+        {
+          "file_name": "ch9_scene4.jpg",
+          "position_label": "after_third_station",
+          "alt_text": "第9章场景4",
+          "description": "第9章第4个场景插图"
+        }
+      ]
+    },
+    {
+      "chapter_number": 10,
+      "chapter_key": "ch10",
+      "scenes": [
+        {
+          "file_name": "ch10_scene1.jpg",
+          "position_label": "after_thought_theater",
+          "alt_text": "第10章场景1",
+          "description": "第10章第1个场景插图"
+        },
+        {
+          "file_name": "ch10_scene2.jpg",
+          "position_label": "after_first_station",
+          "alt_text": "第10章场景2",
+          "description": "第10章第2个场景插图"
+        },
+        {
+          "file_name": "ch10_scene3.jpg",
+          "position_label": "after_second_station",
+          "alt_text": "第10章场景3",
+          "description": "第10章第3个场景插图"
+        },
+        {
+          "file_name": "ch10_scene4.jpg",
+          "position_label": "after_third_station",
+          "alt_text": "第10章场景4",
+          "description": "第10章第4个场景插图"
+        }
+      ]
+    },
+    {
+      "chapter_number": 11,
+      "chapter_key": "ch11",
+      "scenes": [
+        {
+          "file_name": "ch11_scene1.jpg",
+          "position_label": "after_thought_theater",
+          "alt_text": "第11章场景1",
+          "description": "第11章第1个场景插图"
+        },
+        {
+          "file_name": "ch11_scene2.jpg",
+          "position_label": "after_first_station",
+          "alt_text": "第11章场景2",
+          "description": "第11章第2个场景插图"
+        },
+        {
+          "file_name": "ch11_scene3.jpg",
+          "position_label": "after_second_station",
+          "alt_text": "第11章场景3",
+          "description": "第11章第3个场景插图"
+        },
+        {
+          "file_name": "ch11_scene4.jpg",
+          "position_label": "after_third_station",
+          "alt_text": "第11章场景4",
+          "description": "第11章第4个场景插图"
+        }
+      ]
+    },
+    {
+      "chapter_number": 12,
+      "chapter_key": "ch12",
+      "scenes": [
+        {
+          "file_name": "ch12_scene1.jpg",
+          "position_label": "after_thought_theater",
+          "alt_text": "第12章场景1",
+          "description": "第12章第1个场景插图"
+        },
+        {
+          "file_name": "ch12_scene2.jpg",
+          "position_label": "after_first_station",
+          "alt_text": "第12章场景2",
+          "description": "第12章第2个场景插图"
+        },
+        {
+          "file_name": "ch12_scene3.jpg",
+          "position_label": "after_second_station",
+          "alt_text": "第12章场景3",
+          "description": "第12章第3个场景插图"
+        }
+      ]
+    }
+  ],
+  "position_labels": {
+    "after_thought_theater": "## 思想剧场",
+    "after_first_station": "## 第一站",
+    "after_second_station": "## 第二站",
+    "after_third_station": "## 第三站",
+    "after_think_about": "## 想一想",
+    "after_global_telescope": "## 全球望远镜",
+    "after_practice": "## 实践练习"
+  },
+  "total_scenes": 45
+}

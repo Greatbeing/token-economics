@@ -1,0 +1,81 @@
+{
+  "compression_results": [
+    {
+      "index": 1,
+      "original_filename": "phone_image_1_optimized.webp",
+      "compressed_filename": "phone_image_1_compressed.webp",
+      "original_width": 400,
+      "original_height": 533,
+      "compressed_width": 380,
+      "compressed_height": 506,
+      "file_size_kb": 28.76953125,
+      "format": "WEBP",
+      "quality": 80,
+      "data_uri_length": 39303
+    },
+    {
+      "index": 2,
+      "original_filename": "phone_image_2_optimized.webp",
+      "compressed_filename": "phone_image_2_compressed.webp",
+      "original_width": 400,
+      "original_height": 533,
+      "compressed_width": 380,
+      "compressed_height": 506,
+      "file_size_kb": 24.328125,
+      "format": "WEBP",
+      "quality": 80,
+      "data_uri_length": 33239
+    },
+    {
+      "index": 3,
+      "original_filename": "phone_image_3_optimized.webp",
+      "compressed_filename": "phone_image_3_compressed.webp",
+      "original_width": 400,
+      "original_height": 533,
+      "compressed_width": 380,
+      "compressed_height": 506,
+      "file_size_kb": 26.748046875,
+      "format": "WEBP",
+      "quality": 80,
+      "data_uri_length": 36543
+    },
+    {
+      "index": 4,
+      "original_filename": "phone_image_4_optimized.webp",
+      "compressed_filename": "phone_image_4_compressed.webp",
+      "original_width": 400,
+      "original_height": 533,
+      "compressed_width": 380,
+      "compressed_height": 506,
+      "file_size_kb": 19.947265625,
+      "format": "WEBP",
+      "quality": 80,
+      "data_uri_length": 27259
+    }
+  ],
+  "summary": {
+    "total_images": 4,
+    "average_width": 380.0,
+    "average_height": 506.0,
+    "average_file_size_kb": 24.9482421875,
+    "total_file_size_kb": 99.79296875
+  },
+  "data_uris_preview": [
+    {
+      "index": 1,
+      "data_uri": "data:image/webp;base64,UklGRgxzAABXRUJQVlA4IABzAACQpAGdASp8AfoBPm0ylEckIyIhp9Q7+IANiWNt5nAPNn1AZCmAN..."
+    },
+    {
+      "index": 2,
+      "data_uri": "data:image/webp;base64,UklGRkhhAABXRUJQVlA4IDxhAADwbAGdASp8AfoBPm0wlEekIq2nJ1McKbANiWVDh1QMvElUaET+5..."
+    },
+    {
+      "index": 3,
+      "data_uri": "data:image/webp;base64,UklGRvZqAABXRUJQVlA4IOpqAADwpAGdASp8AfoBPm0ylEekIqIlJtPcGKANiWNt/Kt0ALzoYN0ss..."
+    },
+    {
+      "index": 4,
+      "data_uri": "data:image/webp;base64,UklGRsJPAABXRUJQVlA4ILZPAADwMQGdASp8AfoBPm0ylUekIqIhJdQLcIANiWVu1P/+e/h6pa6so..."
+    }
+  ]
+}

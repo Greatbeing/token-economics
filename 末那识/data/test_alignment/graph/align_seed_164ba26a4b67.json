@@ -1,0 +1,21 @@
+{
+  "node_id": "align_seed_164ba26a4b67",
+  "node_type": "seed",
+  "label": "我觉得成功才代表我有价值",
+  "description": "成功不是终点，因为根本没有终点",
+  "properties": {
+    "seed_type": "insight",
+    "bloom_potential": 0.7,
+    "maturity_level": 0.0,
+    "related_concepts": [
+      "success",
+      "worth"
+    ]
+  },
+  "x": 0.0,
+  "y": 0.0,
+  "activation_level": 0.0,
+  "importance": 0.7,
+  "created_at": "2026-04-22T14:30:16.349974",
+  "metadata": {}
+}

@@ -1,0 +1,7 @@
+{
+  "search_query": "ti:\"climate resilience\" AND ti:infrastructure OR all:\"climate resilience infrastructure\"",
+  "start": 0,
+  "max_results": 20,
+  "sort_by": "submittedDate",
+  "sort_order": "descending"
+}

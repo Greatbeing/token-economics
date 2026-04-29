@@ -1,0 +1,224 @@
+{
+  "model_id": "mencius_heart_001",
+  "version": "1.0",
+  "status": "published",
+  
+  "基本信息": {
+    "sage_name": "孟子",
+    "sage_name_en": "Mencius",
+    "sage_culture": "Chinese",
+    "sage_period": "战国中期（约前372年-前289年）",
+    "sage_icon": "⚖️",
+    "model_name": "心性思维",
+    "model_name_en": "Heart-Nature Thinking"
+  },
+  
+  "核心概念": {
+    "primary_concept": "性善",
+    "concept_definition": "人皆有不忍人之心，恻隐之心人皆有之",
+    "concept_explained": "孟子认为人的本性是善良的，每个人都有恻隐之心（同情心）、羞恶之心、辞让之心、是非之心，这是仁义礼智的萌芽。修养就是扩充培养这颗善心。",
+    "concept_level": ["入门-认识四端之心", "理解-理解性善论", "运用-扩充善心", "化境-率性而为"],
+    "concept_keywords": ["性善", "四端", "恻隐", "扩充", "养气", "大丈夫", "浩然之气"]
+  },
+  
+  "思维流程": {
+    "flow_name": "心性修养三步",
+    "flow_type": "cycle",
+    "steps": [
+      {
+        "step_id": 1,
+        "step_name": "存心",
+        "description": "觉察和存养自己的善心善念",
+        "question_prompt": "此刻我的内心有什么感受？有什么善的冲动？",
+        "skill_focused": "内在觉察",
+        "common_pitfall": "忽略内心的声音",
+        "tip": "善心稍纵即逝，要及时觉察和存养"
+      },
+      {
+        "step_id": 2,
+        "step_name": "扩充",
+        "description": "将善心扩充到更广的范围和更深层次",
+        "question_prompt": "这份善意可以扩展到谁？扩展到什么程度？",
+        "skill_focused": "善心扩展",
+        "common_pitfall": "只在小事上善良",
+        "tip": "善心要不断扩充，从小及大，从近及远"
+      },
+      {
+        "step_id": 3,
+        "step_name": "养气",
+        "description": "培养浩然之气，正气充盈",
+        "question_prompt": "我的行为是否光明正大？是否俯仰无愧？",
+        "skill_focused": "正气培养",
+        "common_pitfall": "做事不光明磊落",
+        "tip": "浩然之气需要集义而生，不是一蹴而就"
+      }
+    ],
+    "flow_summary": "存心 → 扩充 → 养气（循环提升）"
+  },
+  
+  "可复刻技能": [
+    {
+      "skill_name": "内在觉察",
+      "skill_description": "觉察自己内心善念恶念的能力",
+      "difficulty": 3,
+      "practice_focus": "心念观察",
+      "skill_level_desc": {
+        "L1": "能注意到自己的情绪",
+        "L2": "能区分善念恶念",
+        "L3": "能及时觉察恶念生起",
+        "L4": "能保持善念常住"
+      }
+    },
+    {
+      "skill_name": "善心扩充",
+      "skill_description": "将善良从亲人扩展到更多人的能力",
+      "difficulty": 4,
+      "practice_focus": "爱的扩展",
+      "skill_level_desc": {
+        "L1": "只对亲近的人善良",
+        "L2": "能对陌生人释放善意",
+        "L3": "能对不喜欢的人也心存善意",
+        "L4": "能对一切众生心怀慈悲"
+      }
+    },
+    {
+      "skill_name": "浩然正气",
+      "skill_description": "培养光明正大、刚毅不屈的精神气质",
+      "difficulty": 5,
+      "practice_focus": "正气培养",
+      "skill_level_desc": {
+        "L1": "做事基本光明正大",
+        "L2": "能在压力下保持正直",
+        "L3": "能抵抗诱惑保持原则",
+        "L4": "达到富贵不能淫、贫贱不能移、威武不能屈"
+      }
+    }
+  ],
+  
+  "适用场景": [
+    {
+      "scene_type": "道德抉择",
+      "scene_description": "面临道德诱惑或压力时",
+      "application_hint": "守住本心不失，问心无愧"
+    },
+    {
+      "scene_type": "人际冲突",
+      "scene_description": "与他人发生冲突时",
+      "application_hint": "扩充恻隐之心，理解对方也有难处"
+    },
+    {
+      "scene_type": "自我修养",
+      "scene_description": "日常修身养性时",
+      "application_hint": "存养善心，扩充善端，培养浩然正气"
+    },
+    {
+      "scene_type": "逆境应对",
+      "scene_description": "身处困境时",
+      "application_hint": "'天将降大任于斯人'，把困难当磨练"
+    }
+  ],
+  
+  "经典语录": [
+    {
+      "quote": "恻隐之心，人皆有之",
+      "source": "《孟子·公孙丑上》",
+      "interpretation": "同情心是每个人都有的，是仁的萌芽。"
+    },
+    {
+      "quote": "人皆可以为尧舜",
+      "source": "《孟子·告子下》",
+      "interpretation": "每个人都有成圣成贤的可能，关键在于是否去做。"
+    },
+    {
+      "quote": "富贵不能淫，贫贱不能移，威武不能屈",
+      "source": "《孟子·滕文公下》",
+      "interpretation": "大丈夫的标准，不因富贵而迷乱，不因贫贱而动摇，不因威武而屈服。"
+    },
+    {
+      "quote": "天将降大任于斯人也",
+      "source": "《孟子·告子下》",
+      "interpretation": "上天要把重大使命交给某人，一定会先磨练他的心志。"
+    }
+  ],
+  
+  "练习题模板": [
+    {
+      "template_id": "mencius_heart_001_p1",
+      "template_name": "四端觉察",
+      "template_type": "reflection",
+      "difficulty": 2,
+      "estimated_time": "10分钟",
+      "prompt": "回顾你今天的一个情境，觉察四端之心：\n\n【情境】{scenario}\n\n思考：\n1. 恻隐之心：有没有同情或怜悯的冲动？\n2. 羞恶之心：有没有觉得哪里不对？\n3. 辞让之心：有没有礼让或退让的行为？\n4. 是非之心：有没有判断对错的念头？"
+    },
+    {
+      "template_id": "mencius_heart_001_p2",
+      "template_name": "善心扩充",
+      "template_type": "expansion",
+      "difficulty": 3,
+      "estimated_time": "15分钟",
+      "prompt": "选择一个你想改善的关系：\n\n【关系】{relationship}\n\n思考：\n1. 现在我对这个人有什么感受？\n2. 如果我是他/她，会有什么感受？\n3. 我的善意可以如何扩展到这个人？\n4. 具体我可以做什么表达善意？"
+    },
+    {
+      "template_id": "mencius_heart_001_p3",
+      "template_name": "养气反思",
+      "template_type": "reflection",
+      "difficulty": 4,
+      "estimated_time": "10分钟",
+      "prompt": "反思你最近的一次'不正义'：\n\n【情境】{scenario}\n\n思考：\n1. 我的行为是否光明正大？\n2. 是否有什么需要惭愧的地方？\n3. 如何'集义'弥补过失？\n4. 未来如何更好地'养气'？"
+    }
+  ],
+  
+  "种子信息": {
+    "seed_type": "moral",
+    "primary_seeds": ["恻隐种子", "羞恶种子", "辞让种子", "是非种子", "浩然种子"],
+    "seed_weights": {
+      "perception": 0.35,
+      "reasoning": 0.30,
+      "decision": 0.35
+    },
+    "purity_baseline": 0.88,
+    "growth_potential": "high",
+    "related_seeds": ["孔子仁学种子", "阳明良知种子", "佛陀慈悲种子"]
+  },
+  
+  "与其他模型的关系": {
+    "prerequisites": ["confucius_ren_001"],
+    "complements": [
+      {
+        "model_id": "confucius_ren_001",
+        "relation": "继承发展",
+        "description": "孟子继承孔子仁学，深化了仁的心理基础"
+      },
+      {
+        "model_id": "wang_yangming_liangzhi_001",
+        "relation": "心学传承",
+        "description": "王阳明继承孟子心性论，提出致良知"
+      }
+    ],
+    "contrasts": [
+      {
+        "model_id": "xunzi_xingevil_001",
+        "relation": "思想对立",
+        "description": "荀子认为性本恶，需要礼法约束；与孟子性善论形成对照"
+      }
+    ]
+  },
+  
+  "评估维度": {
+    "dimensions": [
+      {"name": "存心深度", "weight": 0.30, "description": "对内心的觉察程度"},
+      {"name": "扩充广度", "weight": 0.35, "description": "善意扩展的范围"},
+      {"name": "养气程度", "weight": 0.35, "description": "正气的培养程度"}
+    ],
+    "excellent_threshold": 0.82,
+    "good_threshold": 0.68,
+    "average_threshold": 0.50
+  },
+  
+  "视觉设计": {
+    "primary_color": "#E67E22",
+    "secondary_color": "#F5CBA7",
+    "icon": "⚖️",
+    "symbol": "心"
+  }
+}

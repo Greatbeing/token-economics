@@ -1,0 +1,120 @@
+{
+  "html_analysis": {
+    "total_images": 4,
+    "image_details": [
+      {
+        "index": 1,
+        "src_length": 133727,
+        "src_prefix": "data:image/webp;base64,UklGRq6HAQBXRUJQVlA4IKKHAQD...",
+        "has_inline_style": false,
+        "inline_style": "",
+        "has_width_attr": false,
+        "width_attr": null,
+        "has_height_attr": false,
+        "height_attr": null,
+        "parent_class": [
+          "illustration-container"
+        ],
+        "parent_tag": "div"
+      },
+      {
+        "index": 2,
+        "src_length": 106119,
+        "src_prefix": "data:image/webp;base64,UklGRsw2AQBXRUJQVlA4IMA2AQA...",
+        "has_inline_style": false,
+        "inline_style": "",
+        "has_width_attr": false,
+        "width_attr": null,
+        "has_height_attr": false,
+        "height_attr": null,
+        "parent_class": [
+          "illustration-container"
+        ],
+        "parent_tag": "div"
+      },
+      {
+        "index": 3,
+        "src_length": 122683,
+        "src_prefix": "data:image/webp;base64,UklGRlJnAQBXRUJQVlA4IEZnAQD...",
+        "has_inline_style": false,
+        "inline_style": "",
+        "has_width_attr": false,
+        "width_attr": null,
+        "has_height_attr": false,
+        "height_attr": null,
+        "parent_class": [
+          "illustration-container"
+        ],
+        "parent_tag": "div"
+      },
+      {
+        "index": 4,
+        "src_length": 84791,
+        "src_prefix": "data:image/webp;base64,UklGRlD4AABXRUJQVlA4IET4AAA...",
+        "has_inline_style": false,
+        "inline_style": "",
+        "has_width_attr": false,
+        "width_attr": null,
+        "has_height_attr": false,
+        "height_attr": null,
+        "parent_class": [
+          "illustration-container"
+        ],
+        "parent_tag": "div"
+      }
+    ],
+    "summary": {
+      "images_with_inline_style": 0,
+      "images_with_width_attr": 0,
+      "images_in_proper_container": 4
+    }
+  },
+  "css_analysis": {
+    "media_queries_count": 3,
+    "image_specific_rules": [
+      "max-width: 100%;\n    height: auto;\n    border-radius: 6px;\n    box-shadow: 0 4px 8px rgba(0,0,0,0.1);",
+      "max-width: 100% !important;\n        height: auto !important;"
+    ],
+    "has_mobile_media_query": false
+  },
+  "potential_issues": [
+    {
+      "device": "iPhone SE",
+      "screen_width": 375,
+      "image_width": 800,
+      "overflow_pixels": 425,
+      "needs_horizontal_scroll": true,
+      "issue_description": "图片宽度800px > 屏幕宽度375px，溢出425px，需要水平滚动"
+    },
+    {
+      "device": "iPhone 12",
+      "screen_width": 390,
+      "image_width": 800,
+      "overflow_pixels": 410,
+      "needs_horizontal_scroll": true,
+      "issue_description": "图片宽度800px > 屏幕宽度390px，溢出410px，需要水平滚动"
+    },
+    {
+      "device": "Pixel 5",
+      "screen_width": 393,
+      "image_width": 800,
+      "overflow_pixels": 407,
+      "needs_horizontal_scroll": true,
+      "issue_description": "图片宽度800px > 屏幕宽度393px，溢出407px，需要水平滚动"
+    },
+    {
+      "device": "iPhone 14 Pro",
+      "screen_width": 430,
+      "image_width": 800,
+      "overflow_pixels": 370,
+      "needs_horizontal_scroll": true,
+      "issue_description": "图片宽度800px > 屏幕宽度430px，溢出370px，需要水平滚动"
+    }
+  ],
+  "recommendations": [
+    "将图片宽度从800px压缩至400px以下，适配手机屏幕",
+    "确保图片容器使用max-width: 100%和overflow: hidden",
+    "移除任何可能覆盖响应式样式的内联width/height属性",
+    "在超小屏幕媒体查询(≤400px)中为图片添加更严格的宽度控制"
+  ]
+}

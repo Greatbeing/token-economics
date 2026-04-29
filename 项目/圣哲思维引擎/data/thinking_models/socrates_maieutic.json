@@ -1,0 +1,260 @@
+{
+  "model_id": "socrates_maieutic_001",
+  "version": "1.0",
+  "status": "published",
+  
+  "基本信息": {
+    "sage_name": "苏格拉底",
+    "sage_name_en": "Socrates",
+    "sage_culture": "Western",
+    "sage_period": "古希腊（公元前469-前399）",
+    "sage_icon": "🏛️",
+    "model_name": "产婆术",
+    "model_name_en": "Maieutic Method"
+  },
+  
+  "核心概念": {
+    "primary_concept": "产婆术",
+    "concept_definition": "通过对话问答，帮助他人发现自己心中的真理",
+    "concept_explained": "苏格拉底把自己比作助产士，他的任务不是传授知识，而是通过提问帮助对话者'产下'他们心中已有的知识。核心是通过追问让隐藏的谬误暴露，让真理自然显现。",
+    "concept_level": ["入门-学会提问", "理解-追问方法", "运用-引导思考", "化境-助人觉悟"],
+    "concept_keywords": ["产婆术", "追问", "自知其无知", "认识你自己", "德性即知识", "审视生活"]
+  },
+  
+  "思维流程": {
+    "flow_name": "产婆术七步法",
+    "flow_type": "branch",
+    "steps": [
+      {
+        "step_id": 1,
+        "step_name": "质疑",
+        "description": "对习以为常的观点提出质疑",
+        "question_prompt": "这个观点真的正确吗？有什么证据？",
+        "skill_focused": "批判性思维",
+        "common_pitfall": "不假思索接受观点",
+        "tip": "一切观点都值得审视"
+      },
+      {
+        "step_id": 2,
+        "step_name": "定义",
+        "description": "澄清概念的含义",
+        "question_prompt": "你说的'X'是什么意思？能给它下个定义吗？",
+        "skill_focused": "概念澄清",
+        "common_pitfall": "概念模糊却自以为理解",
+        "tip": "清晰的定义是讨论的基础"
+      },
+      {
+        "step_id": 3,
+        "step_name": "举例",
+        "description": "通过具体例子检验定义",
+        "question_prompt": "能举个X的例子吗？什么不是X？",
+        "skill_focused": "举例验证",
+        "common_pitfall": "假设定义涵盖一切情况",
+        "tip": "例子是检验概念的最佳工具"
+      },
+      {
+        "step_id": 4,
+        "step_name": "追问",
+        "description": "连续追问，暴露矛盾",
+        "question_prompt": "那为什么？这样不会导致矛盾吗？",
+        "skill_focused": "逻辑追问",
+        "common_pitfall": "浅尝辄止不敢深入",
+        "tip": "真理越辩越明"
+      },
+      {
+        "step_id": 5,
+        "step_name": "归谬",
+        "description": "将观点推向极端，发现谬误",
+        "question_prompt": "按你的逻辑，那岂不是说...？",
+        "skill_focused": "归谬法",
+        "common_pitfall": "不敢承认错误",
+        "tip": "承认无知是智慧的开始"
+      },
+      {
+        "step_id": 6,
+        "step_name": "反思",
+        "description": "反思自己的认知局限",
+        "question_prompt": "我们真正知道什么？我们的无知边界在哪里？",
+        "skill_focused": "元认知",
+        "common_pitfall": "以为自己什么都知道",
+        "tip": "自知其无知"
+      },
+      {
+        "step_id": 7,
+        "step_name": "觉悟",
+        "description": "通过自身思考获得真知",
+        "question_prompt": "经过这一番讨论，你自己得出什么结论？",
+        "skill_focused": "自我觉悟",
+        "common_pitfall": "等待他人给答案",
+        "tip": "真理需要自己发现"
+      }
+    ],
+    "flow_summary": "质疑 → 定义 → 举例 → 追问 → 归谬 → 反思 → 觉悟"
+  },
+  
+  "可复刻技能": [
+    {
+      "skill_name": "苏格拉底式提问",
+      "skill_description": "通过追问帮助自己和他人深入思考",
+      "difficulty": 4,
+      "practice_focus": "追问练习",
+      "skill_level_desc": {
+        "L1": "能提出为什么的问题",
+        "L2": "能连续追问直到根本",
+        "L3": "能追问出隐藏的假设",
+        "L4": "能帮助他人自己觉悟"
+      }
+    },
+    {
+      "skill_name": "概念澄清",
+      "skill_description": "对模糊概念进行清晰定义的能力",
+      "difficulty": 3,
+      "practice_focus": "定义检验",
+      "skill_level_desc": {
+        "L1": "能识别模糊概念",
+        "L2": "能提出定义尝试",
+        "L3": "能用例子检验定义",
+        "L4": "能发现定义的边界"
+      }
+    },
+    {
+      "skill_name": "自知其无知",
+      "skill_description": "认识自己认知边界的能力",
+      "difficulty": 5,
+      "practice_focus": "认知谦逊",
+      "skill_level_desc": {
+        "L1": "承认有不知道的事",
+        "L2": "能识别自己的偏见",
+        "L3": "敢于承认错误",
+        "L4": "保持认知谦逊"
+      }
+    }
+  ],
+  
+  "适用场景": [
+    {
+      "scene_type": "概念讨论",
+      "scene_description": "讨论抽象概念如'正义'、'勇敢'时",
+      "application_hint": "先澄清概念，用例子检验"
+    },
+    {
+      "scene_type": "观点辩论",
+      "scene_description": "与他人辩论时",
+      "application_hint": "不要急于反驳，追问对方的定义和前提"
+    },
+    {
+      "scene_type": "自我反思",
+      "scene_description": "审视自己的信念和价值观时",
+      "application_hint": "对自己的观点追问'为什么'，检验是否经得起推敲"
+    },
+    {
+      "scene_type": "帮助他人",
+      "scene_description": "朋友遇到困惑向你求助时",
+      "application_hint": "用提问引导而非直接给答案"
+    }
+  ],
+  
+  "经典语录": [
+    {
+      "quote": "我唯一知道的，就是我一无所知",
+      "source": "柏拉图《对话录》",
+      "interpretation": "承认无知是智慧的开始。真正有智慧的人知道自己不知道什么。"
+    },
+    {
+      "quote": "认识你自己",
+      "source": "德尔斐神谕",
+      "interpretation": "苏格拉底将其作为哲学的起点。认识自己是所有智慧的基础。"
+    },
+    {
+      "quote": "未经审视的人生不值得过",
+      "source": "柏拉图《对话录》",
+      "interpretation": "人不应该浑浑噩噩地活着，应该不断反思和审视自己的生活方式。"
+    },
+    {
+      "quote": "德性即知识",
+      "source": "苏格拉底",
+      "interpretation": "人作恶是因为无知，不知道什么是真正的善。道德是可教可学的。"
+    }
+  ],
+  
+  "练习题模板": [
+    {
+      "template_id": "socrates_maieutic_001_p1",
+      "template_name": "概念澄清练习",
+      "template_type": "analysis",
+      "difficulty": 2,
+      "estimated_time": "10分钟",
+      "prompt": "选择一个你常用的抽象概念，用苏格拉底式提问澄清：\n\n【概念】{concept}\n\n请回答：\n1. X的定义是什么？\n2. 什么是X？什么不是X？\n3. 能举一个X的例子吗？\n4. 这个概念有哪些模糊的地方？"
+    },
+    {
+      "template_id": "socrates_maieutic_001_p2",
+      "template_name": "追问练习",
+      "template_type": "questioning",
+      "difficulty": 3,
+      "estimated_time": "15分钟",
+      "prompt": "选择一个你坚信的观点，尝试用追问审视它：\n\n【观点】{belief}\n\n开始追问：\n1. 真的吗？你怎么知道？\n2. 定义是什么？\n3. 例外情况呢？\n4. 这会导致什么结论？\n5. 如果这是对的，那意味着什么？"
+    },
+    {
+      "template_id": "socrates_maieutic_001_p3",
+      "template_name": "帮助他人",
+      "template_type": "dialogue",
+      "difficulty": 4,
+      "estimated_time": "20分钟",
+      "prompt": "朋友向你倾诉困扰，试着用产婆术帮助他：\n\n【朋友的困惑】{friend_problem}\n\n用提问引导（不要直接给建议）：\n1. 你觉得问题是什么？\n2. 为什么会这样认为？\n3. 有没有反例？\n4. 你真正想要的是什么？\n5. 如果解决这个问题，你会怎么做？"
+    }
+  ],
+  
+  "种子信息": {
+    "seed_type": "critical_thinking",
+    "primary_seeds": ["追问种子", "质疑种子", "澄清种子", "反思种子"],
+    "seed_weights": {
+      "perception": 0.25,
+      "reasoning": 0.50,
+      "decision": 0.25
+    },
+    "purity_baseline": 0.85,
+    "growth_potential": "high",
+    "related_seeds": ["柏拉图理念种子", "亚里士多德逻辑种子", "孔子仁学种子"]
+  },
+  
+  "与其他模型的关系": {
+    "prerequisites": [],
+    "complements": [
+      {
+        "model_id": "plato_idea_001",
+        "relation": "师生传承",
+        "description": "柏拉图是苏格拉底的学生，记录和系统化了苏格拉底的思想"
+      },
+      {
+        "model_id": "aristotle_logic_001",
+        "relation": "批判继承",
+        "description": "亚里士多德批判继承了苏格拉底-柏拉图传统，建立形式逻辑"
+      }
+    ],
+    "contrasts": [
+      {
+        "model_id": "confucius_ren_001",
+        "relation": "东西对话",
+        "description": "苏格拉底通过追问探索真理，孔子通过修身践行道德；都有对话精神"
+      }
+    ]
+  },
+  
+  "评估维度": {
+    "dimensions": [
+      {"name": "提问质量", "weight": 0.35, "description": "追问的深度和有效性"},
+      {"name": "概念澄清", "weight": 0.30, "description": "定义概念的清晰度"},
+      {"name": "认知谦逊", "weight": 0.35, "description": "承认无知和局限的程度"}
+    ],
+    "excellent_threshold": 0.82,
+    "good_threshold": 0.68,
+    "average_threshold": 0.50
+  },
+  
+  "视觉设计": {
+    "primary_color": "#1ABC9C",
+    "secondary_color": "#A3E4D7",
+    "icon": "🏛️",
+    "symbol": "?"
+  }
+}

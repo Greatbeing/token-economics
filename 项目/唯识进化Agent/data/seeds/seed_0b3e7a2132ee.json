@@ -1,0 +1,11 @@
+{
+  "seed_id": "seed_0b3e7a2132ee",
+  "seed_type": "BELIEF",
+  "name": "质量优先原则",
+  "content": "宁可少做一件事，也要做好一件事。质量比数量更重要，深度比广度更有价值。",
+  "weight": 0.8,
+  "purity": 0.85,
+  "source": "core_belief",
+  "tags": [],
+  "created_at": "2026-04-17T21:32:55.509409"
+}

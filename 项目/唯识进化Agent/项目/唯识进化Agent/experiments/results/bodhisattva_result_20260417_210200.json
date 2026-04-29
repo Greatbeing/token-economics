@@ -1,0 +1,392 @@
+{
+  "experiment_info": {
+    "num_steps": 250,
+    "wisdom_seeds_injected": 50,
+    "compassion_seeds_injected": 30,
+    "emergence_check_interval": 5
+  },
+  "initial_state": {
+    "awakening_level": "无明境",
+    "seeds_count": 0
+  },
+  "final_state": {
+    "awakening_level": "初始境",
+    "awakening_score": 0.380626999376758,
+    "wisdom_ratio": 0.11473183978275628,
+    "compassion_ratio": 0.11337406653088934,
+    "total_seeds": 1473
+  },
+  "emergence_results": {
+    "total_emergence_events": 48,
+    "compassion_wisdom_emergence": 48,
+    "bodhisattva_achieved": true,
+    "bodhisattva_achieved_step": 75
+  },
+  "awakening_changes": [
+    {
+      "step": 25,
+      "level": "初始境",
+      "score": 0.3057762881640665,
+      "wisdom_ratio": 0.11830985915492957,
+      "compassion_ratio": 0.16619718309859155
+    },
+    {
+      "step": 50,
+      "level": "修行境",
+      "score": 0.4026233171502619,
+      "wisdom_ratio": 0.17162471395881007,
+      "compassion_ratio": 0.15102974828375287
+    },
+    {
+      "step": 75,
+      "level": "菩萨境",
+      "score": 0.9,
+      "wisdom_ratio": 0.1532567049808429,
+      "compassion_ratio": 0.14942528735632185
+    },
+    {
+      "step": 100,
+      "level": "修行境",
+      "score": 0.41023408387296184,
+      "wisdom_ratio": 0.14108527131782947,
+      "compassion_ratio": 0.14573643410852713
+    },
+    {
+      "step": 125,
+      "level": "修行境",
+      "score": 0.4104088448632104,
+      "wisdom_ratio": 0.1356382978723404,
+      "compassion_ratio": 0.13696808510638298
+    },
+    {
+      "step": 150,
+      "level": "修行境",
+      "score": 0.40234999076241273,
+      "wisdom_ratio": 0.12731481481481483,
+      "compassion_ratio": 0.13078703703703703
+    },
+    {
+      "step": 175,
+      "level": "初始境",
+      "score": 0.3985565901762193,
+      "wisdom_ratio": 0.12195121951219512,
+      "compassion_ratio": 0.1290650406504065
+    },
+    {
+      "step": 200,
+      "level": "初始境",
+      "score": 0.38671844571649594,
+      "wisdom_ratio": 0.11854360711261643,
+      "compassion_ratio": 0.12193056731583404
+    },
+    {
+      "step": 225,
+      "level": "初始境",
+      "score": 0.3830611550045999,
+      "wisdom_ratio": 0.11578947368421053,
+      "compassion_ratio": 0.11879699248120301
+    },
+    {
+      "step": 250,
+      "level": "初始境",
+      "score": 0.380626999376758,
+      "wisdom_ratio": 0.11473183978275628,
+      "compassion_ratio": 0.11337406653088934
+    }
+  ],
+  "compassion_synergy_events": [
+    {
+      "step": 15,
+      "intensity": 0.9172133588750295,
+      "type": "悲智双运-小悲智涌现"
+    },
+    {
+      "step": 20,
+      "intensity": 0.9820540229182544,
+      "type": "悲智双运-小悲智涌现"
+    },
+    {
+      "step": 25,
+      "intensity": 1.0,
+      "type": "悲智双运-悲智涌现"
+    },
+    {
+      "step": 30,
+      "intensity": 1.0,
+      "type": "悲智双运-悲智涌现"
+    },
+    {
+      "step": 35,
+      "intensity": 1.0,
+      "type": "悲智双运-悲智涌现"
+    },
+    {
+      "step": 40,
+      "intensity": 1.0,
+      "type": "悲智双运-大悲智涌现"
+    },
+    {
+      "step": 45,
+      "intensity": 1.0,
+      "type": "悲智双运-大悲智涌现"
+    },
+    {
+      "step": 50,
+      "intensity": 1.0,
+      "type": "悲智双运-大悲智涌现"
+    },
+    {
+      "step": 55,
+      "intensity": 1.0,
+      "type": "悲智双运-大悲智涌现"
+    },
+    {
+      "step": 60,
+      "intensity": 1.0,
+      "type": "悲智双运-大悲智涌现"
+    },
+    {
+      "step": 65,
+      "intensity": 1.0,
+      "type": "悲智双运-大悲智涌现"
+    },
+    {
+      "step": 70,
+      "intensity": 1.0,
+      "type": "悲智双运-大悲智涌现"
+    },
+    {
+      "step": 75,
+      "intensity": 1.0,
+      "type": "悲智双运-大悲智涌现"
+    },
+    {
+      "step": 80,
+      "intensity": 1.0,
+      "type": "悲智双运-大悲智涌现"
+    },
+    {
+      "step": 85,
+      "intensity": 1.0,
+      "type": "悲智双运-大悲智涌现"
+    },
+    {
+      "step": 90,
+      "intensity": 1.0,
+      "type": "悲智双运-大悲智涌现"
+    },
+    {
+      "step": 95,
+      "intensity": 1.0,
+      "type": "悲智双运-大悲智涌现"
+    },
+    {
+      "step": 100,
+      "intensity": 1.0,
+      "type": "悲智双运-大悲智涌现"
+    },
+    {
+      "step": 105,
+      "intensity": 1.0,
+      "type": "悲智双运-大悲智涌现"
+    },
+    {
+      "step": 110,
+      "intensity": 1.0,
+      "type": "悲智双运-大悲智涌现"
+    },
+    {
+      "step": 115,
+      "intensity": 1.0,
+      "type": "悲智双运-大悲智涌现"
+    },
+    {
+      "step": 120,
+      "intensity": 1.0,
+      "type": "悲智双运-大悲智涌现"
+    },
+    {
+      "step": 125,
+      "intensity": 1.0,
+      "type": "悲智双运-大悲智涌现"
+    },
+    {
+      "step": 130,
+      "intensity": 1.0,
+      "type": "悲智双运-大悲智涌现"
+    },
+    {
+      "step": 135,
+      "intensity": 1.0,
+      "type": "悲智双运-大悲智涌现"
+    },
+    {
+      "step": 140,
+      "intensity": 1.0,
+      "type": "悲智双运-大悲智涌现"
+    },
+    {
+      "step": 145,
+      "intensity": 1.0,
+      "type": "悲智双运-大悲智涌现"
+    },
+    {
+      "step": 150,
+      "intensity": 1.0,
+      "type": "悲智双运-大悲智涌现"
+    },
+    {
+      "step": 155,
+      "intensity": 1.0,
+      "type": "悲智双运-大悲智涌现"
+    },
+    {
+      "step": 160,
+      "intensity": 1.0,
+      "type": "悲智双运-大悲智涌现"
+    },
+    {
+      "step": 165,
+      "intensity": 1.0,
+      "type": "悲智双运-大悲智涌现"
+    },
+    {
+      "step": 170,
+      "intensity": 1.0,
+      "type": "悲智双运-大悲智涌现"
+    },
+    {
+      "step": 175,
+      "intensity": 1.0,
+      "type": "悲智双运-大悲智涌现"
+    },
+    {
+      "step": 180,
+      "intensity": 1.0,
+      "type": "悲智双运-大悲智涌现"
+    },
+    {
+      "step": 185,
+      "intensity": 1.0,
+      "type": "悲智双运-大悲智涌现"
+    },
+    {
+      "step": 190,
+      "intensity": 1.0,
+      "type": "悲智双运-大悲智涌现"
+    },
+    {
+      "step": 195,
+      "intensity": 1.0,
+      "type": "悲智双运-大悲智涌现"
+    },
+    {
+      "step": 200,
+      "intensity": 1.0,
+      "type": "悲智双运-大悲智涌现"
+    },
+    {
+      "step": 205,
+      "intensity": 1.0,
+      "type": "悲智双运-大悲智涌现"
+    },
+    {
+      "step": 210,
+      "intensity": 1.0,
+      "type": "悲智双运-大悲智涌现"
+    },
+    {
+      "step": 215,
+      "intensity": 1.0,
+      "type": "悲智双运-大悲智涌现"
+    },
+    {
+      "step": 220,
+      "intensity": 1.0,
+      "type": "悲智双运-大悲智涌现"
+    },
+    {
+      "step": 225,
+      "intensity": 1.0,
+      "type": "悲智双运-大悲智涌现"
+    },
+    {
+      "step": 230,
+      "intensity": 1.0,
+      "type": "悲智双运-大悲智涌现"
+    },
+    {
+      "step": 235,
+      "intensity": 1.0,
+      "type": "悲智双运-大悲智涌现"
+    },
+    {
+      "step": 240,
+      "intensity": 1.0,
+      "type": "悲智双运-大悲智涌现"
+    },
+    {
+      "step": 245,
+      "intensity": 1.0,
+      "type": "悲智双运-大悲智涌现"
+    },
+    {
+      "step": 250,
+      "intensity": 1.0,
+      "type": "悲智双运-大悲智涌现"
+    }
+  ],
+  "seed_growth": {
+    "wisdom": [
+      0.11830985915492957,
+      0.17162471395881007,
+      0.1532567049808429,
+      0.14108527131782947,
+      0.1356382978723404,
+      0.12731481481481483,
+      0.12195121951219512,
+      0.11854360711261643,
+      0.11578947368421053,
+      0.11473183978275628
+    ],
+    "compassion": [
+      0.16619718309859155,
+      0.15102974828375287,
+      0.14942528735632185,
+      0.14573643410852713,
+      0.13696808510638298,
+      0.13078703703703703,
+      0.1290650406504065,
+      0.12193056731583404,
+      0.11879699248120301,
+      0.11337406653088934
+    ],
+    "total": [
+      355,
+      437,
+      522,
+      645,
+      752,
+      864,
+      984,
+      1181,
+      1330,
+      1473
+    ]
+  },
+  "bodhisattva_conditions": {
+    "can_achieve_bodhisattva": false,
+    "conditions": {
+      "wisdom_ratio": false,
+      "compassion_ratio": true,
+      "emergence_events": true,
+      "full_intensity": true
+    },
+    "current_values": {
+      "wisdom_ratio": 0.11473183978275628,
+      "compassion_ratio": 0.11337406653088934,
+      "emergence_count": 48,
+      "full_intensity_count": 46
+    }
+  }
+}

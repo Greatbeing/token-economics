@@ -1,0 +1,544 @@
+{
+  "html_analysis": {
+    "total_images": 4,
+    "image_details": [
+      {
+        "index": 1,
+        "src_prefix": "data:image/webp;base64,UklGRmqaAABXRUJQVlA4IF6aAADw+QGdASqQARUCPlEijkUjoiEmp9P8ANAKCWNsnAf8zylIP9aU0...",
+        "src_length": 103,
+        "is_data_uri": true,
+        "class_list": [
+          "chapter-illustration"
+        ],
+        "has_inline_style": false,
+        "inline_style": "",
+        "has_width_attr": false,
+        "width_attr": null,
+        "has_height_attr": false,
+        "height_attr": null,
+        "style_width": null,
+        "style_height": null,
+        "parent_class": [
+          "illustration-container"
+        ],
+        "parent_tag": "div"
+      },
+      {
+        "index": 2,
+        "src_prefix": "data:image/webp;base64,UklGRjR9AABXRUJQVlA4ICh9AADQvgGdASqQARUCPlEkjkUjoiUmpxML6NAKCWNuiJAaBgY6h5TPZ...",
+        "src_length": 103,
+        "is_data_uri": true,
+        "class_list": [
+          "chapter-illustration"
+        ],
+        "has_inline_style": false,
+        "inline_style": "",
+        "has_width_attr": false,
+        "width_attr": null,
+        "has_height_attr": false,
+        "height_attr": null,
+        "style_width": null,
+        "style_height": null,
+        "parent_class": [
+          "illustration-container"
+        ],
+        "parent_tag": "div"
+      },
+      {
+        "index": 3,
+        "src_prefix": "data:image/webp;base64,UklGRkyQAABXRUJQVlA4IECQAAAQ9gGdASqQARUCPlEijkWjoiETmZ4MOAUEsbcBfxcnp7dKe3pxp...",
+        "src_length": 103,
+        "is_data_uri": true,
+        "class_list": [
+          "chapter-illustration"
+        ],
+        "has_inline_style": false,
+        "inline_style": "",
+        "has_width_attr": false,
+        "width_attr": null,
+        "has_height_attr": false,
+        "height_attr": null,
+        "style_width": null,
+        "style_height": null,
+        "parent_class": [
+          "illustration-container"
+        ],
+        "parent_tag": "div"
+      },
+      {
+        "index": 4,
+        "src_prefix": "data:image/webp;base64,UklGRjxnAABXRUJQVlA4IDBnAAAQVwGdASqQARUCPlEkj0WjoiEipfPbQHAKCWNBOadpeOqcEPq12...",
+        "src_length": 103,
+        "is_data_uri": true,
+        "class_list": [
+          "chapter-illustration"
+        ],
+        "has_inline_style": false,
+        "inline_style": "",
+        "has_width_attr": false,
+        "width_attr": null,
+        "has_height_attr": false,
+        "height_attr": null,
+        "style_width": null,
+        "style_height": null,
+        "parent_class": [
+          "illustration-container"
+        ],
+        "parent_tag": "div"
+      }
+    ],
+    "summary": {
+      "images_with_inline_style": 0,
+      "images_with_width_attr": 0,
+      "images_with_height_attr": 0,
+      "images_in_proper_container": 4
+    }
+  },
+  "image_file_analysis": {
+    "total_image_files": 4,
+    "file_details": [
+      {
+        "filename": "phone_image_1_optimized.webp",
+        "width": 400
+      },
+      {
+        "filename": "phone_image_2_optimized.webp",
+        "width": 400
+      },
+      {
+        "filename": "phone_image_3_optimized.webp",
+        "width": 400
+      },
+      {
+        "filename": "phone_image_4_optimized.webp",
+        "width": 400
+      }
+    ],
+    "width_range": {
+      "min": 400,
+      "max": 400,
+      "average": 400.0
+    }
+  },
+  "device_simulation": {
+    "tested_devices": 8,
+    "device_results": [
+      {
+        "device": "iPhone SE",
+        "screen_width": 375,
+        "image_width": 800,
+        "overflow_pixels": 425,
+        "actual_overflow_pixels": 435,
+        "needs_horizontal_scroll": true,
+        "effective_screen_width_with_margin": 365,
+        "percentage_of_screen": 213.33333333333334
+      },
+      {
+        "device": "iPhone 12",
+        "screen_width": 390,
+        "image_width": 800,
+        "overflow_pixels": 410,
+        "actual_overflow_pixels": 420,
+        "needs_horizontal_scroll": true,
+        "effective_screen_width_with_margin": 380,
+        "percentage_of_screen": 205.1282051282051
+      },
+      {
+        "device": "Pixel 5",
+        "screen_width": 393,
+        "image_width": 800,
+        "overflow_pixels": 407,
+        "actual_overflow_pixels": 417,
+        "needs_horizontal_scroll": true,
+        "effective_screen_width_with_margin": 383,
+        "percentage_of_screen": 203.5623409669211
+      },
+      {
+        "device": "iPhone 14 Pro",
+        "screen_width": 430,
+        "image_width": 800,
+        "overflow_pixels": 370,
+        "actual_overflow_pixels": 380,
+        "needs_horizontal_scroll": true,
+        "effective_screen_width_with_margin": 420,
+        "percentage_of_screen": 186.04651162790697
+      },
+      {
+        "device": "Samsung Galaxy S20",
+        "screen_width": 412,
+        "image_width": 800,
+        "overflow_pixels": 388,
+        "actual_overflow_pixels": 398,
+        "needs_horizontal_scroll": true,
+        "effective_screen_width_with_margin": 402,
+        "percentage_of_screen": 194.1747572815534
+      },
+      {
+        "device": "iPhone 13 mini",
+        "screen_width": 375,
+        "image_width": 800,
+        "overflow_pixels": 425,
+        "actual_overflow_pixels": 435,
+        "needs_horizontal_scroll": true,
+        "effective_screen_width_with_margin": 365,
+        "percentage_of_screen": 213.33333333333334
+      },
+      {
+        "device": "Google Pixel 4a",
+        "screen_width": 393,
+        "image_width": 800,
+        "overflow_pixels": 407,
+        "actual_overflow_pixels": 417,
+        "needs_horizontal_scroll": true,
+        "effective_screen_width_with_margin": 383,
+        "percentage_of_screen": 203.5623409669211
+      },
+      {
+        "device": "iPhone 11",
+        "screen_width": 414,
+        "image_width": 800,
+        "overflow_pixels": 386,
+        "actual_overflow_pixels": 396,
+        "needs_horizontal_scroll": true,
+        "effective_screen_width_with_margin": 404,
+        "percentage_of_screen": 193.23671497584542
+      }
+    ],
+    "critical_issues_count": 8
+  },
+  "css_analysis": {
+    "image_related_rules": [
+      {
+        "line_number": 12,
+        "rule": "width: 210mm;",
+        "context": "body {\n    /* A4尺寸设置 */\n    width: 210mm;\n    min-height: 297mm;\n    margin: 0 auto;"
+      },
+      {
+        "line_number": 156,
+        "rule": "width: 100%;",
+        "context": "\n.global-telescope .comparison-table {\n    width: 100%;\n    border-collapse: collapse;\n    margin: 1em 0;"
+      },
+      {
+        "line_number": 203,
+        "rule": "width: 100%;",
+        "context": "\n.philosophy-vocab table {\n    width: 100%;\n    border-collapse: collapse;\n}"
+      },
+      {
+        "line_number": 221,
+        "rule": ".illustration-container {",
+        "context": "\n/* 插图容器 */\n.illustration-container {\n    text-align: center;\n    margin: 1.5em 0;"
+      },
+      {
+        "line_number": 235,
+        "rule": ".chapter-illustration {",
+        "context": "}\n\n.chapter-illustration {\n    max-width: 100%;\n    height: auto;"
+      },
+      {
+        "line_number": 236,
+        "rule": "max-width: 100%;",
+        "context": "\n.chapter-illustration {\n    max-width: 100%;\n    height: auto;\n    border-radius: 6px;"
+      },
+      {
+        "line_number": 251,
+        "rule": "width: 100%;",
+        "context": "/* 表格样式 */\ntable {\n    width: 100%;\n    border-collapse: collapse;\n    margin: 1em 0;"
+      },
+      {
+        "line_number": 303,
+        "rule": "width: auto;",
+        "context": "@media print {\n    body {\n        width: auto;\n        min-height: auto;\n        margin: 0;"
+      },
+      {
+        "line_number": 329,
+        "rule": ".illustration-container {",
+        "context": "    .wisdom-map,\n    .philosophy-vocab,\n    .illustration-container {\n        page-break-inside: avoid;\n    }"
+      },
+      {
+        "line_number": 375,
+        "rule": "@media screen and (max-width: 600px) {",
+        "context": "\n/* 移动端优化样式 */\n@media screen and (max-width: 600px) {\n    body {\n        width: 100%;"
+      },
+      {
+        "line_number": 377,
+        "rule": "width: 100%;",
+        "context": "@media screen and (max-width: 600px) {\n    body {\n        width: 100%;\n        min-height: auto;\n        margin: 0;"
+      },
+      {
+        "line_number": 385,
+        "rule": "width: 100%;",
+        "context": "    \n    .book-content {\n        width: 100%;\n        max-width: 100%;\n        margin: 0 auto;"
+      },
+      {
+        "line_number": 386,
+        "rule": "max-width: 100%;",
+        "context": "    .book-content {\n        width: 100%;\n        max-width: 100%;\n        margin: 0 auto;\n    }"
+      },
+      {
+        "line_number": 431,
+        "rule": ".chapter-illustration {",
+        "context": "    \n    /* 确保图片完全响应 */\n    .chapter-illustration {\n        max-width: 100% !important;\n        height: auto !important;"
+      },
+      {
+        "line_number": 432,
+        "rule": "max-width: 100% !important;",
+        "context": "    /* 确保图片完全响应 */\n    .chapter-illustration {\n        max-width: 100% !important;\n        height: auto !important;\n    }"
+      },
+      {
+        "line_number": 436,
+        "rule": ".illustration-container {",
+        "context": "    }\n    \n    .illustration-container {\n        margin: 1em 0;\n    }"
+      },
+      {
+        "line_number": 442,
+        "rule": "@media screen and (max-width: 400px) {",
+        "context": "\n/* 超小屏幕设备优化 */\n@media screen and (max-width: 400px) {\n    body {\n        font-size: 15px;"
+      },
+      {
+        "line_number": 469,
+        "rule": "@media screen and (max-width: 600px) {",
+        "context": "\n    /* 移动端图片严格响应式控制 */\n    @media screen and (max-width: 600px) {\n        .chapter-illustration {\n            max-width: 100% !important;"
+      },
+      {
+        "line_number": 470,
+        "rule": ".chapter-illustration {",
+        "context": "    /* 移动端图片严格响应式控制 */\n    @media screen and (max-width: 600px) {\n        .chapter-illustration {\n            max-width: 100% !important;\n            height: auto !important;"
+      },
+      {
+        "line_number": 471,
+        "rule": "max-width: 100% !important;",
+        "context": "    @media screen and (max-width: 600px) {\n        .chapter-illustration {\n            max-width: 100% !important;\n            height: auto !important;\n            display: block;"
+      },
+      {
+        "line_number": 478,
+        "rule": ".illustration-container {",
+        "context": "        }\n        \n        .illustration-container {\n            max-width: 100vw;\n            overflow: hidden;"
+      },
+      {
+        "line_number": 479,
+        "rule": "max-width: 100vw;",
+        "context": "        \n        .illustration-container {\n            max-width: 100vw;\n            overflow: hidden;\n            padding: 0 5px;"
+      },
+      {
+        "line_number": 485,
+        "rule": "img {",
+        "context": "        \n        /* 防止图片溢出 */\n        img {\n            max-width: 100% !important;\n            height: auto !important;"
+      },
+      {
+        "line_number": 486,
+        "rule": "max-width: 100% !important;",
+        "context": "        /* 防止图片溢出 */\n        img {\n            max-width: 100% !important;\n            height: auto !important;\n        }"
+      },
+      {
+        "line_number": 492,
+        "rule": "@media screen and (max-width: 400px) {",
+        "context": "    \n    /* 超小屏幕额外优化 */\n    @media screen and (max-width: 400px) {\n        .chapter-illustration {\n            max-width: 95% !important;"
+      },
+      {
+        "line_number": 493,
+        "rule": ".chapter-illustration {",
+        "context": "    /* 超小屏幕额外优化 */\n    @media screen and (max-width: 400px) {\n        .chapter-illustration {\n            max-width: 95% !important;\n        }"
+      },
+      {
+        "line_number": 494,
+        "rule": "max-width: 95% !important;",
+        "context": "    @media screen and (max-width: 400px) {\n        .chapter-illustration {\n            max-width: 95% !important;\n        }\n        "
+      },
+      {
+        "line_number": 497,
+        "rule": ".illustration-container {",
+        "context": "        }\n        \n        .illustration-container {\n            padding: 0;\n        }"
+      },
+      {
+        "line_number": 507,
+        "rule": "@media screen and (max-width: 600px) {",
+        "context": "    \n    /* 确保视口设置正确 */\n    @media screen and (max-width: 600px) {\n        .book-content {\n            width: 100% !important;"
+      },
+      {
+        "line_number": 509,
+        "rule": "width: 100% !important;",
+        "context": "    @media screen and (max-width: 600px) {\n        .book-content {\n            width: 100% !important;\n            max-width: 100% !important;\n            padding: 0 5px;"
+      },
+      {
+        "line_number": 510,
+        "rule": "max-width: 100% !important;",
+        "context": "        .book-content {\n            width: 100% !important;\n            max-width: 100% !important;\n            padding: 0 5px;\n            box-sizing: border-box;"
+      }
+    ],
+    "media_queries_count": 6,
+    "media_queries": [
+      "@media print {\n    body {\n        width: auto;\n        min-height: auto;\n        margin: 0;\n    }\n    \n    /* 避免孤行寡行 */\n    h1, h2, h3, h4, h5, h6 {\n        page-break-after: avoid;\n    }\n    \n    p, li, blockquote {\n        page-break-inside: avoid;\n    }\n    \n    /* 确保表格不跨页断开 */\n    table {\n        page-break-inside: avoid;\n    }\n    \n    /* 插图和特殊容器不跨页 */\n    .thought-theater,\n    .think-about,\n    .ancient-saying,\n    .global-telescope,\n    .wisdom-map,\n    .philosophy-vocab,\n    .illustration-container {\n        page-break-inside: avoid;\n    }\n}",
+      "@media screen and (max-width: 600px) {\n    body {\n        width: 100%;\n        min-height: auto;\n        margin: 0;\n        padding: 15px;\n        font-size: 16px; /* 稍大字号，便于手机阅读 */\n    }\n    \n    .book-content {\n        width: 100%;\n        max-width: 100%;\n        margin: 0 auto;\n    }\n    \n    h1 {\n        font-size: 28px;\n        margin: 1.5em 0 1em 0;\n    }\n    \n    h2 {\n        font-size: 22px;\n        margin: 1.2em 0 0.8em 0;\n    }\n    \n    h3 {\n        font-size: 18px;\n        margin: 1em 0 0.6em 0;\n    }\n    \n    p {\n        font-size: 17px;\n        line-height: 1.6;\n        margin-bottom: 1.2em;\n    }\n    \n    /* 特殊容器在移动端调整内边距 */\n    .thought-theater,\n    .think-about,\n    .ancient-saying,\n    .global-telescope,\n    .wisdom-map,\n    .philosophy-vocab {\n        padding: 1em;\n        margin: 1.2em 0;\n    }\n    \n    /* 表格在移动端变为滚动 */\n    .global-telescope .comparison-table,\n    .philosophy-vocab table {\n        display: block;\n        overflow-x: auto;\n        white-space: nowrap;\n    }\n    \n    /* 确保图片完全响应 */\n    .chapter-illustration {\n        max-width: 100% !important;\n        height: auto !important;\n    }\n    \n    .illustration-container {\n        margin: 1em 0;\n    }\n}",
+      "@media screen and (max-width: 400px) {\n    body {\n        font-size: 15px;\n        padding: 10px;\n    }\n    \n    h1 {\n        font-size: 24px;\n    }\n    \n    h2 {\n        font-size: 20px;\n    }\n    \n    .thought-theater,\n    .think-about,\n    .ancient-saying,\n    .global-telescope,\n    .wisdom-map,\n    .philosophy-vocab {\n        padding: 0.8em;\n    }\n}",
+      "@media screen and (max-width: 600px) {\n        .chapter-illustration {\n            max-width: 100% !important;\n            height: auto !important;\n            display: block;\n            margin-left: auto;\n            margin-right: auto;\n        }\n        \n        .illustration-container {\n            max-width: 100vw;\n            overflow: hidden;\n            padding: 0 5px;\n        }\n        \n        /* 防止图片溢出 */\n        img {\n            max-width: 100% !important;\n            height: auto !important;\n        }\n    }",
+      "@media screen and (max-width: 400px) {\n        .chapter-illustration {\n            max-width: 95% !important;\n        }\n        \n        .illustration-container {\n            padding: 0;\n        }\n        \n        body {\n            padding: 8px !important;\n        }\n    }"
+    ]
+  },
+  "critical_issues": [
+    {
+      "device": "iPhone SE",
+      "screen_width": 375,
+      "image_width": 800,
+      "overflow_pixels": 425,
+      "percentage_of_screen": 213.33333333333334,
+      "issue_description": "图片宽度800px > 屏幕宽度375px，溢出425px，占屏幕213.3%"
+    },
+    {
+      "device": "iPhone 12",
+      "screen_width": 390,
+      "image_width": 800,
+      "overflow_pixels": 410,
+      "percentage_of_screen": 205.1282051282051,
+      "issue_description": "图片宽度800px > 屏幕宽度390px，溢出410px，占屏幕205.1%"
+    },
+    {
+      "device": "Pixel 5",
+      "screen_width": 393,
+      "image_width": 800,
+      "overflow_pixels": 407,
+      "percentage_of_screen": 203.5623409669211,
+      "issue_description": "图片宽度800px > 屏幕宽度393px，溢出407px，占屏幕203.6%"
+    },
+    {
+      "device": "iPhone 14 Pro",
+      "screen_width": 430,
+      "image_width": 800,
+      "overflow_pixels": 370,
+      "percentage_of_screen": 186.04651162790697,
+      "issue_description": "图片宽度800px > 屏幕宽度430px，溢出370px，占屏幕186.0%"
+    },
+    {
+      "device": "Samsung Galaxy S20",
+      "screen_width": 412,
+      "image_width": 800,
+      "overflow_pixels": 388,
+      "percentage_of_screen": 194.1747572815534,
+      "issue_description": "图片宽度800px > 屏幕宽度412px，溢出388px，占屏幕194.2%"
+    },
+    {
+      "device": "iPhone 13 mini",
+      "screen_width": 375,
+      "image_width": 800,
+      "overflow_pixels": 425,
+      "percentage_of_screen": 213.33333333333334,
+      "issue_description": "图片宽度800px > 屏幕宽度375px，溢出425px，占屏幕213.3%"
+    },
+    {
+      "device": "Google Pixel 4a",
+      "screen_width": 393,
+      "image_width": 800,
+      "overflow_pixels": 407,
+      "percentage_of_screen": 203.5623409669211,
+      "issue_description": "图片宽度800px > 屏幕宽度393px，溢出407px，占屏幕203.6%"
+    },
+    {
+      "device": "iPhone 11",
+      "screen_width": 414,
+      "image_width": 800,
+      "overflow_pixels": 386,
+      "percentage_of_screen": 193.23671497584542,
+      "issue_description": "图片宽度800px > 屏幕宽度414px，溢出386px，占屏幕193.2%"
+    }
+  ],
+  "css_issues": [
+    {
+      "line": 12,
+      "rule": "width: 210mm;",
+      "issue": "使用固定width而非max-width可能限制响应式"
+    },
+    {
+      "line": 156,
+      "rule": "width: 100%;",
+      "issue": "使用固定width而非max-width可能限制响应式"
+    },
+    {
+      "line": 203,
+      "rule": "width: 100%;",
+      "issue": "使用固定width而非max-width可能限制响应式"
+    },
+    {
+      "line": 251,
+      "rule": "width: 100%;",
+      "issue": "使用固定width而非max-width可能限制响应式"
+    },
+    {
+      "line": 303,
+      "rule": "width: auto;",
+      "issue": "使用固定width而非max-width可能限制响应式"
+    },
+    {
+      "line": 377,
+      "rule": "width: 100%;",
+      "issue": "使用固定width而非max-width可能限制响应式"
+    },
+    {
+      "line": 385,
+      "rule": "width: 100%;",
+      "issue": "使用固定width而非max-width可能限制响应式"
+    },
+    {
+      "line": 432,
+      "rule": "max-width: 100% !important;",
+      "issue": "使用!important可能影响样式覆盖"
+    },
+    {
+      "line": 471,
+      "rule": "max-width: 100% !important;",
+      "issue": "使用!important可能影响样式覆盖"
+    },
+    {
+      "line": 486,
+      "rule": "max-width: 100% !important;",
+      "issue": "使用!important可能影响样式覆盖"
+    },
+    {
+      "line": 494,
+      "rule": "max-width: 95% !important;",
+      "issue": "使用!important可能影响样式覆盖"
+    },
+    {
+      "line": 509,
+      "rule": "width: 100% !important;",
+      "issue": "使用!important可能影响样式覆盖"
+    },
+    {
+      "line": 509,
+      "rule": "width: 100% !important;",
+      "issue": "使用固定width而非max-width可能限制响应式"
+    },
+    {
+      "line": 510,
+      "rule": "max-width: 100% !important;",
+      "issue": "使用!important可能影响样式覆盖"
+    }
+  ],
+  "html_issues": [],
+  "root_cause_analysis": [
+    {
+      "issue": "图片物理尺寸过大",
+      "description": "图片实际宽度为800px，远超过手机屏幕宽度（375-430px）",
+      "impact": "导致水平溢出，需要滚动才能查看完整图片",
+      "recommendation": "将图片宽度压缩至380px以下，适配最小屏幕"
+    },
+    {
+      "issue": "容器宽度限制不足",
+      "description": "虽然设置了max-width: 100%，但容器本身可能没有限制宽度",
+      "impact": "图片可能超过容器边界",
+      "recommendation": "为.illustration-container添加width: 100%; box-sizing: border-box;"
+    },
+    {
+      "issue": "缺少超小屏幕优化",
+      "description": "虽然有针对≤600px的媒体查询，但缺少专门针对≤400px超小屏幕的优化",
+      "impact": "在最小屏幕上图片可能仍然过大",
+      "recommendation": "添加@media screen and (max-width: 400px)专门优化"
+    }
+  ],
+  "optimization_recommendations": [
+    "将图片宽度从800px压缩至380px，使用WebP质量80%平衡清晰度与体积",
+    "为.illustration-container添加width: 100%; box-sizing: border-box;确保包含padding不溢出",
+    "为.chapter-illustration添加max-width: calc(100% - 10px); margin: 0 auto;双重保险",
+    "增强移动端媒体查询，特别是针对≤400px超小屏幕，设置图片max-width: 95%",
+    "检查并移除任何可能干扰响应式的外边距、固定宽度等属性",
+    "确保视口设置正确：<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, user-scalable=yes\">",
+    "测试所有主流设备：iPhone SE (375px)、iPhone 12 (390px)、Pixel 5 (393px)、iPhone 14 Pro (430px)等"
+  ]
+}

@@ -1,0 +1,17 @@
+file '/app/data/files/outputs/漫画/第三周第一期/孔张向上管理.jpg'
+duration 6.25
+file '/app/data/files/outputs/漫画/第三周第一期/职场小透明.jpg'
+duration 6.25
+file '/app/data/files/outputs/漫画/第三周第一期/孔圣言教图.jpg'
+duration 6.25
+file '/app/data/files/outputs/漫画/第三周第一期/孔张对话.jpg'
+duration 6.25
+file '/app/data/files/outputs/漫画/第三周第一期/孔讲贡献点.jpg'
+duration 6.25
+file '/app/data/files/outputs/漫画/第三周第一期/行笃敬量化成果.jpg'
+duration 6.25
+file '/app/data/files/outputs/漫画/第三周第一期/孔圣汇报提醒.jpg'
+duration 6.25
+file '/app/data/files/outputs/漫画/第三周第一期/古今清单交接.jpg'
+duration 6.25
+file '/app/data/files/outputs/漫画/第三周第一期/古今清单交接.jpg'

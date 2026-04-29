@@ -1,0 +1,8 @@
+file '/app/data/files/temp/resized/古今快递Q版.jpg'
+duration 16.416
+file '/app/data/files/temp/resized/情绪垃圾箱.jpg'
+duration 16.416
+file '/app/data/files/temp/resized/消费观转变.jpg'
+duration 16.416
+file '/app/data/files/temp/resized/简福金言.jpg'
+duration 16.416

@@ -1,0 +1,82 @@
+{
+  "optimization_date": "2026-04-04",
+  "original_html_size_mb": 3.19,
+  "optimized_html_size_mb": 0.4570741653442383,
+  "image_optimization": {
+    "total_original_images": 4,
+    "total_original_size_kb": 2425.2802734375,
+    "total_optimized_size_kb": 327.55859375,
+    "total_reduction_percent": 86.49399010343119,
+    "images": [
+      {
+        "index": 1,
+        "original": {
+          "format": "jpeg",
+          "size_kb": 665.5654296875,
+          "dimensions": "1728x2304"
+        },
+        "optimized": {
+          "format": "webp",
+          "size_kb": 97.927734375,
+          "dimensions": "800x1066",
+          "reduction_percent": 85.28653532666509
+        }
+      },
+      {
+        "index": 2,
+        "original": {
+          "format": "jpeg",
+          "size_kb": 633.8896484375,
+          "dimensions": "1728x2304"
+        },
+        "optimized": {
+          "format": "webp",
+          "size_kb": 77.70703125,
+          "dimensions": "800x1066",
+          "reduction_percent": 87.74123675287281
+        }
+      },
+      {
+        "index": 3,
+        "original": {
+          "format": "jpeg",
+          "size_kb": 630.46484375,
+          "dimensions": "1728x2304"
+        },
+        "optimized": {
+          "format": "webp",
+          "size_kb": 89.837890625,
+          "dimensions": "800x1066",
+          "reduction_percent": 85.75053129201544
+        }
+      },
+      {
+        "index": 4,
+        "original": {
+          "format": "jpeg",
+          "size_kb": 495.3603515625,
+          "dimensions": "1728x2304"
+        },
+        "optimized": {
+          "format": "webp",
+          "size_kb": 62.0859375,
+          "dimensions": "800x1066",
+          "reduction_percent": 87.46651053033125
+        }
+      }
+    ]
+  },
+  "mobile_optimizations": [
+    "图片压缩至适合移动端加载的大小",
+    "图片格式转换为WebP以获得更好的压缩比",
+    "添加响应式图片属性 (max-width: 100%, height: auto)",
+    "添加移动端媒体查询 (max-width: 600px)",
+    "调整移动端字体大小和间距",
+    "优化表格在窄屏设备的显示"
+  ],
+  "file_paths": {
+    "optimized_html": "/app/data/files/outputs/儿童哲学史/移动端优化/第一章_移动端优化.html",
+    "mobile_css": "/app/data/files/outputs/儿童哲学史/移动端优化/style_mobile.css",
+    "optimized_images_dir": "/app/data/files/outputs/儿童哲学史/移动端优化/images"
+  }
+}

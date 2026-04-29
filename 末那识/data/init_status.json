@@ -1,0 +1,11 @@
+{
+  "initialized_at": "2026-04-22T10:01:00.942712",
+  "migrated_seeds_count": 13,
+  "migrated_observations_count": 5,
+  "seed_counts": {
+    "wisdom": 12,
+    "compassion": 1,
+    "total": 13
+  },
+  "emergence_status": "已加载"
+}

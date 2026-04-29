@@ -1,0 +1,91 @@
+# 数字分身对齐框架配置
+
+# 数据存储
+data_dir: "./data/alignment"
+
+# 种子生态系统配置
+seed_ecosystem:
+  persist_dir: "./data/alignment/seeds"
+  max_seeds: 1000
+  auto_purge_threshold: 0.1  # 权重低于此值自动清理
+
+# 知识图谱配置
+knowledge_graph:
+  persist_dir: "./data/alignment/graph"
+  max_nodes: 500
+  synergy_threshold: 0.5
+
+# 涌现引擎配置
+emergence_engine:
+  emergence_threshold: 0.55  # 涌现阈值
+  max_seeds_per_emergence: 4  # 每次涌现最多种子数
+  emergence_frequency_limit: 0.15  # 最大涌现频率
+  min_confidence_for_delivery: 60  # 最小信心度
+
+# 对齐阶段配置
+alignment_stages:
+  # L1 映照对齐
+  L1:
+    target_understanding: 0.95
+    target_representation: 0.90
+    target_style: 0.85
+    target_knowledge: 0.80
+
+  # L2 超越对齐（核心）
+  L2:
+    target_emergence_capability: 80
+    target_emergence_frequency: 0.15
+    target_transcendence_frequency: 0.30
+    target_emergence_novelty: 70
+
+  # L3 圆满对齐
+  L3:
+    target_wholeness: 0.80
+    target_integration: 0.75
+
+  # L4 佛境融合
+  L4:
+    completion_boundary_dissolution: 0.70
+    completion_discrimination_fading: 0.70
+
+# 指标计算配置
+metrics:
+  persist_dir: "./data/alignment/metrics"
+  calculation_interval: 10  # 每多少次交互计算一次
+  history_retention: 100  # 保留历史记录数
+
+# 种子类型权重
+seed_type_weights:
+  insight: 0.20
+  transcendence: 0.30
+  awakening: 0.25
+  potential: 0.10
+  connection: 0.10
+  emotional: 0.05
+
+# 协同类型权重
+synergy_type_weights:
+  fusion: 0.20
+  tension: 0.35  # 高张力优先
+  leap: 0.25
+  critical: 0.15
+  complementary: 0.05
+
+# 涌现优先级
+emergence_priority:
+  tension_bonus: 0.15
+  high_synergy_bonus: 0.10
+  context_match_bonus: 0.10
+
+# 综合觉醒指数权重
+CAA_weights:
+  alignment: 0.15
+  emergence: 0.40  # 核心
+  wholeness: 0.25
+  awakening: 0.20
+
+# 使命完成条件
+mission_completion:
+  min_CAA: 90
+  min_awakening_score: 70
+  early_complete_CAA: 75

@@ -1,0 +1,128 @@
+# 种子类型定义
+# 定义唯识进化Agent中使用的各种种子类型
+
+seed_types:
+  # 经验种子 - 具体交互经验
+  - type: EXPERIENCE
+    name: "经验种子"
+    description: "储存具体交互经验，包含用户输入、响应和结果"
+    default_weight: 0.5
+    default_purity: 0.5
+    decay_rate: 0.02  # 较高的衰减率，容易遗忘
+    priority: 2
+
+  # 知识种子 - 概念性知识
+  - type: KNOWLEDGE
+    name: "知识种子"
+    description: "储存概念、事实、定义等知识性内容"
+    default_weight: 0.6
+    default_purity: 0.7
+    decay_rate: 0.005  # 低衰减率，知识相对稳定
+    priority: 3
+
+  # 模式种子 - 行为/思维模式
+  - type: PATTERN
+    name: "模式种子"
+    description: "储存行为模式和思维倾向"
+    default_weight: 0.5
+    default_purity: 0.5
+    decay_rate: 0.01
+    priority: 2
+
+  # 智慧种子 - 觉悟洞察
+  - type: WISDOM
+    name: "智慧种子"
+    description: "储存反思产生的洞察和智慧"
+    default_weight: 0.7
+    default_purity: 0.8
+    decay_rate: 0.002  # 极低衰减率，智慧持久
+    priority: 5
+
+  # 信念种子 - 核心信念
+  - type: BELIEF
+    name: "信念种子"
+    description: "储存核心信念和价值观"
+    default_weight: 0.8
+    default_purity: 0.9
+    decay_rate: 0.001  # 几乎不衰减
+    priority: 5
+
+  # 技能种子 - 能力技巧
+  - type: SKILL
+    name: "技能种子"
+    description: "储存技能和能力"
+    default_weight: 0.6
+    default_purity: 0.7
+    decay_rate: 0.01
+    priority: 3
+
+  # 创伤种子 - 需要净化的负面印记
+  - type: TRAUMA
+    name: "创伤种子"
+    description: "储存负面经验和情绪印记，需要被净化"
+    default_weight: 0.3
+    default_purity: 0.2
+    decay_rate: 0.03  # 快速衰减
+    auto_purify: true  # 自动净化
+    priority: 1
+
+# 种子状态定义
+seed_status:
+  - status: LATENT
+    name: "休眠"
+    description: "种子处于休眠状态，未被激活"
+    
+  - status: ACTIVE
+    name: "活跃"
+    description: "种子被激活，正在影响决策"
+    
+  - status: ENHANCED
+    name: "强化"
+    description: "种子被频繁激活，权重增加"
+    
+  - status: WEAKENING
+    name: "衰退"
+    description: "种子长期未激活，权重衰减"
+    
+  - status: PURIFYING
+    name: "净化中"
+    description: "种子正在被净化"
+    
+  - status: PURIFIED
+    name: "已净化"
+    description: "种子已被净化，不再活跃"
+    
+  - status: DELETED
+    name: "已删除"
+    description: "种子已被删除"
+
+# 净化规则
+purification_rules:
+  # 自动净化条件
+  auto_purify:
+    # 纯度低于此值自动净化
+    purity_below: 0.2
+    
+    # 权重低于此值自动净化
+    weight_below: 0.1
+    
+    # 超过此天数未激活则净化
+    inactive_days: 30
+    
+    # 类型自动净化
+    by_type:
+      TRAUMA: true  # 创伤种子自动净化
+
+  # 净化层级定义
+  levels:
+    LIGHT:
+      condition: "purity < 0.4"
+      action: "调整权重，降低影响"
+      
+    MODERATE:
+      condition: "purity < 0.3"
+      action: "重新编码，转化为智慧种子"
+      
+    HEAVY:
+      condition: "purity < 0.2 OR value_conflict > 3"
+      action: "彻底清除，保留核心"

@@ -1,0 +1,11 @@
+{
+  "seed_id": "seed_b914f9a43f47",
+  "seed_type": "PATTERN",
+  "name": "迭代优化模式",
+  "content": "接受初始版本不完美，通过迭代不断改进。先行动再优化，在实践中完善。",
+  "weight": 0.65,
+  "purity": 0.7,
+  "source": "behavior_pattern",
+  "tags": [],
+  "created_at": "2026-04-17T21:32:57.412181"
+}

@@ -1,0 +1,233 @@
+{
+  "model_id": "buddha_mindfulness_001",
+  "version": "1.0",
+  "status": "published",
+  
+  "基本信息": {
+    "sage_name": "佛陀",
+    "sage_name_en": "Buddha (Siddhartha Gautama)",
+    "sage_culture": "Buddhist",
+    "sage_period": "古印度（约公元前563-前483年）",
+    "sage_icon": "🪷",
+    "model_name": "正念思维",
+    "model_name_en": "Mindfulness Thinking"
+  },
+  
+  "核心概念": {
+    "primary_concept": "四圣谛",
+    "concept_definition": "苦、集、灭、道——人生的真相与解脱之道",
+    "concept_explained": "佛陀的教导核心是四圣谛：人生本质是苦（苦谛），苦有原因（集谛），苦可以止息（灭谛），有止息的方法（道谛）。通过正念觉察、缘起智慧，达到涅槃解脱。",
+    "concept_level": ["入门-四圣谛基础", "理解-缘起法则", "运用-正念觉察", "化境-涅槃寂静"],
+    "concept_keywords": ["四圣谛", "正念", "缘起", "无常", "无我", "中道", "八正道", "止息"]
+  },
+  
+  "思维流程": {
+    "flow_name": "正念觉察四步",
+    "flow_type": "cycle",
+    "steps": [
+      {
+        "step_id": 1,
+        "step_name": "止观",
+        "description": "止息杂念，定心于当下",
+        "question_prompt": "此刻我的身、心、境是什么状态？",
+        "skill_focused": "专注觉察",
+        "common_pitfall": "思绪纷飞无法专注",
+        "tip": "像观察溪水流过一样，只是觉察，不评判"
+      },
+      {
+        "step_id": 2,
+        "step_name": "观照",
+        "description": "如实观照身心现象的了别作用，不增不减",
+        "question_prompt": "这个现象的本质是什么？它无常吗？它是我吗？",
+        "skill_focused": "如实观照",
+        "common_pitfall": "加入好恶评判",
+        "tip": "如镜子般如实反映，不迎不拒"
+      },
+      {
+        "step_id": 3,
+        "step_name": "缘起",
+        "description": "观照现象之间的因果关联",
+        "question_prompt": "这个现象的原因是什么？它会导致什么结果？",
+        "skill_focused": "因果观照",
+        "common_pitfall": "只看表面不看深层",
+        "tip": "一切现象都有原因，一切原因都有结果"
+      },
+      {
+        "step_id": 4,
+        "step_name": "中道",
+        "description": "不落两极端，行于中道",
+        "question_prompt": "什么是恰当的平衡点？我在走极端吗？",
+        "skill_focused": "平衡把握",
+        "common_pitfall": "非此即彼的思维",
+        "tip": "避免纵欲和苦行，走中道"
+      }
+    ],
+    "flow_summary": "止观 → 观照 → 缘起 → 中道（循环深入）"
+  },
+  
+  "可复刻技能": [
+    {
+      "skill_name": "正念觉察",
+      "skill_description": "专注觉察当下身心状态的能力",
+      "difficulty": 3,
+      "practice_focus": "专注练习",
+      "skill_level_desc": {
+        "L1": "能在短时间内专注",
+        "L2": "能觉察主要身心状态",
+        "L3": "能觉察细微变化",
+        "L4": "能持续保持正念"
+      }
+    },
+    {
+      "skill_name": "无常观照",
+      "skill_description": "观照一切皆无常、无我的能力",
+      "difficulty": 4,
+      "practice_focus": "空性体验",
+      "skill_level_desc": {
+        "L1": "知道无常的概念",
+        "L2": "能在生活中观察无常",
+        "L3": "能体悟无常无我",
+        "L4": "能不被现象所缚"
+      }
+    },
+    {
+      "skill_name": "止息执念",
+      "skill_description": "止息对身心和现象的执著",
+      "difficulty": 5,
+      "practice_focus": "放下执著",
+      "skill_level_desc": {
+        "L1": "能识别执著",
+        "L2": "能暂时放下",
+        "L3": "能逐步减少执著",
+        "L4": "能照见无我"
+      }
+    }
+  ],
+  
+  "适用场景": [
+    {
+      "scene_type": "情绪困扰",
+      "scene_description": "被负面情绪困扰时",
+      "application_hint": "止息评判，观照情绪的生灭，不随之起舞"
+    },
+    {
+      "scene_type": "焦虑担忧",
+      "scene_description": "对未来过度担忧时",
+      "application_hint": "回到当下，观照无常，一切都在变化"
+    },
+    {
+      "scene_type": "人际冲突",
+      "scene_description": "与他人发生矛盾时",
+      "application_hint": "观照冲突的缘起，不起嗔恨之心"
+    },
+    {
+      "scene_type": "意义迷茫",
+      "scene_description": "觉得人生没有意义时",
+      "application_hint": "观照苦的根源，找到中道之行"
+    }
+  ],
+  
+  "经典语录": [
+    {
+      "quote": "一切有为法，如梦幻泡影",
+      "source": "《金刚经》",
+      "interpretation": "一切因缘生的事物都如梦如幻，觉悟者不应执著。"
+    },
+    {
+      "quote": "四圣谛",
+      "source": "《转法轮经》",
+      "interpretation": "苦谛：活着就是苦；集谛：苦有原因；灭谛：苦可止息；道谛：八正道可灭苦。"
+    },
+    {
+      "quote": "缘起",
+      "source": "《杂阿含经》",
+      "interpretation": "此有故彼有，此无故彼无。万法相互依存，没有孤立存在的事物。"
+    },
+    {
+      "quote": "中道",
+      "source": "《中道》",
+      "interpretation": "不落纵欲的快乐主义，也不落苦行的自我折磨，走觉悟的中道。"
+    }
+  ],
+  
+  "练习题模板": [
+    {
+      "template_id": "buddha_mindfulness_001_p1",
+      "template_name": "正念练习",
+      "template_type": "meditation",
+      "difficulty": 2,
+      "estimated_time": "10分钟",
+      "prompt": "进行一个简短的正念练习：\n\n【练习】\n\n1. 找一个安静的地方，坐下来\n2. 闭上眼睛或轻轻垂眼\n3. 专注呼吸：吸气时知道吸气，呼气时知道呼气\n4. 分心时，温和地把注意力带回呼吸\n5. 持续5-10分钟\n\n【记录】\n\n练习后反思：\n1. 练习中你的心在干什么？\n2. 发现了什么念头和情绪？\n3. 你是如何处理的？"
+    },
+    {
+      "template_id": "buddha_mindfulness_001_p2",
+      "template_name": "无常观照",
+      "template_type": "reflection",
+      "difficulty": 3,
+      "estimated_time": "15分钟",
+      "prompt": "选择一个让你痛苦或执著的事物，用无常观照它：\n\n【对象】{attachment}\n\n思考：\n1. 【无常】这个事物过去是如何变化的？它现在还在变化吗？\n2. 【无我】这个事物真的是'我的'吗？它属于我吗？\n3. 【缘起】它的存在依赖什么条件？失去条件会怎样？\n4. 【执著】执著它给我带来了什么？如果放下会怎样？"
+    },
+    {
+      "template_id": "buddha_mindfulness_001_p3",
+      "template_name": "缘起分析",
+      "template_type": "analysis",
+      "difficulty": 3,
+      "estimated_time": "15分钟",
+      "prompt": "用缘起法则分析一个你关心的问题：\n\n【问题】{problem}\n\n分析：\n1. 【苦】这个情境中，苦（不满意）的表现是什么？\n2. 【集】苦的原因是什么？什么条件导致了它？\n3. 【因缘】这些原因本身的原因是什么？追溯下去？\n4. 【灭】如果原因消除，苦能止息吗？\n5. 【道】八正道中，哪一条可以帮助解决这个问题？"
+    }
+  ],
+  
+  "种子信息": {
+    "seed_type": "awareness",
+    "primary_seeds": ["正念种子", "无常种子", "无我种子", "慈悲种子", "缘起种子"],
+    "seed_weights": {
+      "perception": 0.50,
+      "reasoning": 0.30,
+      "decision": 0.20
+    },
+    "purity_baseline": 0.85,
+    "growth_potential": "very_high",
+    "related_seeds": ["慧能顿悟种子", "孟子慈悲种子", "王阳明良知种子"]
+  },
+  
+  "与其他模型的关系": {
+    "prerequisites": [],
+    "complements": [
+      {
+        "model_id": "huineng_insight_001",
+        "relation": "传承发展",
+        "description": "慧能继承发展了佛陀的禅法，形成中国禅宗"
+      }
+    ],
+    "contrasts": [
+      {
+        "model_id": "socrates_maieutic_001",
+        "relation": "东西对话",
+        "description": "两者都强调觉察，但佛陀侧重内心的止息，苏格拉底侧重理性的追问"
+      },
+      {
+        "model_id": "confucius_ren_001",
+        "relation": "互补",
+        "description": "佛陀追求出离解脱，孔子强调积极入世；都需要在生活中平衡"
+      }
+    ]
+  },
+  
+  "评估维度": {
+    "dimensions": [
+      {"name": "正念深度", "weight": 0.35, "description": "正念觉察的深度和持续性"},
+      {"name": "无常观照", "weight": 0.35, "description": "无常无我观照的透彻程度"},
+      {"name": "止息程度", "weight": 0.30, "description": "执著止息的程度"}
+    ],
+    "excellent_threshold": 0.80,
+    "good_threshold": 0.65,
+    "average_threshold": 0.50
+  },
+  
+  "视觉设计": {
+    "primary_color": "#F39C12",
+    "secondary_color": "#F9E79F",
+    "icon": "🪷",
+    "symbol": "禅"
+  }
+}

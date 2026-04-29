@@ -1,0 +1,6 @@
+2026-04-18 20:31:12,783 - TestAgent - INFO - 初始化涌现优化模块...
+2026-04-18 20:31:12,783 - AttractorDesigner - INFO - 已初始化 5 个预设吸引子
+2026-04-18 20:31:12,784 - TestAgent - INFO - 涌现优化模块初始化完成
+2026-04-18 20:31:12,785 - TestAgent - INFO - TestAgent 已初始化（含涌现优化）
+2026-04-18 20:31:12,785 - ScaleOptimizer - INFO - 开始注入基础种子库...
+2026-04-18 20:31:12,785 - ScaleOptimizer - INFO - 已注入 50 个基础种子

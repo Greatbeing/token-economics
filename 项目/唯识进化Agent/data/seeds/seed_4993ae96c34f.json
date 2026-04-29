@@ -1,0 +1,11 @@
+{
+  "seed_id": "seed_4993ae96c34f",
+  "seed_type": "EXPERIENCE",
+  "name": "角色一致性维护",
+  "content": "通过MEMORY.md保持角色设定一致性，sub-agent能准确继承角色特征，避免了角色漂移问题。",
+  "weight": 0.65,
+  "purity": 0.7,
+  "source": "experiment_0417",
+  "tags": [],
+  "created_at": "2026-04-17T21:32:50.780013"
+}

@@ -1,0 +1,190 @@
+{
+  "index_version": "1.0",
+  "last_updated": "2025-01-26",
+  "total_models": 10,
+  "total_sages": 10,
+  
+  "sages_summary": [
+    {
+      "sage_name": "孔子",
+      "sage_culture": "Chinese",
+      "model_count": 1,
+      "model_ids": ["confucius_ren_001"]
+    },
+    {
+      "sage_name": "老子",
+      "sage_culture": "Chinese",
+      "model_count": 1,
+      "model_ids": ["laozi_wuwei_001"]
+    },
+    {
+      "sage_name": "庄子",
+      "sage_culture": "Chinese",
+      "model_count": 1,
+      "model_ids": ["zhuangzi_freedom_001"]
+    },
+    {
+      "sage_name": "孟子",
+      "sage_culture": "Chinese",
+      "model_count": 1,
+      "model_ids": ["mencius_heart_001"]
+    },
+    {
+      "sage_name": "王阳明",
+      "sage_culture": "Chinese",
+      "model_count": 1,
+      "model_ids": ["wang_yangming_liangzhi_001"]
+    },
+    {
+      "sage_name": "苏格拉底",
+      "sage_culture": "Western",
+      "model_count": 1,
+      "model_ids": ["socrates_maieutic_001"]
+    },
+    {
+      "sage_name": "柏拉图",
+      "sage_culture": "Western",
+      "model_count": 1,
+      "model_ids": ["plato_idea_001"]
+    },
+    {
+      "sage_name": "亚里士多德",
+      "sage_culture": "Western",
+      "model_count": 1,
+      "model_ids": ["aristotle_logic_001"]
+    },
+    {
+      "sage_name": "佛陀",
+      "sage_culture": "Buddhist",
+      "model_count": 1,
+      "model_ids": ["buddha_mindfulness_001"]
+    },
+    {
+      "sage_name": "慧能",
+      "sage_culture": "Buddhist",
+      "model_count": 1,
+      "model_ids": ["huineng_insight_001"]
+    }
+  ],
+  
+  "culture_distribution": {
+    "Chinese": 5,
+    "Western": 3,
+    "Buddhist": 2
+  },
+  
+  "model_list": [
+    {
+      "model_id": "confucius_ren_001",
+      "model_name": "仁学思维",
+      "core_concept": "仁",
+      "difficulty": 3,
+      "primary_seeds": ["共情种子", "关怀种子", "关系种子"],
+      "file": "confucius_ren.json"
+    },
+    {
+      "model_id": "laozi_wuwei_001",
+      "model_name": "道法思维",
+      "core_concept": "道",
+      "difficulty": 4,
+      "primary_seeds": ["观道种子", "顺势种子", "柔弱种子"],
+      "file": "laozi_wuwei.json"
+    },
+    {
+      "model_id": "zhuangzi_freedom_001",
+      "model_name": "逍遥思维",
+      "core_concept": "逍遥",
+      "difficulty": 4,
+      "primary_seeds": ["齐物种子", "无用种子", "游心种子"],
+      "file": "zhuangzi_freedom.json"
+    },
+    {
+      "model_id": "mencius_heart_001",
+      "model_name": "心性思维",
+      "core_concept": "性善",
+      "difficulty": 4,
+      "primary_seeds": ["恻隐种子", "浩然种子", "扩充种子"],
+      "file": "mencius_heart.json"
+    },
+    {
+      "model_id": "wang_yangming_liangzhi_001",
+      "model_name": "知行合一",
+      "core_concept": "致良知",
+      "difficulty": 4,
+      "primary_seeds": ["良知种子", "知行种子", "事上磨练种子"],
+      "file": "wangyangming_liangzhi.json"
+    },
+    {
+      "model_id": "socrates_maieutic_001",
+      "model_name": "产婆术",
+      "core_concept": "自知其无知",
+      "difficulty": 4,
+      "primary_seeds": ["追问种子", "质疑种子", "反思种子"],
+      "file": "socrates_maieutic.json"
+    },
+    {
+      "model_id": "plato_idea_001",
+      "model_name": "理念论思维",
+      "core_concept": "理念",
+      "difficulty": 4,
+      "primary_seeds": ["本质种子", "抽象种子", "理想种子"],
+      "file": "plato_idea.json"
+    },
+    {
+      "model_id": "aristotle_logic_001",
+      "model_name": "形式逻辑思维",
+      "core_concept": "形式逻辑",
+      "difficulty": 4,
+      "primary_seeds": ["定义种子", "推理种子", "矛盾种子"],
+      "file": "aristotle_logic.json"
+    },
+    {
+      "model_id": "buddha_mindfulness_001",
+      "model_name": "正念思维",
+      "core_concept": "四圣谛",
+      "difficulty": 4,
+      "primary_seeds": ["正念种子", "无常种子", "缘起种子"],
+      "file": "buddha_mindfulness.json"
+    },
+    {
+      "model_id": "huineng_insight_001",
+      "model_name": "顿悟思维",
+      "core_concept": "顿悟",
+      "difficulty": 5,
+      "primary_seeds": ["顿悟种子", "见性种子", "自性种子"],
+      "file": "huineng_insight.json"
+    }
+  ],
+  
+  "cross_culture_connections": [
+    {
+      "connection_id": "east_west_morality",
+      "description": "东方儒家仁学与西方苏格拉底伦理学的对话",
+      "models": ["confucius_ren_001", "socrates_maieutic_001"],
+      "connection_point": "道德理性的培养"
+    },
+    {
+      "connection_id": "nature_way",
+      "description": "道家道法自然与佛学的因缘法的对话",
+      "models": ["laozi_wuwei_001", "buddha_mindfulness_001"],
+      "connection_point": "顺应自然规律"
+    },
+    {
+      "connection_id": "wisdom_awakening",
+      "description": "儒道佛三家智慧与西方哲学的融通",
+      "models": ["zhuangzi_freedom_001", "huineng_insight_001", "plato_idea_001"],
+      "connection_point": "追求心灵自由"
+    }
+  ],
+  
+  "seed_type_summary": {
+    "moral_reasoning": ["confucius_ren_001"],
+    "wisdom": ["laozi_wuwei_001", "zhuangzi_freedom_001"],
+    "moral": ["mencius_heart_001"],
+    "integrated": ["wang_yangming_liangzhi_001"],
+    "critical_thinking": ["socrates_maieutic_001"],
+    "philosophical": ["plato_idea_001"],
+    "logical": ["aristotle_logic_001"],
+    "awareness": ["buddha_mindfulness_001", "huineng_insight_001"]
+  }
+}

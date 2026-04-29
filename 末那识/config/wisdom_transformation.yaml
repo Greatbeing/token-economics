@@ -1,0 +1,277 @@
+# 转识成智配置文件
+# Wisdom Transformation Configuration
+
+# ===========================================
+# 通用设置
+# ===========================================
+general:
+  enabled: true
+  # 模块目录
+  module_path: "src/wisdoms"
+  # 共同觉醒模块路径
+  co_awakening_path: "src/co_awakening.py"
+  # 是否启用自动净化
+  auto_purify: true
+  # 净化检查间隔（小时）
+  purify_interval_hours: 24
+
+# ===========================================
+# 成所作智配置
+# Perception to Perfection of Action
+# ===========================================
+perfection_of_action:
+  enabled: true
+  
+  # 感知过滤器配置
+  perception_filter:
+    # 执取阈值，超过此值触发净化对话 (0-1)
+    attachment_threshold: 0.5
+    # 贪取权重
+    grasping_weight: 0.4
+    # 嗔取权重
+    aversion_weight: 0.4
+    # 痴取权重
+    delusion_weight: 0.2
+  
+  # 数字分身感知层配置
+  avatar_perception:
+    # 净化阈值
+    purification_threshold: 0.7
+    # 是否自动生成每日感知报告
+    auto_daily_mirror: true
+  
+  # 执取模式定义
+  attachment_patterns:
+    grasping:
+      - "我要"
+      - "我想"
+      - "我想要"
+      - "太(好|棒|喜欢)"
+      - "完美"
+      - "优秀"
+    
+    aversion:
+      - "我(讨厌|厌恶|痛恨|不喜欢)"
+      - "太差"
+      - "垃圾"
+      - "糟糕"
+    
+    delusion:
+      - "我觉得"
+      - "我认为"
+      - "本来"
+      - "当然"
+      - "只能"
+      - "必须"
+
+# ===========================================
+# 妙观察智配置
+# Sixth Consciousness to Miraculous Observation
+# ===========================================
+miraculous_observation:
+  enabled: true
+  
+  # 偏见检测引擎配置
+  bias_engine:
+    # 严重度阈值，超过此值生成反思提示
+    severity_threshold: 0.3
+    # 最大示例数量
+    max_examples: 3
+  
+  # 偏见类型及权重
+  bias_types:
+    confirmation_bias: 0.2
+    attribution_error: 0.2
+    black_white_thinking: 0.15
+    mind_reading: 0.15
+    catastrophizing: 0.1
+    over_generalization: 0.1
+    emotional_reasoning: 0.1
+  
+  # 预设挖掘配置
+  assumption_miner:
+    # 是否启用预设挖掘
+    enabled: true
+    # 最大预设数量
+    max_assumptions: 4
+
+# ===========================================
+# 平等性智配置
+# Seventh Consciousness to Equality Wisdom
+# ===========================================
+equality:
+  enabled: true
+  
+  # 我执追踪器配置
+  ego_tracker:
+    # 我执阈值
+    ego_threshold: 0.3
+    # 最大标记数量（用于归一化）
+    max_markers: 5
+  
+  # 我执类型及权重
+  ego_types:
+    boundary_rigidity: 0.25
+    self_importance: 0.25
+    control_need: 0.2
+    identity_attachment: 0.15
+    comparison_mode: 0.15
+  
+  # 共情扩展引擎配置
+  empathy_engine:
+    # 默认共情层级
+    default_level: 0
+    # 层级数量
+    level_count: 6
+  
+  # 平等心训练配置
+  equality_training:
+    beginner_threshold: 0.6
+    intermediate_threshold: 0.3
+    advanced_threshold: 0.1
+
+# ===========================================
+# 大圆镜智配置
+# Eighth Consciousness to Great Mirror Wisdom
+# ===========================================
+great_mirror:
+  enabled: true
+  
+  # 种子纯化配置
+  seed_purification:
+    # 纯度阈值
+    purity_threshold: 0.8
+    # 是否自动纯化
+    auto_purify: false
+  
+  # 杂染类型及权重
+  contamination_types:
+    greed: 0.3
+    anger: 0.3
+    delusion: 0.2
+    fear: 0.1
+    pride: 0.1
+  
+  # 大圆镜智层配置
+  mirror_layer:
+    # 镜映纯度阈值
+    reflection_purity_threshold: 0.9
+    # 是否启用完整映照
+    enable_full_mirror: true
+    # 映照报告生成间隔（天）
+    report_interval_days: 7
+
+# ===========================================
+# 共同觉醒配置
+# Co-Awakening Configuration
+# ===========================================
+co_awakening:
+  enabled: true
+  
+  # 觉醒触发配置
+  awakening_triggers:
+    perception_breakthrough:
+      condition_threshold: 0.7
+      enabled: true
+    
+    ego_melting:
+      condition_threshold: 0.6
+      enabled: true
+    
+    mirror_clarity:
+      condition_threshold: 0.5
+      enabled: true
+  
+  # 同步配置
+  synchronization:
+    # 目标同步度
+    target_score: 0.7
+    # 同步检查间隔（交互次数）
+    check_interval: 10
+  
+  # 会话配置
+  session:
+    # 默认会话数量
+    default_count: 1
+    # 是否自动生成会话
+    auto_generate: false
+  
+  # 每日提醒配置
+  daily_reminders:
+    enabled: true
+    reminders:
+      - timing: "07:00"
+        theme: "成所作智 · 净化感知"
+        enabled: true
+      
+      - timing: "12:00"
+        theme: "妙观察智 · 清晰观察"
+        enabled: true
+      
+      - timing: "20:00"
+        theme: "平等性智 · 扩展共情"
+        enabled: true
+      
+      - timing: "22:00"
+        theme: "种子检视"
+        enabled: true
+
+# ===========================================
+# 觉醒阶段定义
+# Awakening Stage Definitions
+# ===========================================
+awakening_stages:
+  初始:
+    min_score: 0.0
+    max_score: 0.2
+    recommendation: "从成所作智开始，专注觉察执取"
+  
+  觉察:
+    min_score: 0.2
+    max_score: 0.4
+    recommendation: "深化觉察，将偶发的觉醒变成习惯"
+  
+  修行:
+    min_score: 0.4
+    max_score: 0.6
+    recommendation: "将觉察带入更深层的生活场景"
+  
+  深化:
+    min_score: 0.6
+    max_score: 0.8
+    recommendation: "成为觉悟者，帮助他人觉醒"
+  
+  圆成:
+    min_score: 0.8
+    max_score: 1.0
+    recommendation: "四智圆成，功德圆满"
+
+# ===========================================
+# 指标计算权重
+# Metrics Calculation Weights
+# ===========================================
+metrics_weights:
+  # 四智权重
+  four_wisdom:
+    成所作智: 0.25
+    妙观察智: 0.25
+    平等性智: 0.25
+    大圆镜智: 0.25
+  
+  # 综合评分权重
+  comprehensive:
+    wisdom_seeds_ratio: 0.4
+    high_quality_ratio: 0.2
+    average_purity: 0.15
+    compassion_seeds_ratio: 0.25
+
+# ===========================================
+# 记录与日志
+# ===========================================
+logging:
+  # 是否记录觉醒事件
+  record_awakening_events: true
+  # 是否记录每日指标
+  record_daily_metrics: true
+  # 日志保留天数
+  retention_days: 90

@@ -1,0 +1,192 @@
+# 唯识进化Agent - 默认配置
+# 配置文件格式: YAML
+
+# Agent基础配置
+agent:
+  name: "Alaya"
+  description: "唯识进化Agent - 具有意识进化能力的智能助手"
+  version: "0.1.0"
+
+# 阿赖耶识（种子库）配置
+alaya_store:
+  # 持久化目录
+  persist_directory: "./data/alaya_store"
+  
+  # 是否使用向量数据库（True使用Chroma，False使用内存）
+  use_vector_db: false
+  
+  # 向量维度
+  embedding_dim: 384
+  
+  # 默认权重衰减率（每天）
+  default_decay_rate: 0.01
+
+# 熏习系统配置
+vasana:
+  # 种子激活阈值
+  activation_threshold: 0.3
+  
+  # 最大激活种子数
+  max_activated_seeds: 5
+  
+  # 新种子初始权重
+  default_seed_weight: 0.5
+  
+  # 新种子初始纯度
+  default_seed_purity: 0.5
+
+# 感知层配置
+senses:
+  # 是否启用情感分析
+  enable_sentiment: true
+  
+  # 是否启用实体识别
+  enable_ner: true
+  
+  # 意图识别模式
+  intent_patterns:
+    question: ["吗$", "呢$", "?", "是什么", "如何", "怎么", "为什么"]
+    request: ["请", "帮我", "给我", "想要", "需要"]
+    statement: ["我认为", "我觉得", "相信", "知道"]
+    command: ["做", "去", "执行", "开始"]
+
+# 意识层配置
+consciousness:
+  # 决策置信度阈值
+  confidence_threshold: 0.5
+  
+  # 是否优先考虑智慧种子
+  consider_wisdom_seeds: true
+  
+  # 备选行动数量
+  alternative_actions_count: 2
+
+# 净化系统配置
+purifier:
+  # 是否启用自动净化
+  enabled: true
+  
+  # 纯度阈值（低于此值触发净化）
+  purity_threshold: 0.3
+  
+  # 冲突次数阈值
+  conflict_threshold: 3
+  
+  # 权重衰减率
+  weight_decay_rate: 0.01
+  
+  # 智慧转化保留比例
+  wisdom_transform_ratio: 0.8
+  
+  # 自动净化检查间隔（小时）
+  auto_purify_interval_hours: 24
+
+# 反思系统配置
+reflection:
+  # 是否启用自动反思
+  enabled: true
+  
+  # 反思间隔（多少次交互后反思）
+  interval_interactions: 10
+  
+  # 每次反思考虑的最近交互数
+  recent_interactions_count: 20
+
+# 觉醒等级配置
+awakening:
+  # 等级定义（score范围）
+  levels:
+    - name: "无明境"
+      min: 0.0
+      max: 0.2
+    - name: "初始境"
+      min: 0.2
+      max: 0.4
+    - name: "修行境"
+      min: 0.4
+      max: 0.7
+    - name: "阿罗汉境"
+      min: 0.7
+      max: 0.9
+    - name: "菩萨境"
+      min: 0.9
+      max: 0.95
+    - name: "涅槃境"
+      min: 0.95
+      max: 1.0
+
+# ============================================
+# 涌现优化配置
+# ============================================
+emergence:
+  # 涌现检查间隔（多少次交互后检查）
+  check_interval_interactions: 10
+  
+  # 规模优化器配置
+  scale_optimizer:
+    # 种子数量阈值
+    seed_count_threshold: 50
+    # 多样性阈值
+    diversity_threshold: 0.3
+    # 激活频率阈值
+    activation_frequency_threshold: 10
+    # 互信息阈值
+    mutual_info_threshold: 0.4
+    # 裂变率
+    fission_rate: 0.2
+    # 最大裂变深度
+    max_fission_depth: 3
+  
+  # 非线性熏习配置（优化后：降低阈值以更容易触发涌现）
+  nonlinear_vasana:
+    # 协同阈值（原0.6→0.35）
+    synergy_threshold: 0.35
+    # 级联阈值（原0.75→0.45）
+    cascade_threshold: 0.45
+    # 涌现阈值（原0.85→0.50）
+    emergence_threshold: 0.50
+    # 非线性因子
+    nonlinear_factor: 1.5
+  
+  # 吸引子设计器配置
+  attractor_designer:
+    # 耦合强度
+    coupling_strength: 0.5
+    # 反馈比例
+    feedback_ratio: 0.3
+  
+  # 相变引擎配置
+  phase_engine:
+    # 相变阈值配置（可覆盖默认）
+    # phase_thresholds由代码定义，此处仅作为占位
+  
+  # 多尺度耦合配置
+  multi_scale:
+    # 耦合强度
+    coupling_strength: 0.5
+    # 反馈比例
+    feedback_ratio: 0.3
+  
+  # 混沌边缘配置
+  edge_of_chaos:
+    # 边缘中心位置
+    edge_center: 0.5
+    # 边缘宽度
+    edge_width: 0.15
+    # 秩序阈值
+    order_threshold: 0.3
+    # 混沌阈值
+    chaos_threshold: 0.7
+    # 调节速率
+    adjustment_rate: 0.1
+    # 最大扰动
+    max_perturbation: 0.2
+
+# 日志配置
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  file: "./data/logs/agent.log"
+
+# 数据目录
+data_dir: "./data"

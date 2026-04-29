@@ -1,0 +1,479 @@
+/* 《儿童版中国哲学史》HTML样张样式 */
+/* 基于排版规划方案v1.0，适配儿童网页阅读 */
+
+/* 基础设置 */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Source Han Serif SC', 'SimSun', 'Songti SC', 'Noto Serif CJK SC', serif;
+    font-size: 16px; /* 相当于13pt，符合儿童阅读 */
+    line-height: 1.6; /* 行空≥3mm等效 */
+    color: #333333;
+    background-color: white;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: justify;
+}
+
+/* 标题系统 */
+h1 {
+    font-family: 'FZXiaoBiaoSong-B05S', 'FangSong', 'STFangsong', 'Noto Sans CJK SC', sans-serif;
+    font-size: 32px; /* 24pt */
+    color: #FFB74D; /* 哲学琥珀 */
+    margin-top: 40px;
+    margin-bottom: 30px;
+    text-align: center;
+    border-bottom: 3px solid #FFCC80;
+    padding-bottom: 10px;
+}
+
+h2 {
+    font-family: 'FZXiaoBiaoSong-B05S', 'FangSong', 'STFangsong', 'Noto Sans CJK SC', sans-serif;
+    font-size: 24px; /* 18pt */
+    color: #1565C0; /* 智慧深蓝 */
+    margin-top: 30px;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #81D4FA;
+    padding-bottom: 8px;
+}
+
+h3 {
+    font-family: 'Source Han Serif SC', 'SimSun', 'Songti SC', serif;
+    font-size: 20px; /* 15pt */
+    font-weight: bold;
+    color: #5D4037; /* 历史深棕 */
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+
+h4 {
+    font-family: 'Source Han Serif SC', 'SimSun', 'Songti SC', serif;
+    font-size: 18px; /* 13pt */
+    font-weight: bold;
+    color: #333333;
+    margin-top: 20px;
+    margin-bottom: 12px;
+}
+
+/* 段落样式 */
+p {
+    margin-bottom: 16px;
+    text-indent: 2em; /* 首行缩进2字符 */
+}
+
+/* 列表样式 */
+ul, ol {
+    margin-left: 2em;
+    margin-bottom: 16px;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+/* 表格样式 */
+table {
+    border-collapse: collapse;
+    margin: 20px 0;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid #BDBDBD;
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #F5F5F5;
+    font-weight: bold;
+}
+
+/* 特殊元素样式 */
+
+/* 思想剧场 */
+.thought-theater {
+    background-color: #FFF8E1; /* 书卷米白 */
+    border: 2px dashed #FFCC80; /* 1pt虚线 */
+    border-radius: 10px;
+    padding: 20px;
+    margin: 25px 0;
+    font-style: italic;
+}
+
+.thought-theater h3 {
+    color: #FF9800;
+    margin-top: 0;
+    border-bottom: 1px solid #FFCC80;
+}
+
+/* 想一想 */
+.think-about {
+    background-color: #E1F5FE; /* 思考浅蓝 */
+    border: 3px solid #81D4FA; /* 2pt实线 */
+    border-radius: 12px;
+    padding: 22px;
+    margin: 25px 0;
+}
+
+.think-about h3 {
+    color: #0288D1;
+    margin-top: 0;
+    display: flex;
+    align-items: center;
+}
+
+.think-about h3::before {
+    content: "💭";
+    margin-right: 10px;
+    font-size: 24px;
+}
+
+/* 古人说 */
+.ancient-say {
+    background-color: #F5F5F5;
+    border-left: 5px solid #1565C0; /* 左边界突出 */
+    border-radius: 8px;
+    padding: 20px;
+    margin: 25px 0;
+}
+
+.ancient-say .original {
+    font-family: 'Source Han Serif SC', 'SimSun', 'Songti SC', serif;
+    font-size: 20px; /* 14pt */
+    font-weight: bold;
+    color: #1565C0;
+    margin-bottom: 10px;
+}
+
+.ancient-say .pinyin {
+    font-family: Arial, sans-serif;
+    font-size: 16px; /* 10pt */
+    color: #666666;
+    margin-bottom: 15px;
+}
+
+.ancient-say .explanation {
+    font-size: 16px; /* 12pt */
+    color: #666666;
+    line-height: 1.5;
+}
+
+/* 全球望远镜 */
+.global-telescope {
+    background-color: #F5F5F5;
+    border-left: 5px solid #A5D6A7; /* 道家青绿 */
+    border-radius: 8px;
+    padding: 20px;
+    margin: 25px 0;
+}
+
+.global-telescope h3 {
+    color: #2E7D32;
+    display: flex;
+    align-items: center;
+}
+
+.global-telescope h3::before {
+    content: "🔭";
+    margin-right: 10px;
+    font-size: 20px;
+}
+
+.global-telescope table {
+    margin: 15px 0;
+}
+
+.global-telescope th {
+    background-color: #E8F5E8;
+}
+
+/* 实践练习 */
+.practice-exercise {
+    background-color: #FFFDE7; /* 互动亮黄 */
+    border-top: 4px solid #FFF176; /* 上2pt实线 */
+    border-radius: 10px;
+    padding: 22px;
+    margin: 25px 0;
+}
+
+.practice-exercise h3 {
+    color: #F9A825;
+    display: flex;
+    align-items: center;
+}
+
+.practice-exercise h3::before {
+    content: "✏️";
+    margin-right: 10px;
+    font-size: 22px;
+}
+
+.practice-exercise table {
+    background-color: white;
+}
+
+/* 智慧探险地图 */
+.wisdom-map {
+    background-color: #FFF3E0;
+    border: 3px solid #FFB74D;
+    border-radius: 12px;
+    padding: 24px;
+    margin: 30px 0;
+    font-family: monospace;
+    white-space: pre;
+    overflow-x: auto;
+}
+
+.wisdom-map h3 {
+    color: #EF6C00;
+    text-align: center;
+}
+
+/* 哲学小词卡 */
+.philosophy-vocab {
+    background-color: white;
+    border: 2px solid #A5D6A7;
+    border-radius: 10px;
+    padding: 18px;
+    margin: 20px 0;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.philosophy-vocab table {
+    margin: 0;
+}
+
+.philosophy-vocab th {
+    background-color: #E8F5E8;
+    color: #2E7D32;
+}
+
+.philosophy-vocab td {
+    border-color: #C8E6C9;
+}
+
+/* 图片样式 */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.chapter-image {
+    text-align: center;
+    margin: 25px 0;
+}
+
+.chapter-image img {
+    max-height: 400px;
+    object-fit: contain;
+}
+
+/* 响应式设计 */
+@media (max-width: 600px) {
+    body {
+        font-size: 15px;
+        padding: 15px;
+    }
+    
+    h1 {
+        font-size: 28px;
+    }
+    
+    h2 {
+        font-size: 22px;
+    }
+    
+    .thought-theater,
+    .think-about,
+    .ancient-say,
+    .global-telescope,
+    .practice-exercise,
+    .wisdom-map,
+    .philosophy-vocab {
+        padding: 15px;
+        margin: 20px 0;
+    }
+}
+
+/* 儿童友好性增强 */
+
+/* 思想剧场图标 */
+.thought-theater h3 {
+    display: flex;
+    align-items: center;
+}
+
+.thought-theater h3::before {
+    content: "🎭";
+    margin-right: 10px;
+    font-size: 24px;
+}
+
+/* 古人说图标 */
+.ancient-say h3 {
+    display: flex;
+    align-items: center;
+}
+
+.ancient-say h3::before {
+    content: "📜";
+    margin-right: 10px;
+    font-size: 24px;
+}
+
+/* 实践练习图标增强 */
+.practice-exercise h3::before {
+    content: "✏️🎯";
+    margin-right: 10px;
+    font-size: 24px;
+}
+
+/* 悬停动画效果 */
+.thought-theater:hover,
+.think-about:hover,
+.ancient-say:hover,
+.global-telescope:hover,
+.practice-exercise:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+    transition: all 0.3s ease;
+}
+
+/* 图片悬停效果 */
+img:hover {
+    transform: scale(1.02);
+    transition: transform 0.3s ease;
+}
+
+/* 移动端触摸友好 */
+@media (max-width: 600px) {
+    .thought-theater,
+    .think-about,
+    .ancient-say,
+    .global-telescope,
+    .practice-exercise {
+        padding: 18px;
+    }
+    
+    .thought-theater h3,
+    .think-about h3,
+    .ancient-say h3,
+    .global-telescope h3,
+    .practice-exercise h3 {
+        font-size: 20px;
+    }
+}
+
+/* 对话样式优化 - 增强版 */
+.dialog-line {
+    margin-bottom: 24px;
+    padding: 16px 20px;
+    border-left: 5px solid #81D4FA;
+    background-color: rgba(129, 212, 250, 0.08);
+    line-height: 1.8;
+    border-radius: 0 8px 8px 0;
+    page-break-inside: avoid;
+}
+
+.dialog-line strong {
+    color: #1565C0;
+    font-weight: bold;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.dialog-line br {
+    display: block;
+    margin-bottom: 8px;
+}
+
+/* 思想剧场内的对话 */
+.thought-theater .dialog-line {
+    margin-bottom: 20px;
+    padding-left: 18px;
+    border-left-color: #FFCC80;
+    background-color: rgba(255, 204, 128, 0.08);
+}
+
+.thought-theater .dialog-line strong {
+    color: #FF9800;
+}
+
+/* 段落间距增强 */
+p {
+    margin-bottom: 24px !important;
+    line-height: 1.7;
+}
+
+/* 小标题分行增强 */
+h3, h4 {
+    margin-top: 32px;
+    margin-bottom: 16px;
+    page-break-after: avoid;
+}
+
+/* 特殊元素间距 */
+.thought-theater,
+.think-about,
+.ancient-say,
+.global-telescope,
+.practice-exercise {
+    margin: 32px 0 !important;
+    page-break-inside: avoid;
+}
+
+/* 确保段落之间有足够间距 */
+p {
+    margin-bottom: 16px !important;
+}
+
+/* 对话段落特殊处理 */
+p strong:first-child {
+    color: #1565C0;
+}
+
+/* 思想剧场内的对话 */
+.thought-theater .dialog-line {
+    margin-bottom: 12px;
+    padding-left: 15px;
+    border-left-color: #FFCC80;
+}
+
+.thought-theater .dialog-role {
+    color: #FF9800;
+}
+
+/* 打印样式 */
+@media print {
+    body {
+        font-size: 12pt;
+        line-height: 1.5;
+        max-width: 100%;
+        padding: 0;
+    }
+    
+    h1 {
+        font-size: 24pt;
+        color: black;
+    }
+    
+    .think-about,
+    .global-telescope,
+    .practice-exercise {
+        break-inside: avoid;
+    }
+    
+    img {
+        max-height: 300px;
+    }
+}

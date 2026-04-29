@@ -1,0 +1,17 @@
+file '/app/data/files/temp/视频素材/庄子/图片/processed/scene_01.jpg'
+duration 30.0
+file '/app/data/files/temp/视频素材/庄子/图片/processed/scene_02.jpg'
+duration 30.0
+file '/app/data/files/temp/视频素材/庄子/图片/processed/scene_03.jpg'
+duration 30.0
+file '/app/data/files/temp/视频素材/庄子/图片/processed/scene_04.jpg'
+duration 30.0
+file '/app/data/files/temp/视频素材/庄子/图片/processed/scene_05.jpg'
+duration 30.0
+file '/app/data/files/temp/视频素材/庄子/图片/processed/scene_06.jpg'
+duration 30.0
+file '/app/data/files/temp/视频素材/庄子/图片/processed/scene_07.jpg'
+duration 30.0
+file '/app/data/files/temp/视频素材/庄子/图片/processed/scene_08.jpg'
+duration 30.0
+file '/app/data/files/temp/视频素材/庄子/图片/processed/scene_08.jpg'

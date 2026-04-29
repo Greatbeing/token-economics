@@ -1,0 +1,37 @@
+Looking in indexes: https://mirrors.ivolces.com/pypi/simple
+Collecting markdown==3.5.1
+  Downloading https://mirrors.ivolces.com/pypi/packages/70/58/2c5a654173937d9f540a4971c569b44dcd55e5424a484d954cdaeebcf79c/Markdown-3.5.1-py3-none-any.whl (102 kB)
+Requirement already satisfied: python-docx in /usr/local/lib/python3.13/dist-packages (1.2.0)
+Collecting weasyprint
+  Downloading https://mirrors.ivolces.com/pypi/packages/dd/dd/14eb73cea481ad8162d3b18a4850d4a84d6e804a22840cca207648532265/weasyprint-68.1-py3-none-any.whl (319 kB)
+Requirement already satisfied: lxml>=3.1.0 in /usr/local/lib/python3.13/dist-packages (from python-docx) (6.0.2)
+Requirement already satisfied: typing_extensions>=4.9.0 in /usr/local/lib/python3.13/dist-packages (from python-docx) (4.15.0)
+Collecting pydyf>=0.11.0 (from weasyprint)
+  Downloading https://mirrors.ivolces.com/pypi/packages/22/11/47efe2f66ba848a107adfd490b508f5c0cedc82127950553dca44d29e6c4/pydyf-0.12.1-py3-none-any.whl (8.0 kB)
+Requirement already satisfied: cffi>=0.6 in /usr/local/lib/python3.13/dist-packages (from weasyprint) (2.0.0)
+Collecting tinyhtml5>=2.0.0b1 (from weasyprint)
+  Downloading https://mirrors.ivolces.com/pypi/packages/52/48/01695a036b695f83fea7aef6955d735db0f517b1c8e25ddb399ac0bdbcbf/tinyhtml5-2.1.0-py3-none-any.whl (39 kB)
+Collecting tinycss2>=1.5.0 (from weasyprint)
+  Downloading https://mirrors.ivolces.com/pypi/packages/60/45/c7b5c3168458db837e8ceab06dc77824e18202679d0463f0e8f002143a97/tinycss2-1.5.1-py3-none-any.whl (28 kB)
+Collecting cssselect2>=0.8.0 (from weasyprint)
+  Downloading https://mirrors.ivolces.com/pypi/packages/21/0e/8459ca4413e1a21a06c97d134bfaf18adfd27cea068813dc0faae06cbf00/cssselect2-0.9.0-py3-none-any.whl (15 kB)
+Collecting Pyphen>=0.9.1 (from weasyprint)
+  Downloading https://mirrors.ivolces.com/pypi/packages/7b/1f/c2142d2edf833a90728e5cdeb10bdbdc094dde8dbac078cee0cf33f5e11b/pyphen-0.17.2-py3-none-any.whl (2.1 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.1/2.1 MB 5.3 MB/s  0:00:00
+Requirement already satisfied: Pillow>=9.1.0 in /usr/local/lib/python3.13/dist-packages (from weasyprint) (12.1.1)
+Requirement already satisfied: fonttools>=4.59.2 in /usr/local/lib/python3.13/dist-packages (from fonttools[woff]>=4.59.2->weasyprint) (4.62.1)
+Requirement already satisfied: pycparser in /usr/local/lib/python3.13/dist-packages (from cffi>=0.6->weasyprint) (3.0)
+Requirement already satisfied: webencodings in /usr/local/lib/python3.13/dist-packages (from cssselect2>=0.8.0->weasyprint) (0.5.1)
+Collecting brotli>=1.0.1 (from fonttools[woff]>=4.59.2->weasyprint)
+  Downloading https://mirrors.ivolces.com/pypi/packages/5f/16/a1b22cbea436642e071adcaf8d4b350a2ad02f5e0ad0da879a1be16188a0/brotli-1.2.0-cp313-cp313-manylinux2014_x86_64.manylinux_2_17_x86_64.whl (1.4 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.4/1.4 MB 68.5 MB/s  0:00:00
+Collecting zopfli>=0.1.4 (from fonttools[woff]>=4.59.2->weasyprint)
+  Downloading https://mirrors.ivolces.com/pypi/packages/dd/6f/4a1a88edf9fa0ce102703f38ab4dfb285b7cd2dde5389184264ec759e06e/zopfli-0.4.1-cp310-abi3-manylinux2014_x86_64.manylinux_2_17_x86_64.whl (829 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 829.4/829.4 kB 626.0 kB/s  0:00:00
+Installing collected packages: brotli, zopfli, tinyhtml5, tinycss2, Pyphen, pydyf, markdown, cssselect2, weasyprint
+  Attempting uninstall: markdown
+    Found existing installation: Markdown 3.10.2
+    Uninstalling Markdown-3.10.2:
+      Successfully uninstalled Markdown-3.10.2
+
+Successfully installed Pyphen-0.17.2 brotli-1.2.0 cssselect2-0.9.0 markdown-3.5.1 pydyf-0.12.1 tinycss2-1.5.1 tinyhtml5-2.1.0 weasyprint-68.1 zopfli-0.4.1

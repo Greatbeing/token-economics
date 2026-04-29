@@ -1,0 +1,34 @@
+[
+  {
+    "filename": "image_1_optimized.webp",
+    "width": 800,
+    "height": 1066,
+    "aspect_ratio": 0.75,
+    "file_size_kb": 97.93,
+    "format": "WEBP"
+  },
+  {
+    "filename": "image_2_optimized.webp",
+    "width": 800,
+    "height": 1066,
+    "aspect_ratio": 0.75,
+    "file_size_kb": 77.71,
+    "format": "WEBP"
+  },
+  {
+    "filename": "image_3_optimized.webp",
+    "width": 800,
+    "height": 1066,
+    "aspect_ratio": 0.75,
+    "file_size_kb": 89.84,
+    "format": "WEBP"
+  },
+  {
+    "filename": "image_4_optimized.webp",
+    "width": 800,
+    "height": 1066,
+    "aspect_ratio": 0.75,
+    "file_size_kb": 62.09,
+    "format": "WEBP"
+  }
+]

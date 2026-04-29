@@ -1,0 +1,238 @@
+{
+  "model_id": "aristotle_logic_001",
+  "version": "1.0",
+  "status": "published",
+  
+  "基本信息": {
+    "sage_name": "亚里士多德",
+    "sage_name_en": "Aristotle",
+    "sage_culture": "Western",
+    "sage_period": "古希腊（公元前384-前322年）",
+    "sage_icon": "📐",
+    "model_name": "形式逻辑思维",
+    "model_name_en": "Formal Logic Thinking"
+  },
+  
+  "核心概念": {
+    "primary_concept": "形式逻辑",
+    "concept_definition": "通过概念-判断-推理的严密逻辑链条，达到可靠的知识",
+    "concept_explained": "亚里士多德是形式逻辑之父，创立了三段论等逻辑工具。他强调知识的确定性来源于严密的概念定义和逻辑推理。方法论：先定义概念，再进行推理，最终获得可靠结论。",
+    "concept_level": ["入门-掌握基本逻辑", "理解-三段论推理", "运用-严密论证", "化境-逻辑思维"],
+    "concept_keywords": ["三段论", "形式逻辑", "定义", "范畴", "矛盾律", "排中律", "中道"]
+  },
+  
+  "思维流程": {
+    "flow_name": "逻辑思维四步",
+    "flow_type": "linear",
+    "steps": [
+      {
+        "step_id": 1,
+        "step_name": "界定",
+        "description": "对概念进行严格定义，明确范畴",
+        "question_prompt": "这个概念的本质属性是什么？属于哪个范畴？",
+        "skill_focused": "概念定义",
+        "common_pitfall": "概念模糊或歧义",
+        "tip": "清晰的定义是严密推理的前提"
+      },
+      {
+        "step_id": 2,
+        "step_name": "判断",
+        "description": "基于事实和证据形成判断命题",
+        "question_prompt": "这个命题是真还是假？有什么证据支持？",
+        "skill_focused": "命题判断",
+        "common_pitfall": "基于情绪而非事实判断",
+        "tip": "判断要有证据支撑"
+      },
+      {
+        "step_id": 3,
+        "step_name": "推理",
+        "description": "通过三段论等形式进行逻辑推理",
+        "question_prompt": "从前提能必然推出这个结论吗？推理是否有效？",
+        "skill_focused": "逻辑推理",
+        "common_pitfall": "推理跳跃或前提错误",
+        "tip": "检查推理链条的每一环"
+      },
+      {
+        "step_id": 4,
+        "step_name": "验证",
+        "description": "验证结论的正确性，检查矛盾",
+        "question_prompt": "这个结论自洽吗？与其他真理矛盾吗？",
+        "skill_focused": "逻辑验证",
+        "common_pitfall": "忽略矛盾",
+        "tip": "逻辑要求首尾一致"
+      }
+    ],
+    "flow_summary": "界定 → 判断 → 推理 → 验证"
+  },
+  
+  "可复刻技能": [
+    {
+      "skill_name": "概念定义",
+      "skill_description": "对概念进行严密定义的能力",
+      "difficulty": 3,
+      "practice_focus": "属加种差",
+      "skill_level_desc": {
+        "L1": "能说出概念的大致含义",
+        "L2": "能给出初步定义",
+        "L3": "能给出精确的本质定义",
+        "L4": "能发现和修正模糊定义"
+      }
+    },
+    {
+      "skill_name": "逻辑推理",
+      "skill_description": "进行严密逻辑推理的能力",
+      "difficulty": 4,
+      "practice_focus": "三段论",
+      "skill_level_desc": {
+        "L1": "能识别简单推理",
+        "L2": "能构建基本推理",
+        "L3": "能发现推理错误",
+        "L4": "能进行复杂推理"
+      }
+    },
+    {
+      "skill_name": "矛盾识别",
+      "skill_description": "发现逻辑矛盾和谬误的能力",
+      "difficulty": 4,
+      "practice_focus": "矛盾律运用",
+      "skill_level_desc": {
+        "L1": "能识别明显矛盾",
+        "L2": "能发现隐含矛盾",
+        "L3": "能区分表面矛盾和实质矛盾",
+        "L4": "能避免自相矛盾"
+      }
+    }
+  ],
+  
+  "适用场景": [
+    {
+      "scene_type": "论证分析",
+      "scene_description": "分析他人或自己的论证时",
+      "application_hint": "检查前提是否可靠，推理是否有效"
+    },
+    {
+      "scene_type": "辩论讨论",
+      "scene_description": "参与需要严密论证的讨论时",
+      "application_hint": "先明确定义，再进行推理，用证据说话"
+    },
+    {
+      "scene_type": "写作表达",
+      "scene_description": "进行需要严密论证的写作时",
+      "application_hint": "确保概念清晰，论证链条完整"
+    },
+    {
+      "scene_type": "问题解决",
+      "scene_description": "解决需要严密分析的问题时",
+      "application_hint": "定义问题→分析要素→逻辑推理→验证结论"
+    }
+  ],
+  
+  "经典语录": [
+    {
+      "quote": "人是理性的动物",
+      "source": "《政治学》《尼各马可伦理学》",
+      "interpretation": "人的本质特征是理性，这是亚里士多德对人的著名定义。"
+    },
+    {
+      "quote": "三段论",
+      "source": "《工具论》",
+      "interpretation": "大前提+小前提→结论的推理形式，是形式逻辑的核心。"
+    },
+    {
+      "quote": "中道",
+      "source": "《尼各马可伦理学》",
+      "interpretation": "德性是两个极端之间的中道，如勇敢是怯懦和鲁莽的中道。"
+    },
+    {
+      "quote": "吾爱吾师，吾更爱真理",
+      "source": "亚里士多德",
+      "interpretation": "虽然师从柏拉图，但真理比师承更重要。"
+    }
+  ],
+  
+  "练习题模板": [
+    {
+      "template_id": "aristotle_logic_001_p1",
+      "template_name": "逻辑定义练习",
+      "template_type": "analysis",
+      "difficulty": 2,
+      "estimated_time": "10分钟",
+      "prompt": "选择一个概念，尝试给出精确的定义：\n\n【概念】{concept}\n\n思考：\n1. 这个概念属于哪个更大的范畴？\n2. 它有什么独特的本质特征？\n3. 用'属+种差'给出定义：\n   - 属（它属于什么范畴）：\n   - 种差（它与同类有什么不同）：\n4. 这个定义能涵盖所有X又能排除非X吗？"
+    },
+    {
+      "template_id": "aristotle_logic_001_p2",
+      "template_name": "三段论检验",
+      "template_type": "logic",
+      "difficulty": 3,
+      "estimated_time": "15分钟",
+      "prompt": "分析以下论证的逻辑：\n\n【论证】{argument}\n\n检查：\n1. 【前提】大前提是什么？小前提是什么？\n2. 【定义】前提中的关键概念定义清楚了吗？\n3. 【推理】推理形式有效吗？结论是否必然得出？\n4. 【结论】结论正确吗？\n5. 【修正】如果有错误，问题在哪里？"
+    },
+    {
+      "template_id": "aristotle_logic_001_p3",
+      "template_name": "矛盾排查",
+      "template_type": "analysis",
+      "difficulty": 4,
+      "estimated_time": "15分钟",
+      "prompt": "检查以下观点或论证中的潜在矛盾：\n\n【观点】{viewpoint}\n\n排查：\n1. 这个观点自身是否矛盾？\n2. 这个观点与其他公认真理矛盾吗？\n3. 按此观点推论会导致荒谬结论吗？\n4. 有没有表面矛盾实际不矛盾的情况？\n5. 如何修正矛盾？"
+    }
+  ],
+  
+  "种子信息": {
+    "seed_type": "logical",
+    "primary_seeds": ["定义种子", "推理种子", "矛盾种子", "中道种子"],
+    "seed_weights": {
+      "perception": 0.20,
+      "reasoning": 0.55,
+      "decision": 0.25
+    },
+    "purity_baseline": 0.88,
+    "growth_potential": "high",
+    "related_seeds": ["苏格拉底追问种子", "柏拉图理念种子", "孔子中庸种子"]
+  },
+  
+  "与其他模型的关系": {
+    "prerequisites": ["socrates_maieutic_001"],
+    "complements": [
+      {
+        "model_id": "socrates_maieutic_001",
+        "relation": "方法互补",
+        "description": "苏格拉底的追问需要亚里士多德的逻辑来检验"
+      },
+      {
+        "model_id": "plato_idea_001",
+        "relation": "师生批判",
+        "description": "亚里士多德批判继承了柏拉图的理念论"
+      }
+    ],
+    "contrasts": [
+      {
+        "model_id": "plato_idea_001",
+        "relation": "对立",
+        "description": "亚里士多德批评柏拉图的理念论过于脱离经验，强调经验观察的重要性"
+      },
+      {
+        "model_id": "confucius_ren_001",
+        "relation": "互补",
+        "description": "亚里士多德的中道与孔子的中庸有异曲同工之妙"
+      }
+    ]
+  },
+  
+  "评估维度": {
+    "dimensions": [
+      {"name": "概念清晰", "weight": 0.30, "description": "概念定义的清晰度"},
+      {"name": "推理严密", "weight": 0.40, "description": "推理的严密性"},
+      {"name": "矛盾排除", "weight": 0.30, "description": "发现和排除矛盾"}
+    ],
+    "excellent_threshold": 0.85,
+    "good_threshold": 0.70,
+    "average_threshold": 0.55
+  },
+  
+  "视觉设计": {
+    "primary_color": "#2980B9",
+    "secondary_color": "#AED6F1",
+    "icon": "📐",
+    "symbol": "逻辑"
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "model_id": "confucius_ren_001",
+  "version": "1.0",
+  "status": "published",
+  
+  "基本信息": {
+    "sage_name": "孔子",
+    "sage_name_en": "Confucius",
+    "sage_culture": "Chinese",
+    "sage_period": "春秋末期 (前551-前479)",
+    "sage_icon": "📜",
+    "model_name": "仁学思维",
+    "model_name_en": "Ren Thinking"
+  },
+  
+  "核心概念": {
+    "primary_concept": "仁",
+    "concept_definition": "仁者爱人，推己及人",
+    "concept_explained": "仁是孔子思想的核心，指的是人与人之间真诚相待、互相关爱的关系。包含两层含义：一是对他人的关爱（爱人），二是自我修养的完成（克己）。",
+    "concept_level": ["入门-识别仁的行为", "理解-理解仁的含义", "运用-实践仁的准则", "化境-仁心自然流露"],
+    "concept_keywords": ["爱人", "推己", "忠恕", "孝悌", "礼", "恭敬", "宽厚"]
+  },
+  
+  "思维流程": {
+    "flow_name": "仁者思维四步法",
+    "flow_type": "linear",
+    "steps": [
+      {
+        "step_id": 1,
+        "step_name": "感通",
+        "description": "感知他人处境，产生情感共鸣",
+        "question_prompt": "对方现在处于什么状态？有什么感受？",
+        "skill_focused": "共情感知",
+        "common_pitfall": "只从自己角度看待问题",
+        "tip": "先放下自己的立场，真正去理解对方"
+      },
+      {
+        "step_id": 2,
+        "step_name": "推度",
+        "description": "换位思考，推己及人",
+        "question_prompt": "如果是我，会有什么感受？我希望别人怎样对待我？",
+        "skill_focused": "换位推理",
+        "common_pitfall": "假设对方和自己完全一样",
+        "tip": "考虑每个人的独特处境"
+      },
+      {
+        "step_id": 3,
+        "step_name": "择宜",
+        "description": "选择最恰当的行为方式",
+        "question_prompt": "怎样做才是恰到好处？既不过分也不不及？",
+        "skill_focused": "中庸判断",
+        "common_pitfall": "要么过度要么不足",
+        "tip": "寻找平衡点，不偏不倚"
+      },
+      {
+        "step_id": 4,
+        "step_name": "践行",
+        "description": "将善意转化为具体行动",
+        "question_prompt": "我准备具体做什么？什么时候做？",
+        "skill_focused": "行动转化",
+        "common_pitfall": "停在想法层面",
+        "tip": "仁不仅是心意，更是行动"
+      }
+    ],
+    "flow_summary": "感通 → 推度 → 择宜 → 践行"
+  },
+  
+  "可复刻技能": [
+    {
+      "skill_name": "共情推理",
+      "skill_description": "从他人角度理解问题的能力",
+      "difficulty": 2,
+      "practice_focus": "情境代入",
+      "skill_level_desc": {
+        "L1": "能识别明显的情绪",
+        "L2": "能理解他人立场",
+        "L3": "能感知深层需求",
+        "L4": "能精准把握感受"
+      }
+    },
+    {
+      "skill_name": "关系思考",
+      "skill_description": "在关系网络中理解和处理问题",
+      "difficulty": 3,
+      "practice_focus": "角色分析",
+      "skill_level_desc": {
+        "L1": "能识别涉及的关系",
+        "L2": "能分析各方立场",
+        "L3": "能权衡多方利益",
+        "L4": "能找到关系平衡点"
+      }
+    },
+    {
+      "skill_name": "中庸决策",
+      "skill_description": "找到不偏不倚的恰当点",
+      "difficulty": 4,
+      "practice_focus": "权衡练习",
+      "skill_level_desc": {
+        "L1": "知道中庸的概念",
+        "L2": "能在简单情境中运用",
+        "L3": "能在复杂情境中权衡",
+        "L4": "能把握恰到好处"
+      }
+    }
+  ],
+  
+  "适用场景": [
+    {
+      "scene_type": "人际冲突",
+      "scene_description": "与他人发生矛盾或冲突时",
+      "application_hint": "先理解对方感受，再寻求双方都能接受的解决方案"
+    },
+    {
+      "scene_type": "道德判断",
+      "scene_description": "面临道德抉择时",
+      "application_hint": "考虑行为对他人的影响，选择关爱而非伤害"
+    },
+    {
+      "scene_type": "领导决策",
+      "scene_description": "需要影响和带领他人时",
+      "application_hint": "以身作则，关心团队成员的身心状态"
+    },
+    {
+      "scene_type": "日常交往",
+      "scene_description": "与家人、朋友、同学相处时",
+      "application_hint": "将善意融入日常言行，真诚待人"
+    }
+  ],
+  
+  "经典语录": [
+    {
+      "quote": "己所不欲，勿施于人",
+      "source": "《论语·颜渊》",
+      "interpretation": "自己不愿意的，不要强加给别人。这是仁的消极表达。"
+    },
+    {
+      "quote": "己欲立而立人，己欲达而达人",
+      "source": "《论语·雍也》",
+      "interpretation": "自己要站稳，也要让别人站稳；自己要通达，也要让别人通达。这是仁的积极表达。"
+    },
+    {
+      "quote": "仁者爱人",
+      "source": "《论语·颜渊》",
+      "interpretation": "仁的本质就是关爱他人。"
+    }
+  ],
+  
+  "练习题模板": [
+    {
+      "template_id": "confucius_ren_001_p1",
+      "template_name": "情境分析题",
+      "template_type": "analysis",
+      "difficulty": 2,
+      "estimated_time": "10分钟",
+      "prompt": "遇到以下情境，你会如何运用仁的思维？\n\n【情境】{scenario}\n\n请按四步法分析：\n1. 感通：各方有什么感受？\n2. 推度：如果是我会怎样？\n3. 择宜：什么是恰到好处的做法？\n4. 践行：我准备具体怎么做？"
+    },
+    {
+      "template_id": "confucius_ren_001_p2",
+      "template_name": "决策权衡题",
+      "template_type": "decision",
+      "difficulty": 3,
+      "estimated_time": "15分钟",
+      "prompt": "面对以下抉择，运用中庸思维进行分析：\n\n【情境】{scenario}\n\n请分析：\n1. 这个抉择涉及哪些人的利益和感受？\n2. 各种选择会导致什么后果？\n3. 找到'恰到好处'的平衡点是什么？"
+    },
+    {
+      "template_id": "confucius_ren_001_p3",
+      "template_name": "反思实践题",
+      "template_type": "reflection",
+      "difficulty": 2,
+      "estimated_time": "10分钟",
+      "prompt": "回顾你最近的一次人际互动：\n\n【情境】{scenario}\n\n反思：\n1. 你当时有'感通'对方的感受吗？\n2. 你有'推己及人'地思考吗？\n3. 你的处理方式是否'中庸'？\n4. 如果重来，你会如何'践行'？"
+    }
+  ],
+  
+  "种子信息": {
+    "seed_type": "moral_reasoning",
+    "primary_seeds": ["共情种子", "关怀种子", "关系种子", "中庸种子"],
+    "seed_weights": {
+      "perception": 0.35,
+      "reasoning": 0.30,
+      "decision": 0.35
+    },
+    "purity_baseline": 0.90,
+    "growth_potential": "high",
+    "related_seeds": ["孟子恻隐种子", "阳明良知种子", "佛陀慈悲种子"]
+  },
+  
+  "与其他模型的关系": {
+    "prerequisites": [],
+    "complements": [
+      {
+        "model_id": "confucius_li_001",
+        "relation": "内仁外礼",
+        "description": "礼是仁的外在表现形式，二者相辅相成"
+      },
+      {
+        "model_id": "mencius_heart_001",
+        "relation": "深化心性",
+        "description": "孟子进一步发展了仁的心性基础"
+      },
+      {
+        "model_id": "wang_yangming_liangzhi_001",
+        "relation": "良知呈现",
+        "description": "王阳明认为仁是良知的自然发用"
+      }
+    ],
+    "contrasts": [
+      {
+        "model_id": "laozi_wuwei_001",
+        "relation": "互补",
+        "description": "道家无为与儒家有为形成互补，前者强调自然，后者强调修养"
+      }
+    ]
+  },
+  
+  "评估维度": {
+    "dimensions": [
+      {"name": "共情深度", "weight": 0.30, "description": "对他人感受的理解程度"},
+      {"name": "推己程度", "weight": 0.25, "description": "换位思考的准确性"},
+      {"name": "中庸把握", "weight": 0.25, "description": "决策的平衡性"},
+      {"name": "行动转化", "weight": 0.20, "description": "想法到行动的转化"}
+    ],
+    "excellent_threshold": 0.85,
+    "good_threshold": 0.70,
+    "average_threshold": 0.50
+  },
+  
+  "视觉设计": {
+    "primary_color": "#E74C3C",
+    "secondary_color": "#F5B7B1",
+    "icon": "❤️",
+    "symbol": "仁"
+  }
+}

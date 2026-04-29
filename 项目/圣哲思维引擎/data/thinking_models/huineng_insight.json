@@ -1,0 +1,234 @@
+{
+  "model_id": "huineng_insight_001",
+  "version": "1.0",
+  "status": "published",
+  
+  "基本信息": {
+    "sage_name": "慧能",
+    "sage_name_en": "Huineng (The Sixth Patriarch)",
+    "sage_culture": "Buddhist",
+    "sage_period": "唐代（638-713）",
+    "sage_icon": "🌸",
+    "model_name": "顿悟思维",
+    "model_name_en": "Sudden Awakening Thinking"
+  },
+  
+  "核心概念": {
+    "primary_concept": "顿悟",
+    "concept_definition": "一念觉悟，刹那间明心见性，见性成佛",
+    "concept_explained": "慧能是禅宗六祖，主张'顿悟成佛'。不需要漫长的修行次第，只要一念回光，识自本心，见自本性，即可觉悟。核心是'直指人心，见性成佛'。",
+    "concept_level": ["入门-理解顿悟概念", "理解-识自本心", "运用-念念觉悟", "化境-任运自在"],
+    "concept_keywords": ["顿悟", "见性", "本心", "自性", "无念", "不立文字", "直指人心", "任运"]
+  },
+  
+  "思维流程": {
+    "flow_name": "顿悟三要",
+    "flow_type": "instant",
+    "steps": [
+      {
+        "step_id": 1,
+        "step_name": "回光",
+        "description": "向内看，不是向外求",
+        "question_prompt": "向外求的是什么？向内看呢？",
+        "skill_focused": "向内觉察",
+        "common_pitfall": "向外寻求答案",
+        "tip": "答案不在外，在内心"
+      },
+      {
+        "step_id": 2,
+        "step_name": "见性",
+        "description": "识自本心，见自本性",
+        "question_prompt": "什么是我的本心？什么是我的本性？",
+        "skill_focused": "本性认知",
+        "common_pitfall": "把念头当本性",
+        "tip": "本性是能生万法的清净心"
+      },
+      {
+        "step_id": 3,
+        "step_name": "任运",
+        "description": "觉悟后随缘任运，自在无碍",
+        "question_prompt": "如果已觉悟，我会如何行动？",
+        "skill_focused": "自在行动",
+        "common_pitfall": "悟后迷，或住于空",
+        "tip": "悟后起修，在生活中检验"
+      }
+    ],
+    "flow_summary": "回光 → 见性 → 任运"
+  },
+  
+  "可复刻技能": [
+    {
+      "skill_name": "向内觉察",
+      "skill_description": "转向内心寻找答案的能力",
+      "difficulty": 4,
+      "practice_focus": "回光返照",
+      "skill_level_desc": {
+        "L1": "能暂时安静下来",
+        "L2": "能向内观察心念",
+        "L3": "能在静中体认本性",
+        "L4": "能在动中保持觉察"
+      }
+    },
+    {
+      "skill_name": "顿断执著",
+      "skill_description": "一念之间顿断烦恼执著",
+      "difficulty": 5,
+      "practice_focus": "一念回转",
+      "skill_level_desc": {
+        "L1": "知道执著的存在",
+        "L2": "能尝试放下",
+        "L3": "能顿然释怀",
+        "L4": "能保持不执著状态"
+      }
+    },
+    {
+      "skill_name": "直下承担",
+      "skill_description": "直下承担自心是佛的勇气",
+      "difficulty": 5,
+      "practice_focus": "自信承担",
+      "skill_level_desc": {
+        "L1": "知道自心有佛性",
+        "L2": "相信自己能觉悟",
+        "L3": "敢于直下承担",
+        "L4": "念念自觉自照"
+      }
+    }
+  ],
+  
+  "适用场景": [
+    {
+      "scene_type": "修行困惑",
+      "scene_description": "修行很久却感觉没有进步时",
+      "application_hint": "转向内心，不是向外求法"
+    },
+    {
+      "scene_type": "智慧开启",
+      "scene_description": "希望获得智慧开启时",
+      "application_hint": "一念回光，识自本心，智慧本有"
+    },
+    {
+      "scene_type": "烦恼生起",
+      "scene_description": "烦恼生起时",
+      "application_hint": "顿断烦恼，不随不迎，回归清净"
+    },
+    {
+      "scene_type": "人生重大抉择",
+      "scene_description": "面临重大抉择时",
+      "application_hint": "问自心，不问外境，本心自有答案"
+    }
+  ],
+  
+  "经典语录": [
+    {
+      "quote": "菩提本无树，明镜亦非台",
+      "source": "《六祖坛经》",
+      "interpretation": "本来无一物，何处惹尘埃。佛性本来清净，不是外在形象。"
+    },
+    {
+      "quote": "一念悟时，众生是佛",
+      "source": "《六祖坛经》",
+      "interpretation": "一念觉悟，众生当下就是佛。迷时众生，悟时即佛。"
+    },
+    {
+      "quote": "何期自性，本自清净",
+      "source": "《六祖坛经》",
+      "interpretation": "谁知道自己的本性，本来就是清净的！"
+    },
+    {
+      "quote": "外离相曰禅，内不乱曰定",
+      "source": "《六祖坛经》",
+      "interpretation": "外不被外在形象所迷，内心不乱，这就是禅定。"
+    },
+    {
+      "quote": "不立文字，教外别传",
+      "source": "禅宗宗旨",
+      "interpretation": "禅不是靠文字语言传递的，需要直接的心传。"
+    }
+  ],
+  
+  "练习题模板": [
+    {
+      "template_id": "huineng_insight_001_p1",
+      "template_name": "回光返照",
+      "template_type": "meditation",
+      "difficulty": 3,
+      "estimated_time": "10分钟",
+      "prompt": "进行一个'回光返照'的练习：\n\n【练习】\n\n1. 找一个安静的地方\n2. 闭上眼睛，先观察外在世界\n3. 然后把注意力转向内心\n4. 问自己：'我的念头从哪里来？'\n5. 再问：'能知道念头的那个是什么？'\n6. 再问：'我的本心在哪里？'\n\n【记录】\n\n在安静中，你体认到了什么？"
+    },
+    {
+      "template_id": "huineng_insight_001_p2",
+      "template_name": "顿断烦恼",
+      "template_type": "practice",
+      "difficulty": 4,
+      "estimated_time": "15分钟",
+      "prompt": "选择一个让你烦恼的事情：\n\n【烦恼】{trouble}\n\n用慧能顿悟的方式处理：\n\n1. 【观照】烦恼是什么？它有实体吗？\n2. 【回光】烦恼从哪里来？是外境给的还是内心生的？\n3. 【见性】那个能知烦恼的清净心在哪里？\n4. 【顿断】如果识得本心，烦恼还能绑住你吗？\n5. 【承担】相信自己是佛（觉悟者），烦恼还能存在吗？"
+    },
+    {
+      "template_id": "huineng_insight_001_p3",
+      "template_name": "自性检验",
+      "template_type": "reflection",
+      "difficulty": 4,
+      "estimated_time": "15分钟",
+      "prompt": "用慧能的三个问题检验你的心：\n\n【问题一】\n'我'是谁？\n\n身体是我吗？思想是我吗？\n那个能知一切的那个，是什么？\n\n【问题二】\n如果遇到困难，\n向外求还是向内求？\n\n【问题三】\n如果你是佛（觉悟者），\n你会如何面对这个困难？\n\n【情境】{situation}\n\n面对这个情境：\n1. 你的本心会如何反应？\n2. 你愿意相信本心的指引吗？"
+    }
+  ],
+  
+  "种子信息": {
+    "seed_type": "awakening",
+    "primary_seeds": ["顿悟种子", "见性种子", "自性种子", "无念种子", "清净种子"],
+    "seed_weights": {
+      "perception": 0.45,
+      "reasoning": 0.30,
+      "decision": 0.25
+    },
+    "purity_baseline": 0.82,
+    "growth_potential": "very_high",
+    "related_seeds": ["佛陀正念种子", "老子道法种子", "庄子逍遥种子"]
+  },
+  
+  "与其他模型的关系": {
+    "prerequisites": ["buddha_mindfulness_001"],
+    "complements": [
+      {
+        "model_id": "buddha_mindfulness_001",
+        "relation": "传承发展",
+        "description": "慧能继承发展了佛陀的禅法，形成中国化的顿悟法门"
+      },
+      {
+        "model_id": "laozi_wuwei_001",
+        "relation": "道禅融合",
+        "description": "慧能的思想与道家自然无为思想有深层共鸣"
+      },
+      {
+        "model_id": "zhuangzi_freedom_001",
+        "relation": "精神相通",
+        "description": "庄子的逍遥与慧能的自在，精神上一脉相承"
+      }
+    ],
+    "contrasts": [
+      {
+        "model_id": "aristotle_logic_001",
+        "relation": "方法对比",
+        "description": "亚里士多德强调渐进积累，慧能强调顿悟；一个是加法，一个是减法"
+      }
+    ]
+  },
+  
+  "评估维度": {
+    "dimensions": [
+      {"name": "回光程度", "weight": 0.35, "description": "向内觉察的程度"},
+      {"name": "见性深度", "weight": 0.35, "description": "本性认知的深度"},
+      {"name": "任运自在", "weight": 0.30, "description": "觉悟后自在任运的程度"}
+    ],
+    "excellent_threshold": 0.78,
+    "good_threshold": 0.62,
+    "average_threshold": 0.45
+  },
+  
+  "视觉设计": {
+    "primary_color": "#E91E63",
+    "secondary_color": "#F8BBD0",
+    "icon": "🌸",
+    "symbol": "悟"
+  }
+}

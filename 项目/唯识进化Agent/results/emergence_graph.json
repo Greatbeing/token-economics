@@ -1,0 +1,137 @@
+{
+  "nodes": [
+    {
+      "id": "emergence_1",
+      "type": "emergence",
+      "subtype": "insight",
+      "intensity": 0.9125149918889828,
+      "description": "洞察涌现：布施、利他、禅修、日常的深层联系被发现，多个经验相互印证形成新的理解框架"
+    },
+    {
+      "id": "seed_2aa72297",
+      "type": "seed"
+    },
+    {
+      "id": "seed_39c59372",
+      "type": "seed"
+    },
+    {
+      "id": "emergence_2",
+      "type": "emergence",
+      "subtype": "wisdom",
+      "intensity": 0.7,
+      "description": "智慧涌现：'缘起、慈悲'的核心真谛被领悟，超越表象触及本质，获得清净无染的智慧"
+    },
+    {
+      "id": "seed_59ec6a73",
+      "type": "seed"
+    },
+    {
+      "id": "seed_5d6fcf53",
+      "type": "seed"
+    },
+    {
+      "id": "seed_88606b8e",
+      "type": "seed"
+    },
+    {
+      "id": "emergence_3",
+      "type": "emergence",
+      "subtype": "insight",
+      "intensity": 1.0,
+      "description": "洞察涌现：禅修、日常、布施、利他的深层联系被发现，多个经验相互印证形成新的理解框架"
+    },
+    {
+      "id": "emergence_4",
+      "type": "emergence",
+      "subtype": "wisdom",
+      "intensity": 1.0,
+      "description": "智慧涌现：'烦恼、转依'的核心真谛被领悟，超越表象触及本质，获得清净无染的智慧"
+    },
+    {
+      "id": "seed_d2936919",
+      "type": "seed"
+    },
+    {
+      "id": "seed_c94118e2",
+      "type": "seed"
+    },
+    {
+      "id": "seed_24065e09",
+      "type": "seed"
+    }
+  ],
+  "edges": [
+    {
+      "source": "seed_2aa72297",
+      "target": "emergence_1",
+      "strength": 0.9125149918889828
+    },
+    {
+      "source": "seed_39c59372",
+      "target": "emergence_1",
+      "strength": 0.9125149918889828
+    },
+    {
+      "source": "seed_59ec6a73",
+      "target": "emergence_2",
+      "strength": 0.7
+    },
+    {
+      "source": "seed_5d6fcf53",
+      "target": "emergence_2",
+      "strength": 0.7
+    },
+    {
+      "source": "seed_88606b8e",
+      "target": "emergence_2",
+      "strength": 0.7
+    },
+    {
+      "source": "seed_39c59372",
+      "target": "emergence_3",
+      "strength": 1.0
+    },
+    {
+      "source": "seed_2aa72297",
+      "target": "emergence_3",
+      "strength": 1.0
+    },
+    {
+      "source": "seed_d2936919",
+      "target": "emergence_4",
+      "strength": 1.0
+    },
+    {
+      "source": "seed_39c59372",
+      "target": "emergence_4",
+      "strength": 1.0
+    },
+    {
+      "source": "seed_c94118e2",
+      "target": "emergence_4",
+      "strength": 1.0
+    },
+    {
+      "source": "seed_88606b8e",
+      "target": "emergence_4",
+      "strength": 1.0
+    },
+    {
+      "source": "seed_24065e09",
+      "target": "emergence_4",
+      "strength": 1.0
+    }
+  ],
+  "metrics": {
+    "total_emergence": 4,
+    "avg_intensity": 0.9031287479722456,
+    "type_distribution": {
+      "insight": 2,
+      "pattern": 0,
+      "wisdom": 2,
+      "creativity": 0,
+      "integration": 0
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "devices_tested": [
+    {
+      "name": "iPhone SE",
+      "width": 375
+    },
+    {
+      "name": "iPhone 12",
+      "width": 390
+    },
+    {
+      "name": "Pixel 5",
+      "width": 393
+    },
+    {
+      "name": "iPhone 14 Pro",
+      "width": 430
+    }
+  ],
+  "image_sizes": "400px宽度，按比例缩放高度（约533px）",
+  "expected_performance": {
+    "no_horizontal_scroll": true,
+    "images_fit_screen": true,
+    "visual_quality": "良好（WebP质量85%）",
+    "file_size_reduction": "从~2.4MB减少至~600KB（估算）"
+  },
+  "recommendations": [
+    "在实际手机设备上测试最终效果",
+    "考虑为不同屏幕密度提供不同分辨率图片",
+    "确保所有图片alt属性完整，提升可访问性"
+  ]
+}

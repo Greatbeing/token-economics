@@ -1,0 +1,18 @@
+{
+  "node_id": "align_seed_ba99d15e4600",
+  "node_type": "seed",
+  "label": "这个'应该'真的必须吗？",
+  "description": "这个'应该'真的必须吗？",
+  "properties": {
+    "seed_type": "awakening",
+    "bloom_potential": 0.6,
+    "maturity_level": 0.0,
+    "related_concepts": []
+  },
+  "x": 0.0,
+  "y": 0.0,
+  "activation_level": 0.0,
+  "importance": 0.6,
+  "created_at": "2026-04-22T14:30:15.686955",
+  "metadata": {}
+}

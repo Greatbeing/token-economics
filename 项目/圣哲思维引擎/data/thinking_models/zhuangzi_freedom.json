@@ -1,0 +1,224 @@
+{
+  "model_id": "zhuangzi_freedom_001",
+  "version": "1.0",
+  "status": "published",
+  
+  "基本信息": {
+    "sage_name": "庄子",
+    "sage_name_en": "Zhuangzi",
+    "sage_culture": "Chinese",
+    "sage_period": "战国中期（约前369年-前286年）",
+    "sage_icon": "🦋",
+    "model_name": "逍遥思维",
+    "model_name_en": "Carefree Freedom Thinking"
+  },
+  
+  "核心概念": {
+    "primary_concept": "逍遥",
+    "concept_definition": "乘物以游心，顺应自然，获得心灵的自由",
+    "concept_explained": "逍遥是心灵的绝对自由状态，不被外物所累，不被得失所困，达到'天地与我并生，万物与我为一'的境界。核心在于突破人为的局限，与道合一。",
+    "concept_level": ["入门-理解逍遥的含义", "理解-体悟相对性", "运用-放下执念", "化境-心灵逍遥"],
+    "concept_keywords": ["逍遥", "齐物", "无用", "天籁", "真宰", "物化", "蝴蝶梦"]
+  },
+  
+  "思维流程": {
+    "flow_name": "逍遥思维三要",
+    "flow_type": "cycle",
+    "steps": [
+      {
+        "step_id": 1,
+        "step_name": "齐物",
+        "description": "以平等眼光看待万物，取消大小、贵贱、好坏的分别",
+        "question_prompt": "这件事真的像看起来那么重要吗？如果从更大的视角看呢？",
+        "skill_focused": "视角转换",
+        "common_pitfall": "陷入二元对立的思维",
+        "tip": "从'道'的视角看，万物皆平等"
+      },
+      {
+        "step_id": 2,
+        "step_name": "无用",
+        "description": "跳出功利的框架，不为'有用'所累",
+        "question_prompt": "抛开'有用'的标准，这件事本身有什么价值？",
+        "skill_focused": "价值重估",
+        "common_pitfall": "认为'无用'就是躺平",
+        "tip": "'无用'不是没有价值，而是超越功利的价值"
+      },
+      {
+        "step_id": 3,
+        "step_name": "游心",
+        "description": "让心灵自由翱翔，不被束缚",
+        "question_prompt": "抛开一切限制，我真正想要的是什么？我的心在何处？",
+        "skill_focused": "心灵自由",
+        "common_pitfall": "身体不自由，心也不自由",
+        "tip": "心是可以超越现实限制的"
+      }
+    ],
+    "flow_summary": "齐物 → 无用 → 游心（循环提升）"
+  },
+  
+  "可复刻技能": [
+    {
+      "skill_name": "视角转换",
+      "skill_description": "从不同角度、不同尺度看待问题的能力",
+      "difficulty": 3,
+      "practice_focus": "大小转换",
+      "skill_level_desc": {
+        "L1": "知道可以从不同角度看问题",
+        "L2": "能主动转换视角",
+        "L3": "能快速找到新视角",
+        "L4": "能灵活运用多视角"
+      }
+    },
+    {
+      "skill_name": "执念放下",
+      "skill_description": "放下对某些事物的执着",
+      "difficulty": 4,
+      "practice_focus": "得失释怀",
+      "skill_level_desc": {
+        "L1": "能识别自己的执念",
+        "L2": "理解执念的危害",
+        "L3": "能主动放下部分执念",
+        "L4": "能对重大得失释怀"
+      }
+    },
+    {
+      "skill_name": "心灵自由",
+      "skill_description": "让心灵超越现实限制的能力",
+      "difficulty": 5,
+      "practice_focus": "精神翱翔",
+      "skill_level_desc": {
+        "L1": "理解心灵自由的概念",
+        "L2": "能在小事上体验自由",
+        "L3": "能在困境中保持心灵自由",
+        "L4": "达到常驻的自由状态"
+      }
+    }
+  ],
+  
+  "适用场景": [
+    {
+      "scene_type": "得失困扰",
+      "scene_description": "被成功失败、得失荣辱困扰时",
+      "application_hint": "从'道'的视角看，得失都是自然的，不必执着"
+    },
+    {
+      "scene_type": "人际比较",
+      "scene_description": "与他人比较感到焦虑时",
+      "application_hint": "每个人都是独特的'这一人'，比较没有意义"
+    },
+    {
+      "scene_type": "意义迷茫",
+      "scene_description": "觉得一切都没有意义时",
+      "application_hint": "'有用'之外有无用的美，超越功利寻找意义"
+    },
+    {
+      "scene_type": "压力山大",
+      "scene_description": "被各种责任压力压得喘不过气时",
+      "application_hint": "让心休息，暂时放下，'无用'也是力量"
+    }
+  ],
+  
+  "经典语录": [
+    {
+      "quote": "天地与我并生，而万物与我为一",
+      "source": "《庄子·齐物论》",
+      "interpretation": "天地万物与我共同存在，融为一体。这是逍遥的精神境界。"
+    },
+    {
+      "quote": "知其不可奈何而安之若命",
+      "source": "《庄子·人间世》",
+      "interpretation": "知道有些事无可奈何，就安心接受把它当作命运安排。"
+    },
+    {
+      "quote": "无用之用，方为大用",
+      "source": "《庄子·人间世》",
+      "interpretation": "看似无用的东西，往往有最大的用处。超越功利思维。"
+    },
+    {
+      "quote": "蝴蝶梦",
+      "source": "《庄子·齐物论》",
+      "interpretation": "庄周梦蝶，不知周之梦为蝴蝶与？不知蝴蝶之梦为周与？物我界限消融。"
+    }
+  ],
+  
+  "练习题模板": [
+    {
+      "template_id": "zhuangzi_freedom_001_p1",
+      "template_name": "齐物练习",
+      "template_type": "perspective",
+      "difficulty": 3,
+      "estimated_time": "10分钟",
+      "prompt": "面对让你烦恼的事情，尝试'齐物'思维：\n\n【烦恼】{problem}\n\n思考：\n1. 如果从10年后看，这件事还重要吗？\n2. 如果从全人类的角度看，这件事意味着什么？\n3. 如果没有'好与坏'的标签，这件事本身是什么？"
+    },
+    {
+      "template_id": "zhuangzi_freedom_001_p2",
+      "template_name": "无用之用",
+      "template_type": "reflection",
+      "difficulty": 3,
+      "estimated_time": "15分钟",
+      "prompt": "找一个你一直想做但觉得'没用'的事：\n\n【事项】{activity}\n\n思考：\n1. 抛开功利，这件事本身让你快乐吗？\n2. 所谓的'有用'标准是谁定的？\n3. 如果不再问'有什么用'，你会如何？"
+    },
+    {
+      "template_id": "zhuangzi_freedom_001_p3",
+      "template_name": "心灵翱翔",
+      "template_type": "meditation",
+      "difficulty": 4,
+      "estimated_time": "10分钟",
+      "prompt": "找一个安静的角落，完成这个思维练习：\n\n1. 放下你所有的身份：学生、孩子、某人的朋友...\n2. 放下所有的责任：学习、作业、任务...\n3. 放下所有的担忧：未来、过去、他人看法...\n4. 问自己：'我的心想去哪里？'\n\n【记录】你的心想去哪里？感受到了什么？"
+    }
+  ],
+  
+  "种子信息": {
+    "seed_type": "wisdom",
+    "primary_seeds": ["齐物种子", "无用种子", "游心种子", "物化种子"],
+    "seed_weights": {
+      "perception": 0.30,
+      "reasoning": 0.40,
+      "decision": 0.30
+    },
+    "purity_baseline": 0.80,
+    "growth_potential": "high",
+    "related_seeds": ["老子道法种子", "佛陀空性种子"]
+  },
+  
+  "与其他模型的关系": {
+    "prerequisites": ["laozi_wuwei_001"],
+    "complements": [
+      {
+        "model_id": "laozi_wuwei_001",
+        "relation": "继承发展",
+        "description": "庄子继承老子道家思想，发展出更自由逍遥的风格"
+      }
+    ],
+    "contrasts": [
+      {
+        "model_id": "confucius_ren_001",
+        "relation": "互补",
+        "description": "儒家强调积极入世有所作为，道家强调超然物外获得自由；都需要平衡"
+      },
+      {
+        "model_id": "aristotle_logic_001",
+        "relation": "东方西方",
+        "description": "亚里士多德强调分类定义，庄子强调齐物消融；一个是分析思维，一个是整体思维"
+      }
+    ]
+  },
+  
+  "评估维度": {
+    "dimensions": [
+      {"name": "齐物境界", "weight": 0.35, "description": "突破分别心的程度"},
+      {"name": "无用智慧", "weight": 0.30, "description": "超越功利思维的程度"},
+      {"name": "游心程度", "weight": 0.35, "description": "心灵自由的体验"}
+    ],
+    "excellent_threshold": 0.75,
+    "good_threshold": 0.60,
+    "average_threshold": 0.45
+  },
+  
+  "视觉设计": {
+    "primary_color": "#9B59B6",
+    "secondary_color": "#D7BDE2",
+    "icon": "🦋",
+    "symbol": "逍遥"
+  }
+}

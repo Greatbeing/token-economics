@@ -1,0 +1,75 @@
+{
+  "seed_id": "align_seed_07693d2bf78a",
+  "seed_type": "awakening",
+  "content": "这个'应该'真的必须吗？",
+  "description": "这个'应该'真的必须吗？",
+  "current_pattern": "",
+  "transcendence_direction": "",
+  "new_possibility": "",
+  "action_seed": "",
+  "surface_meaning": "这个'应该'真的必须吗？",
+  "middle_meaning": "未说出的深层问题",
+  "deep_meaning": "",
+  "essential_insight": "这个'应该'真的必须吗？",
+  "activity_level": 0.5,
+  "maturity_level": 0.7500000000000001,
+  "bloom_potential": 0.7250000000000001,
+  "connection_count": 0,
+  "emergence_count": 5,
+  "related_seed_ids": [],
+  "synergy_potential": [],
+  "activation_triggers": [
+    "反思时刻",
+    "深层对话"
+  ],
+  "related_concepts": [],
+  "value_tags": [],
+  "source_type": "dc650fa7-c14c-4ca4-a980-412292404998",
+  "source_id": "861bfc0e-e8bd-487f-bbbc-6d659cfc0980",
+  "created_at": "2026-04-22T14:28:44.790711",
+  "last_activated": "2026-04-22T14:30:15.734986",
+  "bloom_history": [
+    {
+      "timestamp": "2026-04-22T14:28:44.902767",
+      "result": {
+        "emergence_id": "emerge_20260422142844",
+        "emergence_type": "fusion",
+        "confidence": 60
+      }
+    },
+    {
+      "timestamp": "2026-04-22T14:28:53.075903",
+      "result": {
+        "emergence_id": "emerge_20260422142853",
+        "emergence_type": "fusion",
+        "confidence": 60
+      }
+    },
+    {
+      "timestamp": "2026-04-22T14:29:11.045417",
+      "result": {
+        "emergence_id": "emerge_20260422142911",
+        "emergence_type": "fusion",
+        "confidence": 60
+      }
+    },
+    {
+      "timestamp": "2026-04-22T14:29:49.046345",
+      "result": {
+        "emergence_id": "emerge_20260422142949",
+        "emergence_type": "fusion",
+        "confidence": 60
+      }
+    },
+    {
+      "timestamp": "2026-04-22T14:30:15.734981",
+      "result": {
+        "emergence_id": "emerge_20260422143015",
+        "emergence_type": "fusion",
+        "confidence": 60
+      }
+    }
+  ],
+  "confidence": 0.5,
+  "metadata": {}
+}

@@ -1,0 +1,224 @@
+{
+  "model_id": "laozi_wuwei_001",
+  "version": "1.0",
+  "status": "published",
+  
+  "基本信息": {
+    "sage_name": "老子",
+    "sage_name_en": "Laozi",
+    "sage_culture": "Chinese",
+    "sage_period": "春秋末期（约前571年-前471年）",
+    "sage_icon": "☯️",
+    "model_name": "道法思维",
+    "model_name_en": "Dao Way Thinking"
+  },
+  
+  "核心概念": {
+    "primary_concept": "道",
+    "concept_definition": "道法自然，无为而无不为",
+    "concept_explained": "道是宇宙万物的根本规律，顺应道就是顺应自然规律做事。'无为'不是什么都不做，而是不违背自然规律地做事，看似无为实则无所不成。",
+    "concept_level": ["入门-理解道的概念", "理解-体悟自然之理", "运用-顺应规律行事", "化境-与道合一"],
+    "concept_keywords": ["道", "自然", "无为", "柔弱", "不争", "虚静", "返璞"]
+  },
+  
+  "思维流程": {
+    "flow_name": "道法思维三步法",
+    "flow_type": "linear",
+    "steps": [
+      {
+        "step_id": 1,
+        "step_name": "观道",
+        "description": "观察事物本来的样子和规律",
+        "question_prompt": "这件事物的本来面目是什么？它的自然规律是什么？",
+        "skill_focused": "本质观察",
+        "common_pitfall": "被表象迷惑，加入过多主观判断",
+        "tip": "像镜子一样如实反映，不增不减"
+      },
+      {
+        "step_id": 2,
+        "step_name": "顺势",
+        "description": "顺应规律，找到事半功倍的方向",
+        "question_prompt": "顺着这个规律，应该往哪个方向走？什么力量在推动？",
+        "skill_focused": "趋势把握",
+        "common_pitfall": "强行干预，违背规律",
+        "tip": "站在风口上，猪也能飞——关键是看清风势"
+      },
+      {
+        "step_id": 3,
+        "step_name": "无为",
+        "description": "不妄为，不过度干预，让事物自然发展",
+        "question_prompt": "我需要做什么？我不需要做什么？哪些是画蛇添足？",
+        "skill_focused": "节制判断",
+        "common_pitfall": "把'无为'当借口什么都不做",
+        "tip": "'无为'是不做违背规律的事，不是不做事"
+      }
+    ],
+    "flow_summary": "观道 → 顺势 → 无为"
+  },
+  
+  "可复刻技能": [
+    {
+      "skill_name": "本质观察",
+      "skill_description": "穿透表象看到事物本来面目的能力",
+      "difficulty": 3,
+      "practice_focus": "去伪存真",
+      "skill_level_desc": {
+        "L1": "能区分表象和本质",
+        "L2": "能抓住关键特征",
+        "L3": "能一眼看穿本质",
+        "L4": "能不受表象影响"
+      }
+    },
+    {
+      "skill_name": "趋势把握",
+      "skill_description": "识别和顺应事物发展方向的能力",
+      "difficulty": 4,
+      "practice_focus": "顺势而为",
+      "skill_level_desc": {
+        "L1": "能识别明显趋势",
+        "L2": "能分析趋势原因",
+        "L3": "能预判趋势发展",
+        "L4": "能利用趋势"
+      }
+    },
+    {
+      "skill_name": "柔弱胜刚强",
+      "skill_description": "以柔克刚、以退为进的思维",
+      "difficulty": 4,
+      "practice_focus": "以退为进",
+      "skill_level_desc": {
+        "L1": "理解柔弱的概念",
+        "L2": "能在简单情境运用",
+        "L3": "能在复杂情境灵活运用",
+        "L4": "形成柔顺的思维方式"
+      }
+    }
+  ],
+  
+  "适用场景": [
+    {
+      "scene_type": "困境应对",
+      "scene_description": "面对困难或强敌时",
+      "application_hint": "不硬碰硬，寻找薄弱环节，以柔克刚"
+    },
+    {
+      "scene_type": "变革管理",
+      "scene_description": "需要推动改变时",
+      "application_hint": "顺应人心所向，不强行改变自然进程"
+    },
+    {
+      "scene_type": "竞争策略",
+      "scene_description": "处于竞争或对立中时",
+      "application_hint": "不争一时之锋芒，退一步海阔天空"
+    },
+    {
+      "scene_type": "自我调适",
+      "scene_description": "内心焦虑、过于用力时",
+      "application_hint": "放下执念，顺其自然，让事情自然展开"
+    }
+  ],
+  
+  "经典语录": [
+    {
+      "quote": "道可道，非常道",
+      "source": "《道德经》第一章",
+      "interpretation": "可以用语言说出来的'道'，就不是永恒不变的'道'。道是超越语言的。"
+    },
+    {
+      "quote": "上善若水",
+      "source": "《道德经》第八章",
+      "interpretation": "最高的善就像水一样，水善利万物而不争。"
+    },
+    {
+      "quote": "无为而无不为",
+      "source": "《道德经》第三十七章",
+      "interpretation": "顺应自然不妄为，反而没有什么事做不成。"
+    },
+    {
+      "quote": "知人者智，自知者明",
+      "source": "《道德经》第三十三章",
+      "interpretation": "了解他人是智慧，了解自己才是真正的明智。"
+    }
+  ],
+  
+  "练习题模板": [
+    {
+      "template_id": "laozi_wuwei_001_p1",
+      "template_name": "观道练习",
+      "template_type": "analysis",
+      "difficulty": 2,
+      "estimated_time": "10分钟",
+      "prompt": "选择一个你当前面临的问题，运用'观道'思维：\n\n【问题】{problem}\n\n请分析：\n1. 这个问题的'本来面目'是什么？\n2. 哪些是真实存在的？哪些是我附加的？\n3. 它的自然发展规律是什么？"
+    },
+    {
+      "template_id": "laozi_wuwei_001_p2",
+      "template_name": "顺势思考",
+      "template_type": "strategy",
+      "difficulty": 3,
+      "estimated_time": "15分钟",
+      "prompt": "面对以下情境，用道法思维分析：\n\n【情境】{scenario}\n\n请思考：\n1. 哪些力量在推动事情发展？\n2. 顺应这些力量，应该往哪个方向？\n3. 我可以'借势'什么？"
+    },
+    {
+      "template_id": "laozi_wuwei_001_p3",
+      "template_name": "无为反思",
+      "template_type": "reflection",
+      "difficulty": 3,
+      "estimated_time": "10分钟",
+      "prompt": "反思你最近的一次'过度用力'：\n\n【情境】{scenario}\n\n思考：\n1. 哪些是我'妄为'的部分？\n2. 如果放下这些，结果会怎样？\n3. 未来如何做到'不妄为'？"
+    }
+  ],
+  
+  "种子信息": {
+    "seed_type": "wisdom",
+    "primary_seeds": ["观道种子", "顺势种子", "柔弱种子", "虚静种子"],
+    "seed_weights": {
+      "perception": 0.40,
+      "reasoning": 0.35,
+      "decision": 0.25
+    },
+    "purity_baseline": 0.85,
+    "growth_potential": "high",
+    "related_seeds": ["庄子逍遥种子", "佛陀空性种子"]
+  },
+  
+  "与其他模型的关系": {
+    "prerequisites": [],
+    "complements": [
+      {
+        "model_id": "zhuangzi_freedom_001",
+        "relation": "道家一脉",
+        "description": "庄子继承并发展了老子的道家思想"
+      }
+    ],
+    "contrasts": [
+      {
+        "model_id": "confucius_ren_001",
+        "relation": "互补",
+        "description": "儒家强调积极入世，道家强调顺其自然；入世者需要出世智慧补充"
+      },
+      {
+        "model_id": "socrates_maieutic_001",
+        "relation": "东西对话",
+        "description": "苏格拉底的'自知其无知'与老子的'自知者明'有异曲同工之妙"
+      }
+    ]
+  },
+  
+  "评估维度": {
+    "dimensions": [
+      {"name": "观道深度", "weight": 0.35, "description": "对本质规律的把握程度"},
+      {"name": "顺势程度", "weight": 0.35, "description": "对趋势的把握和利用"},
+      {"name": "无为分寸", "weight": 0.30, "description": "不妄为的把握"}
+    ],
+    "excellent_threshold": 0.80,
+    "good_threshold": 0.65,
+    "average_threshold": 0.50
+  },
+  
+  "视觉设计": {
+    "primary_color": "#27AE60",
+    "secondary_color": "#A9DFBF",
+    "icon": "☯️",
+    "symbol": "道"
+  }
+}
